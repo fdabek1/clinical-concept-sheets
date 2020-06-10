@@ -13,6 +13,7 @@
       ></b-form-tags>
 
       <b-table striped hover :fields="fields" :items="mappings" class="text-center"
+               sticky-header
                :filter="filters" :filter-function="filterRow">
 
         <template v-slot:cell(Tags)="row">
@@ -27,7 +28,7 @@
 
       </b-table>
 
-      <b-modal ref="mappingInfo" ok-only title="Loading..." size="lg" @hide="resetSelected">
+      <b-modal ref="mappingInfo" ok-only title="Loading..." size="lg" scrollable @hide="resetSelected">
         <template slot="modal-title" v-if="selected.item !== null">
           {{ selected.item['Title'] }}
         </template>
@@ -113,10 +114,11 @@
       },
       loadSelectedData() {
         let component = this;
-        const filename = this.selected['Title'] + '.v' + this.selected['CurrentVersion'] + '.csv';
-        Papa.parse('https://cdn.jsdelivr.net/gh/fdabek1/ehr-code-mappings/mappings/' + filename, {
+        const filename = this.selected.item['ID'] + '.v' + this.selected.item['CurrentVersion'] + '.csv';
+        Papa.parse('https://cdn.jsdelivr.net/gh/fdabek1/ehr-code-mappings/ehr_code_mappings/mappings/' + filename, {
           download: true,
           header: true,
+          preview: 500,
           skipEmptyLines: true,
           complete: function (results) {
             component.selected.data = results.data;
@@ -126,7 +128,7 @@
     },
     mounted() {
       let component = this;
-      Papa.parse('https://cdn.jsdelivr.net/gh/fdabek1/ehr-code-mappings/mappings.csv', {
+      Papa.parse('https://cdn.jsdelivr.net/gh/fdabek1/ehr-code-mappings/ehr_code_mappings/data/mappings_cdn.csv', {
         download: true,
         header: true,
         skipEmptyLines: true,
@@ -135,7 +137,7 @@
             row['Tags'] = row['Tags'].split(',');
             return row;
           });
-          component.mappings = results.data.slice(0, 500);
+          component.mappings = results.data;
         }
       });
     },
