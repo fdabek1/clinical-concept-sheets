@@ -1,0 +1,3 @@
+﻿ID,Author,Author Email,Title,Description,Tags,CurrentVersion
+ccs_icd9,CCS,,CCS ICD9,,"icd10,ccs",1
+ccs_icd10,CCS,,CCS ICD10,,"icd9,ccs",1

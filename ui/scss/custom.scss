@@ -1,0 +1,27 @@
+$theme-colors: (
+        "nicoe-gray": rgb(29, 37, 45),
+        "nicoe-blue": rgb(0, 38, 76),
+        "nicoe-light-blue": rgb(47, 102, 144),
+        "nicoe-red": rgb(166, 25, 46),
+        "nicoe-green": rgb(62, 136, 91)
+  /* colors in HEX
+    "nicoe-gray": #1d252d,
+    "nicoe-blue": #00264C,
+    "nicoe-light-blue": #2F6690,
+    "nicoe-red": #a6192e,
+    "nicoe-green": #3E885B*/
+);
+
+$pagination-active-bg: rgb(47, 102, 144);
+$pagination-color: rgb(47, 102, 144);
+
+.btn-group-xs > .btn, .btn-xs {
+  padding: .25rem .4rem !important;
+  font-size: .875rem !important;
+  line-height: .5 !important;
+  border-radius: .2rem !important;
+}
+
+// Bootstrap and its default variables
+@import "~bootstrap/scss/bootstrap";
+@import 'bootstrap-vue/src/index.scss';
