@@ -117,6 +117,11 @@
           skipEmptyLines: true,
           complete: function (results) {
             component.codes = results.data;
+            if (this.hasClassification)
+              component.filters.classifications = component.allClassifications.map(item => item.title);
+
+            if (this.hasType)
+              component.filters.types = component.allTypes.map(item => item.title);
           }
         });
       },
