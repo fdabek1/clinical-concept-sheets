@@ -11,10 +11,10 @@
 
       <b-row class="mt-2">
         <b-col cols="4" v-if="hasClassification">
-          <FilterBox title="Types" :values="allTypes" v-model="filters.concepts"/>
+          <FilterBox title="Types" :values="allTypes" v-model="filters.classifications"/>
         </b-col>
         <b-col cols="4" v-if="hasType">
-          <FilterBox title="Classifications" :values="allClassifications" v-model="filters.tags"/>
+          <FilterBox title="Classifications" :values="allClassifications" v-model="filters.types"/>
         </b-col>
       </b-row>
 
@@ -24,7 +24,15 @@
       <div class="d-flex justify-content-end">
         <span class="text-muted small">{{ codes.length.toLocaleString() }} codes</span>
       </div>
-      <b-table :fields="fields" :items="codes" class="text-center" :filter="filters" :filter-function="filterRow">
+      <b-pagination
+        v-model="pagination.current"
+        :total-rows="numRows"
+        :per-page="pagination.perPage"
+      ></b-pagination>
+      <b-table :fields="fields" :items="codes" class="text-center" :filter="filters" :filter-function="filterRow"
+               :per-page="pagination.perPage"
+               :current-page="pagination.current"
+      >
       </b-table>
     </div>
   </b-modal>
@@ -39,6 +47,9 @@
     components: {FilterBox},
     props: ['id'],
     computed: {
+      numRows() {
+        return this.codes.length;
+      },
       hasClassification() {
         if (this.codes === null)
           return false;
@@ -74,21 +85,31 @@
         return fields;
       },
       allTypes() {
-        return [...new Set(this.codes.map(item => item['Type']))];
+        const types = [...new Set(this.codes.map(item => item['Type']))];
+        return types.map(t => ({
+          title: t,
+          count: this.codes.filter(item => item['Type'] === t).length,
+        }));
       },
       allClassifications() {
-        return [...new Set(this.codes.map(item => item['Classification']))];
+        const classifications = [...new Set(this.codes.map(item => item['Classification']))];
+        return classifications.map(c => ({
+          title: c,
+          count: this.codes.filter(item => item['Classification'] === c).length,
+        }));
       },
     },
     data() {
       return {
+        pagination: {
+          current: 1,
+          perPage: 15,
+        },
         codes: null,
-        options: ['Apple', 'Orange', 'Banana', 'Lime', 'Peach', 'Chocolate', 'Strawberry'],
-        value: [],
         filters: {
           search: null,
-          types: null,
-          classifications: null,
+          types: [],
+          classifications: [],
         },
       }
     },
@@ -117,10 +138,10 @@
           skipEmptyLines: true,
           complete: function (results) {
             component.codes = results.data;
-            if (this.hasClassification)
+            if (component.hasClassification)
               component.filters.classifications = component.allClassifications.map(item => item.title);
 
-            if (this.hasType)
+            if (component.hasType)
               component.filters.types = component.allTypes.map(item => item.title);
           }
         });
