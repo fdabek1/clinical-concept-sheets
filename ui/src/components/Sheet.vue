@@ -2,6 +2,8 @@
   <b-modal title="Sheet" id="sheet-details" size="xl" :ok-only="true" ok-title="Close" ok-variant="secondary"
            @shown="loadCodes">
     <div v-if="codes !== null">
+      <p><strong>POC:</strong> {{ details['Author'] }}</p>
+      <p><strong>Description:</strong> {{ details['Description'] }}</p>
       <b-form-input
         type="search"
         v-model="filters.search"
@@ -19,16 +21,21 @@
       </b-row>
 
       <div class="d-flex justify-content-end mb-2">
-        <b-btn variant="nicoe-light-blue" size="sm">Download</b-btn>
       </div>
-      <div class="d-flex justify-content-end">
-        <span class="text-muted small">{{ codes.length.toLocaleString() }} codes</span>
+      <div class="d-flex justify-content-between align-items-end">
+        <b-pagination
+          v-model="pagination.current"
+          :total-rows="numRows"
+          :per-page="pagination.perPage"
+        ></b-pagination>
+        <div class="pb-2">
+          <b-btn variant="nicoe-green" size="xs" class="mr-2" :href="'sheets/' + id + '.csv'" target="_blank">
+            Download
+          </b-btn>
+          <span class="text-muted small">{{ codes.length.toLocaleString() }} codes</span>
+        </div>
       </div>
-      <b-pagination
-        v-model="pagination.current"
-        :total-rows="numRows"
-        :per-page="pagination.perPage"
-      ></b-pagination>
+
       <b-table :fields="fields" :items="codes" class="text-center" :filter="filters" :filter-function="filterRow"
                :per-page="pagination.perPage"
                :current-page="pagination.current"
@@ -45,7 +52,7 @@
   export default {
     name: "Sheet",
     components: {FilterBox},
-    props: ['id'],
+    props: ['id', 'details'],
     computed: {
       numRows() {
         return this.codes.length;

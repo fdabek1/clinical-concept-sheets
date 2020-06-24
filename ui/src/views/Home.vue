@@ -42,7 +42,7 @@
 
       </b-table>
     </div>
-    <Sheet ref="modal" :id="selected"/>
+    <Sheet ref="modal" :id="selected === null ? null : selected['ID']" :details="selected"/>
   </div>
 </template>
 
@@ -133,7 +133,7 @@
         return true;
       },
       openDetails(id) {
-        this.selected = id;
+        this.selected = this.sheets.find(sheet => sheet['ID'] === id);
         this.$root.$emit('bv::show::modal', 'sheet-details');
       },
     },

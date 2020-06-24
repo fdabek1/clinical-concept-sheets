@@ -11,8 +11,8 @@
               <li class="nav-item">
                 <router-link to="/" class="nav-link text-white h6">Home</router-link>
                 <router-link to="/usage" class="nav-link text-white h6">Usage</router-link>
-                <router-link to="/mappings" class="nav-link text-white h6">Mappings</router-link>
-                <router-link to="/submit" class="nav-link text-white h6">Submit a Mapping</router-link>
+                <!--<router-link to="/mappings" class="nav-link text-white h6" :disabled="true">Mappings</router-link>-->
+                <!--<router-link to="/submit" class="nav-link text-white h6">Submit a Mapping</router-link>-->
               </li>
             </ul>
 
