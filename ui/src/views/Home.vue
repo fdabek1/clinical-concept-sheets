@@ -32,6 +32,10 @@
           <b-badge v-for="tag in data.value" class="mr-2">{{ tag }}</b-badge>
         </template>
 
+        <template v-slot:cell(LastModified)="data">
+          {{ new Date(data.value).toLocaleDateString() }}
+        </template>
+
         <template v-slot:cell(Go)="data">
           <b-btn size="sm" variant="nicoe-light-blue" @click="openDetails(data.item['ID'])">View Details</b-btn>
         </template>
@@ -75,11 +79,17 @@
         selected: null,
         fields: [
           'Concept',
-          'Author',
           'Description',
           'Tags',
+          {
+            key: 'Author',
+            title: 'POC'
+          },
           'Version',
-          'Last Modified Date',
+          {
+            key: 'LastModified',
+            title: 'Last Modified'
+          },
           'Go'
         ],
         filters: {
