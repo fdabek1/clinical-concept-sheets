@@ -13,6 +13,12 @@
       </li>
     </ul>
 
+
+    <p>To install:</p>
+    <vue-code-highlight>
+      pip install ehr-code-mappings
+    </vue-code-highlight>
+
     <h4 class="my-4">Examples</h4>
 
     <vue-code-highlight>

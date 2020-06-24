@@ -5,7 +5,7 @@
         <nav class="col-md-2 d-none d-md-block bg-nicoe-blue sidebar">
           <div class="sticky-top">
             <div class="text-center py-1">
-              <h3 class="text-white">EHR Code Mappings</h3>
+              <h3 class="text-white">Clinical Concept Repository</h3>
             </div>
             <ul class="nav flex-column">
               <li class="nav-item">
