@@ -1,0 +1,895 @@
+Classification,Code,Type,Description
+,36060,,"Foreign body, intraocular, unspecified"
+,36100,,"Retinal detachment with retinal defect, unspecified"
+,36110,,"Retinoschisis, unspecified"
+,36130,,"Retinal defect, unspecified"
+,36131,,Round hole of retina without detachment
+,36132,,Horseshoe tear of retina without detachment
+,3619,,Unspecified retinal detachment
+,36211,,Hypertensive retinopathy
+,36213,,Changes in vascular appearance of retina
+,36216,,Retinal neovascularization NOS
+,36217,,Other intraretinal microvascular abnormalities
+,36241,,Central serous retinopathy
+,36242,,Serous detachment of retinal pigment epithelium
+,36250,,"Macular degeneration (senile), unspecified"
+,36251,,Nonexudative senile macular degeneration
+,36253,,Cystoid macular degeneration
+,36254,,"Macular cyst, hole, or pseudohole"
+,36256,,Macular puckering
+,36257,,Drusen (degenerative)
+,36260,,"Peripheral retinal degeneration, unspecified"
+,36263,,Lattice degeneration
+,36281,,Retinal hemorrhage
+,36282,,Retinal exudates and deposits
+,36285,,Retinal nerve fiber bundle defects
+,36289,,Other retinal disorders
+,3629,,Unspecified retinal disorder
+,36320,,"Chorioretinitis, unspecified"
+,36330,,"Chorioretinal scar, unspecified"
+,36332,,Other macular scars
+,36334,,Peripheral scars
+,36400,,"Acute and subacute iridocyclitis, unspecified"
+,36410,,"Chronic iridocyclitis, unspecified"
+,36441,,Hyphema of iris and ciliary body
+,36451,,Essential or progressive iris atrophy
+,36453,,Pigmentary iris degeneration
+,36475,,Pupillary abnormalities
+,36476,,Iridodialysis
+,36500,,"Preglaucoma, unspecified"
+,36501,,"Open angle with borderline findings, low risk"
+,36504,,Ocular hypertension
+,36505,,"Open angle with borderline findings, high risk"
+,36531,,"Corticosteroid-induced glaucoma, glaucomatous stage"
+,3659,,Unspecified glaucoma
+,36602,,Posterior subcapsular polar cataract
+,36604,,Nuclear cataract
+,36612,,Incipient senile cataract
+,36616,,Senile nuclear sclerosis
+,36620,,"Traumatic cataract, unspecified"
+,3669,,Unspecified cataract
+,3670,,Hypermetropia
+,3671,,Myopia
+,36720,,"Astigmatism, unspecified"
+,36721,,Regular astigmatism
+,36722,,Irregular astigmatism
+,36731,,Anisometropia
+,3674,,Presbyopia
+,36751,,Paresis of accommodation
+,36753,,Spasm of accommodation
+,36789,,Other disorders of refraction and accommodation
+,3679,,Unspecified disorder of refraction and accommodation
+,36801,,Strabismic amblyopia
+,36803,,Refractive amblyopia
+,36810,,"Subjective visual disturbance, unspecified"
+,36811,,Sudden visual loss
+,36812,,Transient visual loss
+,36814,,Visual distortions of shape and size
+,36815,,Other visual distortions and entoptic phenomena
+,36816,,Psychophysical visual disturbances
+,3682,,Diplopia
+,36830,,"Binocular vision disorder, unspecified"
+,36831,,Suppression of binocular vision
+,36833,,Fusion with defective stereopsis
+,36840,,"Visual field defect, unspecified"
+,36842,,Scotoma of blind spot area
+,36843,,Sector or arcuate visual field defects
+,36844,,Other localized visual field defect
+,36845,,Generalized visual field contraction or constriction
+,36846,,Homonymous bilateral field defects
+,36847,,Heteronymous bilateral field defects
+,36859,,Other color vision deficiencies
+,3688,,Other specified visual disturbances
+,3689,,Unspecified visual disturbance
+,36900,,"Profound impairment, both eyes, impairment level not further specified"
+,3693,,"Unqualified visual loss, both eyes"
+,36962,,One eye: total vision impairment; other eye: near-normal vision
+,36976,,One eye: moderate vision impairment; other eye: normal vision
+,3698,,"Unqualified visual loss, one eye"
+,3699,,Unspecified visual loss
+,37000,,"Corneal ulcer, unspecified"
+,37003,,Central corneal ulcer
+,37020,,"Superficial keratitis, unspecified"
+,37021,,Punctate keratitis
+,37034,,Exposure keratoconjunctivitis
+,37060,,"Corneal neovascularization, unspecified"
+,3709,,Unspecified keratitis
+,37100,,"Corneal opacity, unspecified"
+,37102,,Peripheral opacity of cornea
+,37120,,"Corneal edema, unspecified"
+,37141,,Senile corneal changes
+,37142,,Recurrent erosion of cornea
+,37157,,Endothelial corneal dystrophy
+,37160,,"Keratoconus, unspecified"
+,37189,,Other corneal disorders
+,37200,,"Acute conjunctivitis, unspecified"
+,37203,,Other mucopurulent conjunctivitis
+,37205,,Acute atopic conjunctivitis
+,37206,,Acute chemical conjunctivitis
+,37210,,"Chronic conjunctivitis, unspecified"
+,37214,,Other chronic allergic conjunctivitis
+,37230,,"Conjunctivitis, unspecified"
+,37240,,"Pterygium, unspecified"
+,37251,,Pinguecula
+,37262,,Localized adhesions and strands of conjunctiva
+,37272,,Conjunctival hemorrhage
+,37273,,Conjunctival edema
+,3729,,Unspecified disorder of conjunctiva
+,37300,,"Blepharitis, unspecified"
+,37311,,Hordeolum externum
+,37312,,Hordeolum internum
+,3732,,Chalazion
+,37332,,Contact and allergic dermatitis of eyelid
+,3739,,Unspecified inflammation of eyelid
+,37410,,"Ectropion, unspecified"
+,37420,,"Lagophthalmos, unspecified"
+,37430,,"Ptosis of eyelid, unspecified"
+,37433,,Mechanical ptosis
+,37441,,Lid retraction or lag
+,37484,,Cysts of eyelids
+,37486,,Retained foreign body of eyelid
+,37487,,Dermatochalasis
+,37515,,"Tear film insufficiency, unspecified"
+,37520,,"Epiphora, unspecified as to cause"
+,37522,,Epiphora due to insufficient drainage
+,3766,,Retained (old) foreign body following penetrating wound of orbit
+,37689,,Other orbital disorders
+,37710,,"Optic atrophy, unspecified"
+,37714,,Glaucomatous atrophy [cupping] of optic disc
+,37715,,Partial optic atrophy
+,37721,,Drusen of optic disc
+,37730,,"Optic neuritis, unspecified"
+,37741,,Ischemic optic neuropathy
+,37749,,Other disorders of optic nerve
+,37763,,Disorders of other visual pathways associated with inflammatory disorders
+,3779,,Unspecified disorder of optic nerve and visual pathways
+,37800,,"Esotropia, unspecified"
+,37801,,Monocular esotropia
+,37805,,Alternating esotropia
+,37810,,"Exotropia, unspecified"
+,37813,,Monocular exotropia with V pattern
+,37815,,Alternating exotropia
+,37821,,"Intermittent esotropia, monocular"
+,37822,,"Intermittent esotropia, alternating"
+,37823,,"Intermittent exotropia, monocular"
+,37824,,"Intermittent exotropia, alternating"
+,37831,,Hypertropia
+,37832,,Hypotropia
+,37840,,"Heterophoria, unspecified"
+,37841,,Esophoria
+,37842,,Exophoria
+,37843,,Vertical heterophoria
+,37853,,Fourth or trochlear nerve palsy
+,37854,,Sixth or abducens nerve palsy
+,37883,,Convergence insufficiency or palsy
+,37884,,Convergence excess or spasm
+,37885,,Anomalies of divergence
+,37887,,Other dissociated deviation of eye movements
+,3789,,Unspecified disorder of eye movements
+,37921,,Vitreous degeneration
+,37924,,Other vitreous opacities
+,37929,,Other disorders of vitreous
+,37931,,Aphakia
+,37940,,"Abnormal pupillary function, unspecified"
+,37941,,Anisocoria
+,37943,,"Mydriasis (persistent), not due to mydriatics"
+,37950,,"Nystagmus, unspecified"
+,37957,,Deficiencies of saccadic eye movements
+,37958,,Deficiencies of smooth pursuit movements
+,37959,,Other irregularities of eye movements
+,3798,,Other specified disorders of eye and adnexa
+,37990,,"Disorder of eye, unspecified"
+,37991,,Pain in or around eye
+,37993,,Redness or discharge of eye
+,E083541,,"Diabetes with prolif diabetic rtnop with comb detach, r eye"
+,E083542,,"Diab with prolif diabetic rtnop with comb detach, left eye"
+,E083543,,"Diabetes with prolif diabetic rtnop with combined detach, bi"
+,E083549,,"Diabetes with prolif diabetic rtnop with comb detach, unsp"
+,E093541,,"Drug/chem diab w prolif diab rtnop with comb detach, r eye"
+,E093542,,"Drug/chem diab w prolif diab rtnop with comb detach, l eye"
+,E093543,,"Drug/chem diab with prolif diab rtnop with comb detach, bi"
+,E093549,,"Drug/chem diab with prolif diab rtnop with comb detach, unsp"
+,E103541,,"Type 1 diab with prolif diab rtnop with comb detach, r eye"
+,E103542,,"Type 1 diab with prolif diab rtnop with comb detach, l eye"
+,E103543,,"Type 1 diab with prolif diabetic rtnop with comb detach, bi"
+,E103549,,"Type 1 diab with prolif diab rtnop with comb detach, unsp"
+,E113541,,"Type 2 diab with prolif diab rtnop with comb detach, r eye"
+,E113542,,"Type 2 diab with prolif diab rtnop with comb detach, l eye"
+,E113543,,"Type 2 diab with prolif diabetic rtnop with comb detach, bi"
+,E113549,,"Type 2 diab with prolif diab rtnop with comb detach, unsp"
+,E133541,,"Oth diab with prolif diabetic rtnop with comb detach, r eye"
+,E133542,,"Oth diab with prolif diab rtnop with comb detach, left eye"
+,E133543,,"Oth diabetes with prolif diabetic rtnop with comb detach, bi"
+,E133549,,"Oth diab with prolif diabetic rtnop with comb detach, unsp"
+,H000,,Hordeolum (externum) (internum) of eyelid
+,H00011,,Hordeolum externum right upper eyelid
+,H00012,,Hordeolum externum right lower eyelid
+,H00013,,"Hordeolum externum right eye, unspecified eyelid"
+,H00014,,Hordeolum externum left upper eyelid
+,H00015,,Hordeolum externum left lower eyelid
+,H00016,,"Hordeolum externum left eye, unspecified eyelid"
+,H00019,,"Hordeolum externum unspecified eye, unspecified eyelid"
+,H00021,,Hordeolum internum right upper eyelid
+,H00022,,Hordeolum internum right lower eyelid
+,H00023,,"Hordeolum internum right eye, unspecified eyelid"
+,H00024,,Hordeolum internum left upper eyelid
+,H00025,,Hordeolum internum left lower eyelid
+,H00026,,"Hordeolum internum left eye, unspecified eyelid"
+,H00029,,"Hordeolum internum unspecified eye, unspecified eyelid"
+,H001,,Chalazion
+,H0011,,Chalazion right upper eyelid
+,H0012,,Chalazion right lower eyelid
+,H0013,,"Chalazion right eye, unspecified eyelid"
+,H0014,,Chalazion left upper eyelid
+,H0015,,Chalazion left lower eyelid
+,H0016,,"Chalazion left eye, unspecified eyelid"
+,H0019,,"Chalazion unspecified eye, unspecified eyelid"
+,H010,,Blepharitis
+,H01001,,Unspecified blepharitis right upper eyelid
+,H01002,,Unspecified blepharitis right lower eyelid
+,H01003,,"Unspecified blepharitis right eye, unspecified eyelid"
+,H01004,,Unspecified blepharitis left upper eyelid
+,H01005,,Unspecified blepharitis left lower eyelid
+,H01006,,"Unspecified blepharitis left eye, unspecified eyelid"
+,H01009,,"Unspecified blepharitis unspecified eye, unspecified eyelid"
+,H011,,Noninfectious dermatoses of eyelid
+,H01111,,Allergic dermatitis of right upper eyelid
+,H01112,,Allergic dermatitis of right lower eyelid
+,H01113,,"Allergic dermatitis of right eye, unspecified eyelid"
+,H01114,,Allergic dermatitis of left upper eyelid
+,H01115,,Allergic dermatitis of left lower eyelid
+,H01116,,"Allergic dermatitis of left eye, unspecified eyelid"
+,H01119,,"Allergic dermatitis of unspecified eye, unspecified eyelid"
+,H019,,Unspecified inflammation of eyelid
+,H021,,Ectropion of eyelid
+,H02101,,Unspecified ectropion of right upper eyelid
+,H02102,,Unspecified ectropion of right lower eyelid
+,H02103,,"Unspecified ectropion of right eye, unspecified eyelid"
+,H02104,,Unspecified ectropion of left upper eyelid
+,H02105,,Unspecified ectropion of left lower eyelid
+,H02106,,"Unspecified ectropion of left eye, unspecified eyelid"
+,H02109,,"Unspecified ectropion of unspecified eye, unspecified eyelid"
+,H022,,Lagophthalmos
+,H02201,,Unspecified lagophthalmos right upper eyelid
+,H02202,,Unspecified lagophthalmos right lower eyelid
+,H02203,,"Unspecified lagophthalmos right eye, unspecified eyelid"
+,H02204,,Unspecified lagophthalmos left upper eyelid
+,H02205,,Unspecified lagophthalmos left lower eyelid
+,H02206,,"Unspecified lagophthalmos left eye, unspecified eyelid"
+,H02209,,"Unsp lagophthalmos unspecified eye, unspecified eyelid"
+,H024,,Ptosis of eyelid
+,H02401,,Unspecified ptosis of right eyelid
+,H02402,,Unspecified ptosis of left eyelid
+,H02403,,Unspecified ptosis of bilateral eyelids
+,H02409,,Unspecified ptosis of unspecified eyelid
+,H02411,,Mechanical ptosis of right eyelid
+,H02412,,Mechanical ptosis of left eyelid
+,H02413,,Mechanical ptosis of bilateral eyelids
+,H02419,,Mechanical ptosis of unspecified eyelid
+,H025,,Other disorders affecting eyelid function
+,H02531,,Eyelid retraction right upper eyelid
+,H02532,,Eyelid retraction right lower eyelid
+,H02533,,"Eyelid retraction right eye, unspecified eyelid"
+,H02534,,Eyelid retraction left upper eyelid
+,H02535,,Eyelid retraction left lower eyelid
+,H02536,,"Eyelid retraction left eye, unspecified eyelid"
+,H02539,,"Eyelid retraction unspecified eye, unspecified lid"
+,H028,,Other specified disorders of eyelid
+,H02811,,Retained foreign body in right upper eyelid
+,H02812,,Retained foreign body in right lower eyelid
+,H02813,,"Retained foreign body in right eye, unspecified eyelid"
+,H02814,,Retained foreign body in left upper eyelid
+,H02815,,Retained foreign body in left lower eyelid
+,H02816,,"Retained foreign body in left eye, unspecified eyelid"
+,H02819,,"Retained foreign body in unspecified eye, unspecified eyelid"
+,H02821,,Cysts of right upper eyelid
+,H02822,,Cysts of right lower eyelid
+,H02823,,"Cysts of right eye, unspecified eyelid"
+,H02824,,Cysts of left upper eyelid
+,H02825,,Cysts of left lower eyelid
+,H02826,,"Cysts of left eye, unspecified eyelid"
+,H02829,,"Cysts of unspecified eye, unspecified eyelid"
+,H02831,,Dermatochalasis of right upper eyelid
+,H02832,,Dermatochalasis of right lower eyelid
+,H02833,,"Dermatochalasis of right eye, unspecified eyelid"
+,H02834,,Dermatochalasis of left upper eyelid
+,H02835,,Dermatochalasis of left lower eyelid
+,H02836,,"Dermatochalasis of left eye, unspecified eyelid"
+,H02839,,"Dermatochalasis of unspecified eye, unspecified eyelid"
+,H041,,Other disorders of lacrimal gland
+,H04121,,Dry eye syndrome of right lacrimal gland
+,H04122,,Dry eye syndrome of left lacrimal gland
+,H04123,,Dry eye syndrome of bilateral lacrimal glands
+,H04129,,Dry eye syndrome of unspecified lacrimal gland
+,H042,,Epiphora
+,H04201,,"Unspecified epiphora, right side"
+,H04202,,"Unspecified epiphora, left side"
+,H04203,,"Unspecified epiphora, bilateral"
+,H04209,,"Unspecified epiphora, unspecified side"
+,H04221,,"Epiphora due to insufficient drainage, right side"
+,H04222,,"Epiphora due to insufficient drainage, left side"
+,H04223,,"Epiphora due to insufficient drainage, bilateral"
+,H04229,,"Epiphora due to insufficient drainage, unspecified side"
+,H055,,Retained (old) fb following penetrating wound of orbit
+,H0550,,Retained (old) fb following penetrating wound of unsp orbit
+,H0551,,Retained (old) fb following penetrating wound of right orbit
+,H0552,,Retained (old) fb following penetrating wound of left orbit
+,H0553,,Retained (old) fb following penetrating wound of bi orbit
+,H058,,Other disorders of orbit
+,H0589,,Other disorders of orbit
+,H100,,Mucopurulent conjunctivitis
+,H10021,,"Other mucopurulent conjunctivitis, right eye"
+,H10022,,"Other mucopurulent conjunctivitis, left eye"
+,H10023,,"Other mucopurulent conjunctivitis, bilateral"
+,H10029,,"Other mucopurulent conjunctivitis, unspecified eye"
+,H101,,Acute atopic conjunctivitis
+,H1010,,"Acute atopic conjunctivitis, unspecified eye"
+,H1011,,"Acute atopic conjunctivitis, right eye"
+,H1012,,"Acute atopic conjunctivitis, left eye"
+,H1013,,"Acute atopic conjunctivitis, bilateral"
+,H10211,,"Acute toxic conjunctivitis, right eye"
+,H10212,,"Acute toxic conjunctivitis, left eye"
+,H10213,,"Acute toxic conjunctivitis, bilateral"
+,H10219,,"Acute toxic conjunctivitis, unspecified eye"
+,H103,,Unspecified acute conjunctivitis
+,H1030,,"Unspecified acute conjunctivitis, unspecified eye"
+,H1031,,"Unspecified acute conjunctivitis, right eye"
+,H1032,,"Unspecified acute conjunctivitis, left eye"
+,H1033,,"Unspecified acute conjunctivitis, bilateral"
+,H104,,Chronic conjunctivitis
+,H10401,,"Unspecified chronic conjunctivitis, right eye"
+,H10402,,"Unspecified chronic conjunctivitis, left eye"
+,H10403,,"Unspecified chronic conjunctivitis, bilateral"
+,H10409,,"Unspecified chronic conjunctivitis, unspecified eye"
+,H10411,,"Chronic giant papillary conjunctivitis, right eye"
+,H10412,,"Chronic giant papillary conjunctivitis, left eye"
+,H10413,,"Chronic giant papillary conjunctivitis, bilateral"
+,H10419,,"Chronic giant papillary conjunctivitis, unspecified eye"
+,H1045,,Other chronic allergic conjunctivitis
+,H109,,Unspecified conjunctivitis
+,H110,,Pterygium of eye
+,H11001,,Unspecified pterygium of right eye
+,H11002,,Unspecified pterygium of left eye
+,H11003,,"Unspecified pterygium of eye, bilateral"
+,H11009,,Unspecified pterygium of unspecified eye
+,H11011,,Amyloid pterygium of right eye
+,H11012,,Amyloid pterygium of left eye
+,H11013,,"Amyloid pterygium of eye, bilateral"
+,H11019,,Amyloid pterygium of unspecified eye
+,H111,,Conjunctival degenerations and deposits
+,H11151,,"Pinguecula, right eye"
+,H11152,,"Pinguecula, left eye"
+,H11153,,"Pinguecula, bilateral"
+,H11159,,"Pinguecula, unspecified eye"
+,H112,,Conjunctival scars
+,H11211,,"Conjunctival adhesions and strands (localized), right eye"
+,H11212,,"Conjunctival adhesions and strands (localized), left eye"
+,H11213,,"Conjunctival adhesions and strands (localized), bilateral"
+,H11219,,"Conjunctival adhesions and strands (localized), unsp eye"
+,H113,,Conjunctival hemorrhage
+,H1130,,"Conjunctival hemorrhage, unspecified eye"
+,H1131,,"Conjunctival hemorrhage, right eye"
+,H1132,,"Conjunctival hemorrhage, left eye"
+,H1133,,"Conjunctival hemorrhage, bilateral"
+,H114,,Other conjunctival vascular disorders and cysts
+,H11421,,"Conjunctival edema, right eye"
+,H11422,,"Conjunctival edema, left eye"
+,H11423,,"Conjunctival edema, bilateral"
+,H11429,,"Conjunctival edema, unspecified eye"
+,H119,,Unspecified disorder of conjunctiva
+,H160,,Corneal ulcer
+,H16001,,"Unspecified corneal ulcer, right eye"
+,H16002,,"Unspecified corneal ulcer, left eye"
+,H16003,,"Unspecified corneal ulcer, bilateral"
+,H16009,,"Unspecified corneal ulcer, unspecified eye"
+,H16011,,"Central corneal ulcer, right eye"
+,H16012,,"Central corneal ulcer, left eye"
+,H16013,,"Central corneal ulcer, bilateral"
+,H16019,,"Central corneal ulcer, unspecified eye"
+,H161,,Other and unsp superficial keratitis without conjunctivitis
+,H16101,,"Unspecified superficial keratitis, right eye"
+,H16102,,"Unspecified superficial keratitis, left eye"
+,H16103,,"Unspecified superficial keratitis, bilateral"
+,H16109,,"Unspecified superficial keratitis, unspecified eye"
+,H16141,,"Punctate keratitis, right eye"
+,H16142,,"Punctate keratitis, left eye"
+,H16143,,"Punctate keratitis, bilateral"
+,H16149,,"Punctate keratitis, unspecified eye"
+,H162,,Keratoconjunctivitis
+,H16211,,"Exposure keratoconjunctivitis, right eye"
+,H16212,,"Exposure keratoconjunctivitis, left eye"
+,H16213,,"Exposure keratoconjunctivitis, bilateral"
+,H16219,,"Exposure keratoconjunctivitis, unspecified eye"
+,H164,,Corneal neovascularization
+,H16401,,"Unspecified corneal neovascularization, right eye"
+,H16402,,"Unspecified corneal neovascularization, left eye"
+,H16403,,"Unspecified corneal neovascularization, bilateral"
+,H16409,,"Unspecified corneal neovascularization, unspecified eye"
+,H169,,Unspecified keratitis
+,H178,,Other corneal scars and opacities
+,H17821,,"Peripheral opacity of cornea, right eye"
+,H17822,,"Peripheral opacity of cornea, left eye"
+,H17823,,"Peripheral opacity of cornea, bilateral"
+,H17829,,"Peripheral opacity of cornea, unspecified eye"
+,H1789,,Other corneal scars and opacities
+,H179,,Unspecified corneal scar and opacity
+,H182,,Other and unspecified corneal edema
+,H1820,,Unspecified corneal edema
+,H184,,Corneal degeneration
+,H18411,,"Arcus senilis, right eye"
+,H18412,,"Arcus senilis, left eye"
+,H18413,,"Arcus senilis, bilateral"
+,H18419,,"Arcus senilis, unspecified eye"
+,H185,,Hereditary corneal dystrophies
+,H1851,,Endothelial corneal dystrophy
+,H186,,Keratoconus
+,H18601,,"Keratoconus, unspecified, right eye"
+,H18602,,"Keratoconus, unspecified, left eye"
+,H18603,,"Keratoconus, unspecified, bilateral"
+,H18609,,"Keratoconus, unspecified, unspecified eye"
+,H188,,Other specified disorders of cornea
+,H18831,,"Recurrent erosion of cornea, right eye"
+,H18832,,"Recurrent erosion of cornea, left eye"
+,H18833,,"Recurrent erosion of cornea, bilateral"
+,H18839,,"Recurrent erosion of cornea, unspecified eye"
+,H18891,,"Other specified disorders of cornea, right eye"
+,H18892,,"Other specified disorders of cornea, left eye"
+,H18893,,"Other specified disorders of cornea, bilateral"
+,H18899,,"Other specified disorders of cornea, unspecified eye"
+,H200,,Acute and subacute iridocyclitis
+,H2000,,Unspecified acute and subacute iridocyclitis
+,H201,,Chronic iridocyclitis
+,H2010,,"Chronic iridocyclitis, unspecified eye"
+,H2011,,"Chronic iridocyclitis, right eye"
+,H2012,,"Chronic iridocyclitis, left eye"
+,H2013,,"Chronic iridocyclitis, bilateral"
+,H210,,Hyphema
+,H2100,,"Hyphema, unspecified eye"
+,H2101,,"Hyphema, right eye"
+,H2102,,"Hyphema, left eye"
+,H2103,,"Hyphema, bilateral"
+,H212,,Degeneration of iris and ciliary body
+,H21231,,"Degeneration of iris (pigmentary), right eye"
+,H21232,,"Degeneration of iris (pigmentary), left eye"
+,H21233,,"Degeneration of iris (pigmentary), bilateral"
+,H21239,,"Degeneration of iris (pigmentary), unspecified eye"
+,H21261,,"Iris atrophy (essential) (progressive), right eye"
+,H21262,,"Iris atrophy (essential) (progressive), left eye"
+,H21263,,"Iris atrophy (essential) (progressive), bilateral"
+,H21269,,"Iris atrophy (essential) (progressive), unspecified eye"
+,H215,,Oth and unsp adhes and disruptions of iris and ciliary body
+,H21531,,"Iridodialysis, right eye"
+,H21532,,"Iridodialysis, left eye"
+,H21533,,"Iridodialysis, bilateral"
+,H21539,,"Iridodialysis, unspecified eye"
+,H21561,,"Pupillary abnormality, right eye"
+,H21562,,"Pupillary abnormality, left eye"
+,H21563,,"Pupillary abnormality, bilateral"
+,H21569,,"Pupillary abnormality, unspecified eye"
+,H250,,Age-related incipient cataract
+,H25091,,"Other age-related incipient cataract, right eye"
+,H25092,,"Other age-related incipient cataract, left eye"
+,H25093,,"Other age-related incipient cataract, bilateral"
+,H25099,,"Other age-related incipient cataract, unspecified eye"
+,H251,,Age-related nuclear cataract
+,H2510,,"Age-related nuclear cataract, unspecified eye"
+,H2511,,"Age-related nuclear cataract, right eye"
+,H2512,,"Age-related nuclear cataract, left eye"
+,H2513,,"Age-related nuclear cataract, bilateral"
+,H260,,Infantile and juvenile cataract
+,H26031,,"Infantile and juvenile nuclear cataract, right eye"
+,H26032,,"Infantile and juvenile nuclear cataract, left eye"
+,H26033,,"Infantile and juvenile nuclear cataract, bilateral"
+,H26039,,"Infantile and juvenile nuclear cataract, unspecified eye"
+,H26051,,"Post subcapsular polar infantile and juv cataract, r eye"
+,H26052,,"Post subcapsular polar infantile and juv cataract, left eye"
+,H26053,,"Post subcapsular polar infantile and juvenile cataract, bi"
+,H26059,,"Post subcapsular polar infantile and juv cataract, unsp eye"
+,H261,,Traumatic cataract
+,H26101,,"Unspecified traumatic cataract, right eye"
+,H26102,,"Unspecified traumatic cataract, left eye"
+,H26103,,"Unspecified traumatic cataract, bilateral"
+,H26109,,"Unspecified traumatic cataract, unspecified eye"
+,H269,,Unspecified cataract
+,H270,,Aphakia
+,H2700,,"Aphakia, unspecified eye"
+,H2701,,"Aphakia, right eye"
+,H2702,,"Aphakia, left eye"
+,H2703,,"Aphakia, bilateral"
+,H30891,,"Other chorioretinal inflammations, right eye"
+,H30892,,"Other chorioretinal inflammations, left eye"
+,H30893,,"Other chorioretinal inflammations, bilateral"
+,H30899,,"Other chorioretinal inflammations, unspecified eye"
+,H309,,Unspecified chorioretinal inflammation
+,H3090,,"Unspecified chorioretinal inflammation, unspecified eye"
+,H3091,,"Unspecified chorioretinal inflammation, right eye"
+,H3092,,"Unspecified chorioretinal inflammation, left eye"
+,H3093,,"Unspecified chorioretinal inflammation, bilateral"
+,H310,,Chorioretinal scars
+,H31001,,"Unspecified chorioretinal scars, right eye"
+,H31002,,"Unspecified chorioretinal scars, left eye"
+,H31003,,"Unspecified chorioretinal scars, bilateral"
+,H31009,,"Unspecified chorioretinal scars, unspecified eye"
+,H31011,,"Macula scars of posterior pole (post-traumatic), right eye"
+,H31012,,"Macula scars of posterior pole (post-traumatic), left eye"
+,H31013,,"Macula scars of posterior pole (post-traumatic), bilateral"
+,H31019,,"Macula scars of posterior pole (post-traumatic), unsp eye"
+,H31091,,"Other chorioretinal scars, right eye"
+,H31092,,"Other chorioretinal scars, left eye"
+,H31093,,"Other chorioretinal scars, bilateral"
+,H31099,,"Other chorioretinal scars, unspecified eye"
+,H330,,Retinal detachment with retinal break
+,H33001,,"Unspecified retinal detachment with retinal break, right eye"
+,H33002,,"Unspecified retinal detachment with retinal break, left eye"
+,H33003,,"Unspecified retinal detachment with retinal break, bilateral"
+,H33009,,"Unsp retinal detachment with retinal break, unspecified eye"
+,H331,,Retinoschisis and retinal cysts
+,H33101,,"Unspecified retinoschisis, right eye"
+,H33102,,"Unspecified retinoschisis, left eye"
+,H33103,,"Unspecified retinoschisis, bilateral"
+,H33109,,"Unspecified retinoschisis, unspecified eye"
+,H33191,,"Other retinoschisis and retinal cysts, right eye"
+,H33192,,"Other retinoschisis and retinal cysts, left eye"
+,H33193,,"Other retinoschisis and retinal cysts, bilateral"
+,H332,,Serous retinal detachment
+,H333,,Retinal breaks without detachment
+,H33301,,"Unspecified retinal break, right eye"
+,H33302,,"Unspecified retinal break, left eye"
+,H33303,,"Unspecified retinal break, bilateral"
+,H33309,,"Unspecified retinal break, unspecified eye"
+,H33311,,"Horseshoe tear of retina without detachment, right eye"
+,H33312,,"Horseshoe tear of retina without detachment, left eye"
+,H33313,,"Horseshoe tear of retina without detachment, bilateral"
+,H33319,,"Horseshoe tear of retina without detachment, unspecified eye"
+,H33321,,"Round hole, right eye"
+,H33322,,"Round hole, left eye"
+,H33323,,"Round hole, bilateral"
+,H33329,,"Round hole, unspecified eye"
+,H350,,Background retinopathy and retinal vascular changes
+,H35011,,"Changes in retinal vascular appearance, right eye"
+,H35012,,"Changes in retinal vascular appearance, left eye"
+,H35013,,"Changes in retinal vascular appearance, bilateral"
+,H35019,,"Changes in retinal vascular appearance, unspecified eye"
+,H35031,,"Hypertensive retinopathy, right eye"
+,H35032,,"Hypertensive retinopathy, left eye"
+,H35033,,"Hypertensive retinopathy, bilateral"
+,H35039,,"Hypertensive retinopathy, unspecified eye"
+,H35051,,"Retinal neovascularization, unspecified, right eye"
+,H35052,,"Retinal neovascularization, unspecified, left eye"
+,H35053,,"Retinal neovascularization, unspecified, bilateral"
+,H35059,,"Retinal neovascularization, unspecified, unspecified eye"
+,H3509,,Other intraretinal microvascular abnormalities
+,H353,,Degeneration of macula and posterior pole
+,H3530,,Unspecified macular degeneration
+,H353110,,"Nexdtve age-related mclr degn, right eye, stage unspecified"
+,H353111,,"Nexdtve age-related mclr degn, right eye, early dry stage"
+,H353112,,"Nexdtve age-related mclr degn, right eye, intermed dry stage"
+,H353113,,"Nexdtve age-rel mclr degn, r eye, adv atrpc w/o sbfvl invl"
+,H353114,,"Nexdtve age-rel mclr degn, r eye, adv atrpc with sbfvl invl"
+,H353120,,"Nexdtve age-related mclr degn, left eye, stage unspecified"
+,H353121,,"Nexdtve age-related mclr degn, left eye, early dry stage"
+,H353122,,"Nexdtve age-related mclr degn, left eye, intermed dry stage"
+,H353123,,"Nexdtve age-rel mclr degn, l eye, adv atrpc w/o sbfvl invl"
+,H353124,,"Nexdtve age-rel mclr degn, l eye, adv atrpc with sbfvl invl"
+,H353130,,"Nexdtve age-related mclr degn, bilateral, stage unspecified"
+,H353131,,"Nexdtve age-related mclr degn, bilateral, early dry stage"
+,H353132,,"Nexdtve age-related mclr degn, bilateral, intermed dry stage"
+,H353133,,"Nexdtve age-rel mclr degn, bi, adv atrpc without sbfvl invl"
+,H353134,,"Nexdtve age-rel mclr degn, bi, adv atrpc with subfoveal invl"
+,H353190,,"Nonexudative age-related mclr degn, unsp, stage unspecified"
+,H353191,,"Nonexudative age-related mclr degn, unsp, early dry stage"
+,H353192,,"Nonexudative age-related mclr degn, unsp, intermed dry stage"
+,H353193,,"Nexdtve age-rel mclr degn, unsp, adv atrpc w/o sbfvl invl"
+,H353194,,"Nexdtve age-rel mclr degn, unsp, adv atrpc with sbfvl invl"
+,H35341,,"Macular cyst, hole, or pseudohole, right eye"
+,H35342,,"Macular cyst, hole, or pseudohole, left eye"
+,H35343,,"Macular cyst, hole, or pseudohole, bilateral"
+,H35349,,"Macular cyst, hole, or pseudohole, unspecified eye"
+,H35351,,"Cystoid macular degeneration, right eye"
+,H35352,,"Cystoid macular degeneration, left eye"
+,H35353,,"Cystoid macular degeneration, bilateral"
+,H35359,,"Cystoid macular degeneration, unspecified eye"
+,H35361,,"Drusen (degenerative) of macula, right eye"
+,H35362,,"Drusen (degenerative) of macula, left eye"
+,H35363,,"Drusen (degenerative) of macula, bilateral"
+,H35369,,"Drusen (degenerative) of macula, unspecified eye"
+,H35371,,"Puckering of macula, right eye"
+,H35372,,"Puckering of macula, left eye"
+,H35373,,"Puckering of macula, bilateral"
+,H35379,,"Puckering of macula, unspecified eye"
+,H354,,Peripheral retinal degeneration
+,H3540,,Unspecified peripheral retinal degeneration
+,H35411,,"Lattice degeneration of retina, right eye"
+,H35412,,"Lattice degeneration of retina, left eye"
+,H35413,,"Lattice degeneration of retina, bilateral"
+,H35419,,"Lattice degeneration of retina, unspecified eye"
+,H356,,Retinal hemorrhage
+,H3560,,"Retinal hemorrhage, unspecified eye"
+,H3561,,"Retinal hemorrhage, right eye"
+,H3562,,"Retinal hemorrhage, left eye"
+,H3563,,"Retinal hemorrhage, bilateral"
+,H357,,Separation of retinal layers
+,H35711,,"Central serous chorioretinopathy, right eye"
+,H35712,,"Central serous chorioretinopathy, left eye"
+,H35713,,"Central serous chorioretinopathy, bilateral"
+,H35719,,"Central serous chorioretinopathy, unspecified eye"
+,H35721,,"Serous detachment of retinal pigment epithelium, right eye"
+,H35722,,"Serous detachment of retinal pigment epithelium, left eye"
+,H35723,,"Serous detachment of retinal pigment epithelium, bilateral"
+,H35729,,"Serous detachment of retinal pigment epithelium, unsp eye"
+,H358,,Other specified retinal disorders
+,H3589,,Other specified retinal disorders
+,H359,,Unspecified retinal disorder
+,H400,,Glaucoma suspect
+,H40001,,"Preglaucoma, unspecified, right eye"
+,H40002,,"Preglaucoma, unspecified, left eye"
+,H40003,,"Preglaucoma, unspecified, bilateral"
+,H40009,,"Preglaucoma, unspecified, unspecified eye"
+,H40011,,"Open angle with borderline findings, low risk, right eye"
+,H40012,,"Open angle with borderline findings, low risk, left eye"
+,H40013,,"Open angle with borderline findings, low risk, bilateral"
+,H40019,,"Open angle with borderline findings, low risk, unsp eye"
+,H40021,,"Open angle with borderline findings, high risk, right eye"
+,H40022,,"Open angle with borderline findings, high risk, left eye"
+,H40023,,"Open angle with borderline findings, high risk, bilateral"
+,H40029,,"Open angle with borderline findings, high risk, unsp eye"
+,H40051,,"Ocular hypertension, right eye"
+,H40052,,"Ocular hypertension, left eye"
+,H40053,,"Ocular hypertension, bilateral"
+,H40059,,"Ocular hypertension, unspecified eye"
+,H406,,Glaucoma secondary to drugs
+,H4060X0,,"Glaucoma secondary to drugs, unsp eye, stage unspecified"
+,H4060X1,,"Glaucoma secondary to drugs, unspecified eye, mild stage"
+,H4060X2,,"Glaucoma secondary to drugs, unspecified eye, moderate stage"
+,H4060X3,,"Glaucoma secondary to drugs, unspecified eye, severe stage"
+,H4060X4,,"Glaucoma secondary to drugs, unsp eye, indeterminate stage"
+,H4061X0,,"Glaucoma secondary to drugs, right eye, stage unspecified"
+,H4061X1,,"Glaucoma secondary to drugs, right eye, mild stage"
+,H4061X2,,"Glaucoma secondary to drugs, right eye, moderate stage"
+,H4061X3,,"Glaucoma secondary to drugs, right eye, severe stage"
+,H4061X4,,"Glaucoma secondary to drugs, right eye, indeterminate stage"
+,H4062X0,,"Glaucoma secondary to drugs, left eye, stage unspecified"
+,H4062X1,,"Glaucoma secondary to drugs, left eye, mild stage"
+,H4062X2,,"Glaucoma secondary to drugs, left eye, moderate stage"
+,H4062X3,,"Glaucoma secondary to drugs, left eye, severe stage"
+,H4062X4,,"Glaucoma secondary to drugs, left eye, indeterminate stage"
+,H4063X0,,"Glaucoma secondary to drugs, bilateral, stage unspecified"
+,H4063X1,,"Glaucoma secondary to drugs, bilateral, mild stage"
+,H4063X2,,"Glaucoma secondary to drugs, bilateral, moderate stage"
+,H4063X3,,"Glaucoma secondary to drugs, bilateral, severe stage"
+,H4063X4,,"Glaucoma secondary to drugs, bilateral, indeterminate stage"
+,H409,,Unspecified glaucoma
+,H433,,Other vitreous opacities
+,H43391,,"Other vitreous opacities, right eye"
+,H43392,,"Other vitreous opacities, left eye"
+,H43393,,"Other vitreous opacities, bilateral"
+,H43399,,"Other vitreous opacities, unspecified eye"
+,H438,,Other disorders of vitreous body
+,H43811,,"Vitreous degeneration, right eye"
+,H43812,,"Vitreous degeneration, left eye"
+,H43813,,"Vitreous degeneration, bilateral"
+,H43819,,"Vitreous degeneration, unspecified eye"
+,H4389,,Other disorders of vitreous body
+,H439,,Unspecified disorder of vitreous body
+,H442A1,,"Degeneratv myopia with choroidal neovascularization, r eye"
+,H442A2,,"Degeneratv myopia with choroidal neovascularization, l eye"
+,H442A3,,"Degeneratv myopia with choroidal neovascularization, bi eye"
+,H442A9,,"Degenerative myopia with choroidal neovascularization, unsp"
+,H442B1,,"Degenerative myopia with macular hole, right eye"
+,H442B2,,"Degenerative myopia with macular hole, left eye"
+,H442B3,,"Degenerative myopia with macular hole, bilateral eye"
+,H442B9,,"Degenerative myopia with macular hole, unspecified eye"
+,H442C1,,"Degenerative myopia with retinal detachment, right eye"
+,H442C2,,"Degenerative myopia with retinal detachment, left eye"
+,H442C3,,"Degenerative myopia with retinal detachment, bilateral eye"
+,H442C9,,"Degenerative myopia with retinal detachment, unspecified eye"
+,H447,,"Retained (old) intraocular foreign body, nonmagnetic"
+,H44701,,"Unsp retained (old) intraocular fb, nonmagnetic, right eye"
+,H44702,,"Unsp retained (old) intraocular fb, nonmagnetic, left eye"
+,H44703,,"Unsp retained (old) intraocular fb, nonmagnetic, bilateral"
+,H44709,,"Unsp retained (old) intraocular fb, nonmagnetic, unsp eye"
+,H46,,Optic neuritis
+,H469,,Unspecified optic neuritis
+,H470,,"Disorders of optic nerve, not elsewhere classified"
+,H47011,,"Ischemic optic neuropathy, right eye"
+,H47012,,"Ischemic optic neuropathy, left eye"
+,H47013,,"Ischemic optic neuropathy, bilateral"
+,H47019,,"Ischemic optic neuropathy, unspecified eye"
+,H47091,,"Oth disorders of optic nerve, NEC, right eye"
+,H47092,,"Oth disorders of optic nerve, NEC, left eye"
+,H47093,,"Oth disorders of optic nerve, NEC, bilateral"
+,H47099,,"Oth disorders of optic nerve, NEC, unsp eye"
+,H472,,Optic atrophy
+,H4720,,Unspecified optic atrophy
+,H47231,,"Glaucomatous optic atrophy, right eye"
+,H47232,,"Glaucomatous optic atrophy, left eye"
+,H47233,,"Glaucomatous optic atrophy, bilateral"
+,H47239,,"Glaucomatous optic atrophy, unspecified eye"
+,H47291,,"Other optic atrophy, right eye"
+,H47292,,"Other optic atrophy, left eye"
+,H47293,,"Other optic atrophy, bilateral"
+,H47299,,"Other optic atrophy, unspecified eye"
+,H473,,Other disorders of optic disc
+,H47321,,"Drusen of optic disc, right eye"
+,H47322,,"Drusen of optic disc, left eye"
+,H47323,,"Drusen of optic disc, bilateral"
+,H47329,,"Drusen of optic disc, unspecified eye"
+,H475,,Disorders of other visual pathways
+,H47511,,"Disord of visual pathways in inflam disord, right side"
+,H47512,,"Disord of visual pathways in inflam disord, left side"
+,H47519,,"Disord of visual pathways in inflam disord, unsp side"
+,H477,,
+,H479,,Unspecified disorder of visual pathways
+,H491,,Fourth [trochlear] nerve palsy
+,H4910,,"Fourth [trochlear] nerve palsy, unspecified eye"
+,H4911,,"Fourth [trochlear] nerve palsy, right eye"
+,H4912,,"Fourth [trochlear] nerve palsy, left eye"
+,H4913,,"Fourth [trochlear] nerve palsy, bilateral"
+,H492,,Sixth [abducent] nerve palsy
+,H4920,,"Sixth [abducent] nerve palsy, unspecified eye"
+,H4921,,"Sixth [abducent] nerve palsy, right eye"
+,H4922,,"Sixth [abducent] nerve palsy, left eye"
+,H4923,,"Sixth [abducent] nerve palsy, bilateral"
+,H500,,Esotropia
+,H5000,,Unspecified esotropia
+,H50011,,"Monocular esotropia, right eye"
+,H50012,,"Monocular esotropia, left eye"
+,H5005,,Alternating esotropia
+,H501,,Exotropia
+,H5010,,Unspecified exotropia
+,H50131,,"Monocular exotropia with V pattern, right eye"
+,H50132,,"Monocular exotropia with V pattern, left eye"
+,H5015,,Alternating exotropia
+,H5021,,"Vertical strabismus, right eye"
+,H5022,,"Vertical strabismus, left eye"
+,H503,,Intermittent heterotropia
+,H50311,,"Intermittent monocular esotropia, right eye"
+,H50312,,"Intermittent monocular esotropia, left eye"
+,H5032,,Intermittent alternating esotropia
+,H50331,,"Intermittent monocular exotropia, right eye"
+,H50332,,"Intermittent monocular exotropia, left eye"
+,H5034,,Intermittent alternating exotropia
+,H504,,Other and unspecified heterotropia
+,H505,,Heterophoria
+,H5050,,Unspecified heterophoria
+,H5051,,Esophoria
+,H5052,,Exophoria
+,H5053,,Vertical heterophoria
+,H509,,Unspecified strabismus
+,H511,,Convergence insufficiency and excess
+,H5111,,Convergence insufficiency
+,H5112,,Convergence excess
+,H518,,Other specified disorders of binocular movement
+,H519,,Unspecified disorder of binocular movement
+,H520,,Hypermetropia
+,H5200,,"Hypermetropia, unspecified eye"
+,H5201,,"Hypermetropia, right eye"
+,H5202,,"Hypermetropia, left eye"
+,H5203,,"Hypermetropia, bilateral"
+,H521,,Myopia
+,H5210,,"Myopia, unspecified eye"
+,H5211,,"Myopia, right eye"
+,H5212,,"Myopia, left eye"
+,H5213,,"Myopia, bilateral"
+,H522,,Astigmatism
+,H52201,,"Unspecified astigmatism, right eye"
+,H52202,,"Unspecified astigmatism, left eye"
+,H52203,,"Unspecified astigmatism, bilateral"
+,H52209,,"Unspecified astigmatism, unspecified eye"
+,H52211,,"Irregular astigmatism, right eye"
+,H52212,,"Irregular astigmatism, left eye"
+,H52213,,"Irregular astigmatism, bilateral"
+,H52219,,"Irregular astigmatism, unspecified eye"
+,H52221,,"Regular astigmatism, right eye"
+,H52222,,"Regular astigmatism, left eye"
+,H52223,,"Regular astigmatism, bilateral"
+,H52229,,"Regular astigmatism, unspecified eye"
+,H523,,Anisometropia and aniseikonia
+,H5231,,Anisometropia
+,H524,,Presbyopia
+,H525,,Disorders of accommodation
+,H52521,,"Paresis of accommodation, right eye"
+,H52522,,"Paresis of accommodation, left eye"
+,H52523,,"Paresis of accommodation, bilateral"
+,H52529,,"Paresis of accommodation, unspecified eye"
+,H52531,,"Spasm of accommodation, right eye"
+,H52532,,"Spasm of accommodation, left eye"
+,H52533,,"Spasm of accommodation, bilateral"
+,H52539,,"Spasm of accommodation, unspecified eye"
+,H526,,Other disorders of refraction
+,H527,,Unspecified disorder of refraction
+,H530,,Amblyopia ex anopsia
+,H53021,,"Refractive amblyopia, right eye"
+,H53022,,"Refractive amblyopia, left eye"
+,H53023,,"Refractive amblyopia, bilateral"
+,H53029,,"Refractive amblyopia, unspecified eye"
+,H53031,,"Strabismic amblyopia, right eye"
+,H53032,,"Strabismic amblyopia, left eye"
+,H53033,,"Strabismic amblyopia, bilateral"
+,H53039,,"Strabismic amblyopia, unspecified eye"
+,H53041,,"Amblyopia suspect, right eye"
+,H53042,,"Amblyopia suspect, left eye"
+,H53043,,"Amblyopia suspect, bilateral"
+,H53049,,"Amblyopia suspect, unspecified eye"
+,H531,,Subjective visual disturbances
+,H5310,,Unspecified subjective visual disturbances
+,H5311,,Day blindness
+,H53121,,"Transient visual loss, right eye"
+,H53122,,"Transient visual loss, left eye"
+,H53123,,"Transient visual loss, bilateral"
+,H53129,,"Transient visual loss, unspecified eye"
+,H53131,,"Sudden visual loss, right eye"
+,H53132,,"Sudden visual loss, left eye"
+,H53133,,"Sudden visual loss, bilateral"
+,H53139,,"Sudden visual loss, unspecified eye"
+,H5315,,Visual distortions of shape and size
+,H5316,,Psychophysical visual disturbances
+,H5319,,Other subjective visual disturbances
+,H532,,Diplopia
+,H533,,Other and unspecified disorders of binocular vision
+,H5330,,Unspecified disorder of binocular vision
+,H5332,,Fusion with defective stereopsis
+,H5334,,Suppression of binocular vision
+,H534,,Visual field defects
+,H5340,,Unspecified visual field defects
+,H53421,,"Scotoma of blind spot area, right eye"
+,H53422,,"Scotoma of blind spot area, left eye"
+,H53423,,"Scotoma of blind spot area, bilateral"
+,H53429,,"Scotoma of blind spot area, unspecified eye"
+,H53431,,"Sector or arcuate defects, right eye"
+,H53432,,"Sector or arcuate defects, left eye"
+,H53433,,"Sector or arcuate defects, bilateral"
+,H53439,,"Sector or arcuate defects, unspecified eye"
+,H53451,,"Other localized visual field defect, right eye"
+,H53452,,"Other localized visual field defect, left eye"
+,H53453,,"Other localized visual field defect, bilateral"
+,H53459,,"Other localized visual field defect, unspecified eye"
+,H53461,,"Homonymous bilateral field defects, right side"
+,H53462,,"Homonymous bilateral field defects, left side"
+,H53469,,"Homonymous bilateral field defects, unspecified side"
+,H5347,,Heteronymous bilateral field defects
+,H53481,,"Generalized contraction of visual field, right eye"
+,H53482,,"Generalized contraction of visual field, left eye"
+,H53483,,"Generalized contraction of visual field, bilateral"
+,H53489,,"Generalized contraction of visual field, unspecified eye"
+,H535,,Color vision deficiencies
+,H5350,,Unspecified color vision deficiencies
+,H5359,,Other color vision deficiencies
+,H5371,,Glare sensitivity
+,H5372,,Impaired contrast sensitivity
+,H538,,Other visual disturbances
+,H539,,Unspecified visual disturbance
+,H540,,"Blindness, both eyes"
+,H540X33,,"Blindness r eye category 3, blindness left eye category 3"
+,H543,,"Unqualified visual loss, both eyes"
+,H544,,"Blindness, one eye"
+,H545,,"Low vision, one eye"
+,H54511A,,"Low vision right eye category 1, normal vision left eye"
+,H5452A1,,"Low vision left eye category 1, normal vision right eye"
+,H546,,"Unqualified visual loss, one eye"
+,H5460,,"Unqualified visual loss, one eye, unspecified"
+,H5461,,"Unqualified visual loss, right eye, normal vision left eye"
+,H5462,,"Unqualified visual loss, left eye, normal vision right eye"
+,H547,,Unspecified visual loss
+,H55,,Nystagmus and other irregular eye movements
+,H5500,,Unspecified nystagmus
+,H5581,,Saccadic eye movements
+,H5589,,Other irregular eye movements
+,H570,,Anomalies of pupillary function
+,H5700,,Unspecified anomaly of pupillary function
+,H5702,,Anisocoria
+,H5704,,Mydriasis
+,H571,,Ocular pain
+,H5710,,"Ocular pain, unspecified eye"
+,H5711,,"Ocular pain, right eye"
+,H5712,,"Ocular pain, left eye"
+,H5713,,"Ocular pain, bilateral"
+,H578,,Other specified disorders of eye and adnexa
+,H579,,Unspecified disorder of eye and adnexa
+,R441,,Visual hallucinations
+,R483,,Visual agnosia
+,V410,,Problems with sight
+,V410,,Car driver injured in collision w pedal cycle nontraf
+,V411,,Car passenger injured in collision w pedal cycle nontraf
+,V411,,Other eye problems
+,Z973,,Presence of spectacles and contact lenses

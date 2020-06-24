@@ -1,0 +1,26 @@
+Classification,Code,Type,Description
+,29621,,"Major depressive affective disorder, single episode, mild"
+,29622,,"Major depressive affective disorder, single episode, moderate"
+,29623,,"Major depressive affective disorder, single episode, severe, without mention of psychotic behavior"
+,29630,,"Major depressive affective disorder, recurrent episode, unspecified"
+,29682,,Atypical depressive disorder
+,2980,,Depressive type psychosis
+,3004,,Dysthymic disorder
+,3090,,Adjustment disorder with depressed mood
+,3091,,Prolonged depressive reaction
+,30928,,Adjustment disorder with mixed anxiety and depressed mood
+,311,,"Depressive disorder, not elsewhere classified"
+,F320,,"Major depressive disorder, single episode, mild"
+,F321,,"Major depressive disorder, single episode, moderate"
+,F322,,"Major depressv disord, single epsd, sev w/o psych features"
+,F323,,"Major depressv disord, single epsd, severe w psych features"
+,F328,,Other depressive episodes
+,F3289,,Other specified depressive episodes
+,F329,,"Major depressive disorder, single episode, unspecified"
+,F3340,,"Major depressive disorder, recurrent, in remission, unsp"
+,F339,,"Major depressive disorder, recurrent, unspecified"
+,F341,,Dysthymic disorder
+,F432,,Adjustment disorders
+,F4321,,Adjustment disorder with depressed mood
+,F4323,,Adjustment disorder with mixed anxiety and depressed mood
+,F439,,"Reaction to severe stress, unspecified"
