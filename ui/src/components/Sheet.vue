@@ -11,10 +11,10 @@
 
       <b-row class="mt-2">
         <b-col cols="4" v-if="hasClassification">
-          <FilterBox title="Types" :values="allTypes" v-model="filters.classifications"/>
+          <FilterBox title="Classifications" :values="allClassifications" v-model="filters.classifications"/>
         </b-col>
         <b-col cols="4" v-if="hasType">
-          <FilterBox title="Classifications" :values="allClassifications" v-model="filters.types"/>
+          <FilterBox title="Types" :values="allTypes" v-model="filters.types"/>
         </b-col>
       </b-row>
 
@@ -71,9 +71,10 @@
         let fields = [
           'Code',
           'Type',
-          'Description',
           'Classification',
+          'Description',
         ];
+
         if (!this.hasClassification) {
           fields.splice(fields.indexOf('Classification'), 1);
         }
