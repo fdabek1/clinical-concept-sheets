@@ -78,17 +78,30 @@
         sheets: null,
         selected: null,
         fields: [
-          'Concept',
-          'Description',
-          'Tags',
+          {
+            'key': 'Concept',
+            sortable: true,
+          },
+          {
+            key: 'Description',
+            sortable: true,
+          },
+          {
+            key: 'Tags',
+            sortable: true,
+          },
           {
             key: 'Author',
-            title: 'POC'
+            sortable: true,
           },
-          'Version',
+          {
+            key: 'Version',
+            sortable: true,
+          },
           {
             key: 'LastModified',
-            title: 'Last Modified'
+            title: 'Last Modified',
+            sortable: true,
           },
           'Go'
         ],

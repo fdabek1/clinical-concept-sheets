@@ -90,7 +90,10 @@
           fields.splice(fields.indexOf('Type'), 1);
         }
 
-        return fields;
+        return fields.map(field => ({
+          key: field,
+          sortable: true,
+        }));
       },
       allTypes() {
         const types = [...new Set(this.codes.map(item => item['Type']))];
