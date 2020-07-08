@@ -2,7 +2,7 @@
   <b-modal title="Sheet" id="sheet-details" size="xl" :ok-only="true" ok-title="Close" ok-variant="secondary"
            @shown="loadCodes">
     <div v-if="codes !== null">
-      <p><strong>POC:</strong> {{ details['Author'] }}</p>
+      <p><strong>Author:</strong> {{ details['Author'] }}</p>
       <p><strong>Description:</strong> {{ details['Description'] }}</p>
       <b-form-input
         type="search"
