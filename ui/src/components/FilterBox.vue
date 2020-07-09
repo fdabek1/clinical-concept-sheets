@@ -4,7 +4,6 @@
       <font-awesome-icon icon="filter" :class="indeterminate ? 'text-nicoe-light-blue' : 'text-secondary'"/>
     </b-btn>
     <b-popover :target="title + '-target'" triggers="focus" placement="bottom">
-      <template v-slot:title>{{ title }}</template>
       <b-card no-body class="filter-content overflow-auto p-2 border-0">
         <b-input type="search" size="sm" class="mb-2" v-model="search"/>
         <b-form-checkbox v-model="allSelected" :indeterminate="indeterminate" @change="toggleAll">
