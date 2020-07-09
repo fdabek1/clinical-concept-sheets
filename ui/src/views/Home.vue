@@ -10,20 +10,24 @@
         placeholder="Type to Search"
       ></b-form-input>
 
-      <b-row class="mt-2">
-        <b-col cols="4">
-          <FilterBox title="Concepts" :values="allConcepts" v-model="filters.concepts"/>
-        </b-col>
-        <b-col cols="4">
-          <FilterBox title="Tags" :values="allTags" v-model="filters.tags"/>
-        </b-col>
-      </b-row>
-
       <div class="d-flex justify-content-end">
         <span class="text-muted small">{{ sheets.length.toLocaleString() }} sheets</span>
       </div>
 
       <b-table :fields="fields" :items="sheets" class="text-center" :filter="filters" :filter-function="filterRow">
+        <template v-slot:head(Concept)="data">
+          {{ data.label }}
+          <FilterBox title="Concepts" :values="allConcepts" v-model="filters.concepts"/>
+        </template>
+
+        <template v-slot:head(Tags)="data">
+          {{ data.label }}
+          <FilterBox title="Tags" :values="allTags" v-model="filters.tags"/>
+        </template>
+
+
+
+
         <template v-slot:cell(Version)="data">
           {{ data.item['MajorVersion'] }}.{{ data.item['MinorVersion'] }}
         </template>
@@ -41,6 +45,8 @@
         </template>
 
       </b-table>
+
+
     </div>
     <Sheet ref="modal" :id="selected === null ? null : selected['ID']" :details="selected"/>
   </div>
