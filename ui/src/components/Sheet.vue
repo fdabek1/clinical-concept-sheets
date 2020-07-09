@@ -1,6 +1,6 @@
 <template>
   <b-modal title="Sheet" id="sheet-details" size="xl" :ok-only="true" ok-title="Close" ok-variant="secondary"
-           @shown="loadCodes">
+           @shown="loadCodes" @hide="filters.search = ''">
     <div v-if="codes !== null">
       <p><strong>Author:</strong> {{ details['Author'] }}</p>
       <p><strong>Description:</strong> {{ details['Description'] }}</p>
@@ -38,6 +38,14 @@
         <template v-slot:head(Classification)="data">
           {{ data.label }}
           <FilterBox title="Classifications" :values="allClassifications" v-model="filters.classifications"/>
+        </template>
+
+        <template v-slot:cell(Code)="data">
+          <span v-html="highlightText(data.value)"/>
+        </template>
+
+        <template v-slot:cell(Description)="data">
+          <span v-html="highlightText(data.value)"/>
         </template>
       </b-table>
     </div>
@@ -124,6 +132,14 @@
       }
     },
     methods: {
+      highlightText(text) {
+        if (this.filters.search === '')
+          return text;
+
+        const re = new RegExp('(' + this.filters.search + ')', 'ig');
+
+        return text.replace(re, '<mark>$1</mark>');
+      },
       filterRow(item, filters) {
         if (filters.search !== null && filters.search !== '') {
           let attribs = ['Code', 'Description'];

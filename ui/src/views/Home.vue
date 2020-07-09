@@ -44,6 +44,17 @@
           <b-btn size="sm" variant="nicoe-light-blue" @click="openDetails(data.item['ID'])">View Details</b-btn>
         </template>
 
+        <template v-slot:cell(Author)="data">
+          <span v-html="highlightText(data.value)"/>
+        </template>
+
+        <template v-slot:cell(Concept)="data">
+          <span v-html="highlightText(data.value)"/>
+        </template>
+
+        <template v-slot:cell(Description)="data">
+          <span v-html="highlightText(data.value)"/>
+        </template>
       </b-table>
 
 
@@ -135,6 +146,14 @@
       });
     },
     methods: {
+      highlightText(text) {
+        if (this.filters.search === '')
+          return text;
+
+        const re = new RegExp('(' + this.filters.search + ')', 'ig');
+
+        return text.replace(re, '<mark>$1</mark>');
+      },
       filterRow(item, filters) {
         if (filters.search !== null && filters.search !== '') {
           let attribs = ['Author', 'Concept', 'Description'];

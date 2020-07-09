@@ -7,9 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.0] - 2020-XX-XX
 ### Added
 - Table columns can be sorted.
+- Matched search text is highlighted.
 
 ### Changed
 - All references to "POC" changed to "Author".
+- Filter boxes moved to column header.
 
 ## [0.1.0] - 2020-06-10
 ### Added

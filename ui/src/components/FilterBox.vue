@@ -49,7 +49,6 @@
         return this.filters.length !== 0 && this.filters.length !== this.values.length;
       },
       searchedValues() {
-        console.log('searchedValues', this.search);
         if (this.search === null || this.search === '')
           return this.values;
 
