@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Table columns can be sorted.
 - Matched search text is highlighted.
+- More details shown on sheet modal.
 
 ### Changed
 - All references to "POC" changed to "Author".

@@ -3,6 +3,8 @@
            @shown="loadCodes" @hide="filters.search = ''">
     <div v-if="codes !== null">
       <p><strong>Author:</strong> {{ details['Author'] }}</p>
+      <p><strong>Version:</strong> {{ details['MajorVersion'] }}.{{ details['MinorVersion'] }}</p>
+      <p><strong>Last Modified:</strong> {{ new Date(details['LastModified']).toLocaleDateString() }}</p>
       <p><strong>Description:</strong> {{ details['Description'] }}</p>
       <b-form-input
         type="search"
