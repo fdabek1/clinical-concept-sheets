@@ -11,15 +11,6 @@
         placeholder="Type to Search"
       ></b-form-input>
 
-      <b-row class="mt-2">
-        <b-col cols="4" v-if="hasClassification">
-          <FilterBox title="Classifications" :values="allClassifications" v-model="filters.classifications"/>
-        </b-col>
-        <b-col cols="4" v-if="hasType">
-          <FilterBox title="Types" :values="allTypes" v-model="filters.types"/>
-        </b-col>
-      </b-row>
-
       <div class="d-flex justify-content-end mb-2">
       </div>
       <div class="d-flex justify-content-between align-items-end">
@@ -38,8 +29,16 @@
 
       <b-table :fields="fields" :items="codes" class="text-center" :filter="filters" :filter-function="filterRow"
                :per-page="pagination.perPage"
-               :current-page="pagination.current"
-      >
+               :current-page="pagination.current">
+        <template v-slot:head(Type)="data">
+          {{ data.label }}
+          <FilterBox title="Types" :values="allTypes" v-model="filters.types"/>
+        </template>
+
+        <template v-slot:head(Classification)="data">
+          {{ data.label }}
+          <FilterBox title="Classifications" :values="allClassifications" v-model="filters.classifications"/>
+        </template>
       </b-table>
     </div>
   </b-modal>
