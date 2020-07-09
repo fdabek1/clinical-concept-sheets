@@ -1,8 +1,10 @@
 <template>
   <b-modal title="Sheet" id="sheet-details" size="xl" :ok-only="true" ok-title="Close" ok-variant="secondary"
-           @shown="loadCodes">
+           @shown="loadCodes" @hide="filters.search = ''">
     <div v-if="codes !== null">
-      <p><strong>POC:</strong> {{ details['Author'] }}</p>
+      <p><strong>Author:</strong> {{ details['Author'] }}</p>
+      <p><strong>Version:</strong> {{ details['MajorVersion'] }}.{{ details['MinorVersion'] }}</p>
+      <p><strong>Last Modified:</strong> {{ new Date(details['LastModified']).toLocaleDateString() }}</p>
       <p><strong>Description:</strong> {{ details['Description'] }}</p>
       <b-form-input
         type="search"
@@ -10,15 +12,6 @@
         size="sm"
         placeholder="Type to Search"
       ></b-form-input>
-
-      <b-row class="mt-2">
-        <b-col cols="4" v-if="hasClassification">
-          <FilterBox title="Classifications" :values="allClassifications" v-model="filters.classifications"/>
-        </b-col>
-        <b-col cols="4" v-if="hasType">
-          <FilterBox title="Types" :values="allTypes" v-model="filters.types"/>
-        </b-col>
-      </b-row>
 
       <div class="d-flex justify-content-end mb-2">
       </div>
@@ -38,8 +31,24 @@
 
       <b-table :fields="fields" :items="codes" class="text-center" :filter="filters" :filter-function="filterRow"
                :per-page="pagination.perPage"
-               :current-page="pagination.current"
-      >
+               :current-page="pagination.current">
+        <template v-slot:head(Type)="data">
+          {{ data.label }}
+          <FilterBox title="Types" :values="allTypes" v-model="filters.types"/>
+        </template>
+
+        <template v-slot:head(Classification)="data">
+          {{ data.label }}
+          <FilterBox title="Classifications" :values="allClassifications" v-model="filters.classifications"/>
+        </template>
+
+        <template v-slot:cell(Code)="data">
+          <span v-html="highlightText(data.value)"/>
+        </template>
+
+        <template v-slot:cell(Description)="data">
+          <span v-html="highlightText(data.value)"/>
+        </template>
       </b-table>
     </div>
   </b-modal>
@@ -90,7 +99,10 @@
           fields.splice(fields.indexOf('Type'), 1);
         }
 
-        return fields;
+        return fields.map(field => ({
+          key: field,
+          sortable: true,
+        }));
       },
       allTypes() {
         const types = [...new Set(this.codes.map(item => item['Type']))];
@@ -122,6 +134,14 @@
       }
     },
     methods: {
+      highlightText(text) {
+        if (this.filters.search === '')
+          return text;
+
+        const re = new RegExp('(' + this.filters.search + ')', 'ig');
+
+        return text.replace(re, '<mark>$1</mark>');
+      },
       filterRow(item, filters) {
         if (filters.search !== null && filters.search !== '') {
           let attribs = ['Code', 'Description'];

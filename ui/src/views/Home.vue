@@ -10,20 +10,24 @@
         placeholder="Type to Search"
       ></b-form-input>
 
-      <b-row class="mt-2">
-        <b-col cols="4">
-          <FilterBox title="Concepts" :values="allConcepts" v-model="filters.concepts"/>
-        </b-col>
-        <b-col cols="4">
-          <FilterBox title="Tags" :values="allTags" v-model="filters.tags"/>
-        </b-col>
-      </b-row>
-
       <div class="d-flex justify-content-end">
         <span class="text-muted small">{{ sheets.length.toLocaleString() }} sheets</span>
       </div>
 
       <b-table :fields="fields" :items="sheets" class="text-center" :filter="filters" :filter-function="filterRow">
+        <template v-slot:head(Concept)="data">
+          {{ data.label }}
+          <FilterBox title="Concepts" :values="allConcepts" v-model="filters.concepts"/>
+        </template>
+
+        <template v-slot:head(Tags)="data">
+          {{ data.label }}
+          <FilterBox title="Tags" :values="allTags" v-model="filters.tags"/>
+        </template>
+
+
+
+
         <template v-slot:cell(Version)="data">
           {{ data.item['MajorVersion'] }}.{{ data.item['MinorVersion'] }}
         </template>
@@ -40,7 +44,20 @@
           <b-btn size="sm" variant="nicoe-light-blue" @click="openDetails(data.item['ID'])">View Details</b-btn>
         </template>
 
+        <template v-slot:cell(Author)="data">
+          <span v-html="highlightText(data.value)"/>
+        </template>
+
+        <template v-slot:cell(Concept)="data">
+          <span v-html="highlightText(data.value)"/>
+        </template>
+
+        <template v-slot:cell(Description)="data">
+          <span v-html="highlightText(data.value)"/>
+        </template>
       </b-table>
+
+
     </div>
     <Sheet ref="modal" :id="selected === null ? null : selected['ID']" :details="selected"/>
   </div>
@@ -78,17 +95,30 @@
         sheets: null,
         selected: null,
         fields: [
-          'Concept',
-          'Description',
-          'Tags',
+          {
+            'key': 'Concept',
+            sortable: true,
+          },
+          {
+            key: 'Description',
+            sortable: true,
+          },
+          {
+            key: 'Tags',
+            sortable: true,
+          },
           {
             key: 'Author',
-            title: 'POC'
+            sortable: true,
           },
-          'Version',
+          {
+            key: 'Version',
+            sortable: true,
+          },
           {
             key: 'LastModified',
-            title: 'Last Modified'
+            title: 'Last Modified',
+            sortable: true,
           },
           'Go'
         ],
@@ -116,6 +146,14 @@
       });
     },
     methods: {
+      highlightText(text) {
+        if (this.filters.search === '')
+          return text;
+
+        const re = new RegExp('(' + this.filters.search + ')', 'ig');
+
+        return text.replace(re, '<mark>$1</mark>');
+      },
       filterRow(item, filters) {
         if (filters.search !== null && filters.search !== '') {
           let attribs = ['Author', 'Concept', 'Description'];
