@@ -23,6 +23,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
- git push -f git@github.com:fdabek1/ehr-code-mappings.git master:gh-pages
+ git push -f git@github.com:fdabek1/clinical-concept-sheets.git master:gh-pages
 
 cd -
