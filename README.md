@@ -1,4 +1,4 @@
-# EHR-Code-Mappings
+# Clinical Concept Sheets
 
 ## What is this?
 
@@ -10,7 +10,7 @@ A library containing mappings for EHR codes (i.e. ICD-9, ICD-10). These mappings
 
 ## Documentation
 
-The documentation can be found at: https://fdabek1.github.io/ehr-code-mappings/
+The documentation can be found at: https://fdabek1.github.io/clinical-concept-sheets/
 
 ## Example
 
