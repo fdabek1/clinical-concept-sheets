@@ -1,8 +1,10 @@
 <template>
   <b-modal title="Sheet" id="sheet-details" size="xl" :ok-only="true" ok-title="Close" ok-variant="secondary"
            @shown="loadCodes" @hide="filters.search = ''">
+    <template slot="modal-title" v-if="codes !== null">
+      {{ details['Concept'] }} - {{ details['Author'] }}
+    </template>
     <div v-if="codes !== null">
-      <p><strong>Author:</strong> {{ details['Author'] }}</p>
       <p><strong>Version:</strong> {{ details['MajorVersion'] }}.{{ details['MinorVersion'] }}</p>
       <p><strong>Last Modified:</strong> {{ new Date(details['LastModified']).toLocaleDateString() }}</p>
       <p><strong>Description:</strong> {{ details['Description'] }}</p>
