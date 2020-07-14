@@ -1,0 +1,42 @@
+Classification,Code,Type,Description
+,38610,,"Peripheral vertigo, unspecified"
+,38611,,Benign paroxysmal positional vertigo
+,38612,,Vestibular neuronitis
+,38619,,Other peripheral vertigo
+,3862,,Vertigo of central origin
+,3869,,Unspecified vertiginous syndromes and labyrinthine disorders
+,7804,,Dizziness and giddiness
+,H811,,Benign paroxysmal vertigo
+,H8110,,"Benign paroxysmal vertigo, unspecified ear"
+,H8111,,"Benign paroxysmal vertigo, right ear"
+,H8112,,"Benign paroxysmal vertigo, left ear"
+,H8113,,"Benign paroxysmal vertigo, bilateral"
+,H812,,Vestibular neuronitis
+,H8120,,"Vestibular neuronitis, unspecified ear"
+,H8121,,"Vestibular neuronitis, right ear"
+,H8122,,"Vestibular neuronitis, left ear"
+,H8123,,"Vestibular neuronitis, bilateral"
+,H813,,Other peripheral vertigo
+,H81311,,"Aural vertigo, right ear"
+,H81312,,"Aural vertigo, left ear"
+,H81313,,"Aural vertigo, bilateral"
+,H81319,,"Aural vertigo, unspecified ear"
+,H81391,,"Other peripheral vertigo, right ear"
+,H81392,,"Other peripheral vertigo, left ear"
+,H81393,,"Other peripheral vertigo, bilateral"
+,H81399,,"Other peripheral vertigo, unspecified ear"
+,H814,,Vertigo of central origin
+,H8141,,
+,H8142,,
+,H8143,,
+,H8149,,
+,H819,,Unspecified disorder of vestibular function
+,H8190,,"Unspecified disorder of vestibular function, unspecified ear"
+,H8191,,"Unspecified disorder of vestibular function, right ear"
+,H8192,,"Unspecified disorder of vestibular function, left ear"
+,H8193,,"Unspecified disorder of vestibular function, bilateral"
+,H8390,,"Unspecified disease of inner ear, unspecified ear"
+,H8391,,Unspecified disease of right inner ear
+,H8392,,Unspecified disease of left inner ear
+,H8393,,"Unspecified disease of inner ear, bilateral"
+,R42,,Dizziness and giddiness

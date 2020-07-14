@@ -1,0 +1,110 @@
+Classification,Code,Type,Description
+,30781,,Tension headache
+,33900,,"Cluster headache syndrome, unspecified"
+,33901,,Episodic cluster headache
+,33902,,Chronic cluster headache
+,33903,,Episodic paroxysmal hemicrania
+,33904,,Chronic paroxysmal hemicrania
+,33909,,Other trigeminal autonomic cephalgias
+,33910,,"Tension type headache, unspecified"
+,33911,,Episodic tension type headache
+,33912,,Chronic tension type headache
+,33920,,"Post-traumatic headache, unspecified"
+,33921,,Acute post-traumatic headache
+,33922,,Chronic post-traumatic headache
+,3393,,"Drug induced headache, not elsewhere classified"
+,33941,,Hemicrania continua
+,33942,,New daily persistent headache
+,33944,,Other complicated headache syndrome
+,33983,,Primary cough headache
+,33984,,Primary exertional headache
+,33985,,Primary stabbing headache
+,33989,,Other headache syndromes
+,34600,,"Migraine with aura, without mention of intractable migraine without mention of status migrainosus"
+,34601,,"Migraine with aura, with intractable migraine, so stated, without mention of status migrainosus"
+,34610,,"Migraine without aura, without mention of intractable migraine without mention of status migrainosus"
+,34611,,"Migraine without aura, with intractable migraine, so stated, without mention of status migrainosus"
+,34612,,"Migraine without aura, without mention of intractable migraine with status migrainosus"
+,34613,,"Migraine without aura, with intractable migraine, so stated, with status migrainosus"
+,34620,,"Variants of migraine, not elsewhere classified, without mention of intractable migraine without mention of status migrainosus"
+,34621,,"Variants of migraine, not elsewhere classified, with intractable migraine, so stated, without mention of status migrainosus"
+,34640,,"Menstrual migraine, without mention of intractable migraine without mention of status migrainosus"
+,34641,,"Menstrual migraine, with intractable migraine, so stated, without mention of status migrainosus"
+,34650,,"Persistent migraine aura without cerebral infarction, without mention of intractable migraine without mention of status migrainosus"
+,34670,,"Chronic migraine without aura, without mention of intractable migraine without mention of status migrainosus"
+,34671,,"Chronic migraine without aura, with intractable migraine, so stated, without mention of status migrainosus"
+,34672,,"Chronic migraine without aura, without mention of intractable migraine with status migrainosus"
+,34673,,"Chronic migraine without aura, with intractable migraine, so stated, with status migrainosus"
+,34680,,"Other forms of migraine, without mention of intractable migraine without mention of status migrainosus"
+,34681,,"Other forms of migraine, with intractable migraine, so stated, without mention of status migrainosus"
+,34690,,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+,34691,,"Migraine, unspecified, with intractable migraine, so stated, without mention of status migrainosus"
+,34692,,"Migraine, unspecified, without mention of intractable migraine with status migrainosus"
+,7840,,Headache
+,G430,,Migraine without aura
+,G43001,,"Migraine w/o aura, not intractable, with status migrainosus"
+,G43009,,"Migraine w/o aura, not intractable, w/o status migrainosus"
+,G43011,,"Migraine without aura, intractable, with status migrainosus"
+,G43019,,"Migraine w/o aura, intractable, without status migrainosus"
+,G431,,Migraine with aura
+,G43109,,"Migraine with aura, not intractable, w/o status migrainosus"
+,G43119,,"Migraine with aura, intractable, without status migrainosus"
+,G43509,,"Perst migrn aura w/o cereb infrc, not ntrct, w/o stat migr"
+,G43701,,"Chronic migraine w/o aura, not intractable, w stat migr"
+,G43709,,"Chronic migraine w/o aura, not intractable, w/o stat migr"
+,G43711,,"Chronic migraine w/o aura, intractable, w status migrainosus"
+,G43719,,"Chronic migraine w/o aura, intractable, w/o stat migr"
+,G438,,Other migraine
+,G43801,,"Other migraine, not intractable, with status migrainosus"
+,G43809,,"Other migraine, not intractable, without status migrainosus"
+,G43819,,"Other migraine, intractable, without status migrainosus"
+,G43829,,"Menstrual migraine, not intractable, w/o status migrainosus"
+,G43839,,"Menstrual migraine, intractable, without status migrainosus"
+,G439,,"Migraine, unspecified"
+,G43901,,"Migraine, unsp, not intractable, with status migrainosus"
+,G43909,,"Migraine, unsp, not intractable, without status migrainosus"
+,G43919,,"Migraine, unsp, intractable, without status migrainosus"
+,G43A0,,"Cyclical vomiting, in migraine, not intractable"
+,G43A1,,"Cyclical vomiting, in migraine, intractable"
+,G43B0,,"Ophthalmoplegic migraine, not intractable"
+,G43B1,,"Ophthalmoplegic migraine, intractable"
+,G43C0,,"Periodic headache syndromes in chld/adlt, not intractable"
+,G43C1,,"Periodic headache syndromes in child or adult, intractable"
+,G43D0,,"Abdominal migraine, not intractable"
+,G43D1,,"Abdominal migraine, intractable"
+,G44001,,"Cluster headache syndrome, unspecified, intractable"
+,G44009,,"Cluster headache syndrome, unspecified, not intractable"
+,G44011,,"Episodic cluster headache, intractable"
+,G44019,,"Episodic cluster headache, not intractable"
+,G44021,,"Chronic cluster headache, intractable"
+,G44029,,"Chronic cluster headache, not intractable"
+,G44031,,"Episodic paroxysmal hemicrania, intractable"
+,G44039,,"Episodic paroxysmal hemicrania, not intractable"
+,G44041,,"Chronic paroxysmal hemicrania, intractable"
+,G44049,,"Chronic paroxysmal hemicrania, not intractable"
+,G44091,,"Other trigeminal autonomic cephalgias (TAC), intractable"
+,G44099,,"Other trigeminal autonomic cephalgias (TAC), not intractable"
+,G441,,"Vascular headache, not elsewhere classified"
+,G442,,Tension-type headache
+,G44201,,"Tension-type headache, unspecified, intractable"
+,G44209,,"Tension-type headache, unspecified, not intractable"
+,G44211,,"Episodic tension-type headache, intractable"
+,G44219,,"Episodic tension-type headache, not intractable"
+,G44221,,"Chronic tension-type headache, intractable"
+,G44229,,"Chronic tension-type headache, not intractable"
+,G44301,,"Post-traumatic headache, unspecified, intractable"
+,G44309,,"Post-traumatic headache, unspecified, not intractable"
+,G44311,,"Acute post-traumatic headache, intractable"
+,G44319,,"Acute post-traumatic headache, not intractable"
+,G44321,,"Chronic post-traumatic headache, intractable"
+,G44329,,"Chronic post-traumatic headache, not intractable"
+,G4440,,"Drug-induced headache, NEC, not intractable"
+,G4441,,"Drug-induced headache, not elsewhere classified, intractable"
+,G4451,,Hemicrania continua
+,G4452,,New daily persistent headache (NDPH)
+,G4459,,Other complicated headache syndrome
+,G4483,,Primary cough headache
+,G4484,,Primary exertional headache
+,G4485,,Primary stabbing headache
+,G4489,,Other headache syndrome
+,R51,,Headache

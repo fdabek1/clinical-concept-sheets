@@ -1,0 +1,1493 @@
+Code,Type,Classification,Description
+3102,ICD9,Mild,Postconcussion Syndrome
+8000,ICD9,Unclassified,closed fracture of vault of skull w/o mention of intracranial injury
+80000,ICD9,Moderate,closed fracture of vault of skull w/o mention of intracranial injury w/state of consciousness unspecified
+80001,ICD9,Moderate,closed fracture of vault of skull w/o mention of intracranial injuryy w/o LOC
+80002,ICD9,Moderate,closed fracture of vault of skull w/o mention of intracranial injury w/brief (< 1 hr) LOC
+80003,ICD9,Moderate,closed fracture of vault of skull w/o mention of intracranial injury w/moderate (1-24 hrs) LOC
+80004,ICD9,Severe,closed fracture of vault of skull w/o mention of intracranial injury w/prolonged (> 24 hrs) LOC and return to pre-existing conscious level
+80005,ICD9,Severe,closed fracture of vault of skull w/o mention of intracranial injury w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80006,ICD9,Moderate,closed fracture of vault of skull w/o mention of intracranial injury w/LOC of unspecified duration
+80009,ICD9,Moderate,closed fracture of vault of skull w/o mention of intracranial injury w/concussion unspecified
+8001,ICD9,Unclassified,closed fracture of vault of skull with cerebral laceration and contusion
+80010,ICD9,Moderate,closed fracture of vault of skull with cerebral laceration and contusion w/state of consciousness unspecified
+80011,ICD9,Moderate,closed fracture of vault of skull with cerebral laceration and contusion w/o LOC
+80012,ICD9,Moderate,closed fracture of vault of skull with cerebral laceration and contusion w/brief (<1 hr) LOC
+80013,ICD9,Moderate,closed fracture of vault of skull with cerebral laceration and contusion w/moderate (1-24 hrs) LOC
+80014,ICD9,Severe,closed fracture of vault of skull with cerebral laceration and contusion w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80015,ICD9,Severe,closed fracture of vault of skull with cerebral laceration and contusion w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80016,ICD9,Moderate,closed fracture of vault of skull with cerebral laceration and contusion w/LOC of unspecified duration
+80019,ICD9,Moderate,closed fracture of vault of skull with cerebral laceration and contusion w/concussion unspecified
+8002,ICD9,Unclassified,closed fracture of vault of skull with subarachnoid subdural and extradural hemorrhage
+80020,ICD9,Moderate,closed fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/state of consciousness unspecified
+80021,ICD9,Moderate,closed fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/o LOC
+80022,ICD9,Moderate,closed fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/brief (<1 hr) LOC
+80023,ICD9,Moderate,closed fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/moderate (1-24 hrs) LOC
+80024,ICD9,Severe,closed fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80025,ICD9,Severe,closed fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80026,ICD9,Moderate,closed fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/LOC of unspecified duration
+80029,ICD9,Moderate,closed fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/concussion unspecified
+8003,ICD9,Unclassified,closed fracture of vault of skull with other and unspecified intracranial hemorrhage
+80030,ICD9,Moderate,closed fracture of vault of skull with other and unspecified intracranial hemorrhage w/state of consciousness unspecified
+80031,ICD9,Moderate,closed fracture of vault of skull with other and unspecified intracranial hemorrhage w/o LOC
+80032,ICD9,Moderate,closed fracture of vault of skull with other and unspecified intracranial hemorrhagee w/brief (<1 hr) LOC
+80033,ICD9,Moderate,closed fracture of vault of skull with other and unspecified intracranial hemorrhage w/moderate (1-24 hrs) LOC
+80034,ICD9,Severe,closed fracture of vault of skull with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80035,ICD9,Severe,closed fracture of vault of skull with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80036,ICD9,Moderate,closed fracture of vault of skull with other and unspecified intracranial hemorrhage w/LOC of unspecified duration
+80039,ICD9,Moderate,closed fracture of vault of skull with other and unspecified intracranial hemorrhage w/concussion unspecified
+8004,ICD9,Unclassified,closed fracture of vault of skull with intracranial injury of other and unspecified nature
+80040,ICD9,Moderate,closed fracture of vault of skull with intracranial injury of other and unspecified nature w/state of consciousness unspecified
+80041,ICD9,Moderate,closed fracture of vault of skull with intracranial injury of other and unspecified nature w/o LOC
+80042,ICD9,Moderate,closed fracture of vault of skull with intracranial injury of other and unspecified nature w/brief (<1 hr) LOC
+80043,ICD9,Moderate,closed fracture of vault of skull with intracranial injury of other and unspecified nature w/moderate (1-24 hrs) LOC
+80044,ICD9,Severe,closed fracture of vault of skull with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80045,ICD9,Severe,closed fracture of vault of skull with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80046,ICD9,Moderate,closed fracture of vault of skull with intracranial injury of other and unspecified nature w/LOC of unspecified duration
+80046,ICD9,Moderate,closed fracture of vault of skull with intracranial injury of other and unspecified nature w/LOC of unspecified duration
+80049,ICD9,Moderate,closed fracture of vault of skull with intracranial injury of other and unspecified nature w/concussion unspecified
+8005,ICD9,Unclassified,open fracture of vault of skull w/o mention of intracranial injury
+80050,ICD9,Penetrating,open fracture of vault of skull w/o mention of intracranial injury w/state of consciousness unspecified
+80051,ICD9,Penetrating,open fracture of vault of skull w/o mention of intracranial injury w/o LOC
+80052,ICD9,Penetrating,open fracture of vault of skull w/o mention of intracranial injury w/brief (<1 hr) LOC
+80053,ICD9,Penetrating,open fracture of vault of skull w/o mention of intracranial injury w/moderate (1-24 hrs) LOC
+80054,ICD9,Penetrating,open fracture of vault of skull w/o mention of intracranial injury w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80055,ICD9,Penetrating,open fracture of vault of skull w/o mention of intracranial injury w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80056,ICD9,Penetrating,open fracture of vault of skull w/o mention of intracranial injury w/LOC of unspecified duration
+80059,ICD9,Penetrating,open fracture of vault of skull w/o mention of intracranial injury w/concussion unspecified
+8006,ICD9,Unclassified,open fracture of vault of skull with cerebral laceration and contusion
+80060,ICD9,Penetrating,open fracture of vault of skull with cerebral laceration and contusion w/state of consciousness unspecified
+80061,ICD9,Penetrating,open fracture of vault of skull with cerebral laceration and contusion w/o LOC
+80062,ICD9,Penetrating,open fracture of vault of skull with cerebral laceration and contusion w/brief (<1 hr) LOC
+80063,ICD9,Penetrating,open fracture of vault of skull with cerebral laceration and contusion w/moderate (1-24 hrs) LOC
+80064,ICD9,Penetrating,open fracture of vault of skull with cerebral laceration and contusion w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80065,ICD9,Penetrating,open fracture of vault of skull with cerebral laceration and contusion w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80066,ICD9,Penetrating,open fracture of vault of skull with cerebral laceration and contusion w/LOC of unspecified duration
+80069,ICD9,Penetrating,open fracture of vault of skull with cerebral laceration and contusion w/concussion unspecified
+8007,ICD9,Unclassified,open fracture of vault of skull with subarachnoid subdural and extradural hemorrhage
+80070,ICD9,Penetrating,open fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/state of consciousness unspecified
+80071,ICD9,Penetrating,open fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/o LOC
+80072,ICD9,Penetrating,open fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/brief (<1 hr) LOC
+80073,ICD9,Penetrating,open fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/moderate (1-24 hrs) LOC
+80074,ICD9,Penetrating,open fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80075,ICD9,Penetrating,open fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80076,ICD9,Penetrating,open fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/LOC of unspecified duration
+80079,ICD9,Penetrating,open fracture of vault of skull with subarachnoid subdural and extradural hemorrhage w/concussion unspecified
+8008,ICD9,Unclassified,open fracture of vault of skull with other and unspecified intracranial hemorrhage
+80080,ICD9,Penetrating,open fracture of vault of skull with other and unspecified intracranial hemorrhage w/state of consciousness unspecified
+80081,ICD9,Penetrating,open fracture of vault of skull with other and unspecified intracranial hemorrhage w/o LOC
+80082,ICD9,Penetrating,open fracture of vault of skull with other and unspecified intracranial hemorrhage w/brief (<1 hr) LOC
+80083,ICD9,Penetrating,open fracture of vault of skull with other and unspecified intracranial hemorrhage w/moderate (1-24 hrs) LOC
+80084,ICD9,Penetrating,open fracture of vault of skull with other and unspecified intracranial hemorrhage w/prolonged (>24  hrs) LOC and return to pre-existing conscious level
+80085,ICD9,Penetrating,open fracture of vault of skull with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80086,ICD9,Penetrating,open fracture of vault of skull with other and unspecified intracranial hemorrhage w/LOC of unspecified duration
+80089,ICD9,Penetrating,open fracture of vault of skull with other and unspecified intracranial hemorrhage w/concussion unspecified
+8009,ICD9,Unclassified,open fracture of vault of skull with intracranial injury of other and unspecified nature
+80090,ICD9,Penetrating,open fracture of vault of skull with intracranial injury of other and unspecified nature w/state of consciousness unspecified
+80091,ICD9,Penetrating,open fracture of vault of skull with intracranial injury of other and unspecified nature w/o LOC
+80092,ICD9,Penetrating,open fracture of vault of skull with intracranial injury of other and unspecified nature w/brief (<1 hr) LOC
+80093,ICD9,Penetrating,open fracture of vault of skull with intracranial injury of other and unspecified nature w/moderate (1-24 hrs) LOC
+80094,ICD9,Penetrating,open fracture of vault of skull with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80095,ICD9,Penetrating,open fracture of vault of skull with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80096,ICD9,Penetrating,open fracture of vault of skull with intracranial injury of other and unspecified nature w/LOC of unspecified duration
+80099,ICD9,Penetrating,open fracture of vault of skull with intracranial injury of other and unspecified nature w/concussion unspecified
+8010,ICD9,Unclassified,closed fracture of base of skull w/o mention of intracranial injury
+80100,ICD9,Moderate,closed fracture of base of skull w/o mention of intracranial injury w/state of consciousness unspecified
+80101,ICD9,Moderate,closed fracture of base of skull w/o mention of intracranial injury w/o LOC
+80102,ICD9,Moderate,closed fracture of base of skull w/o mention of intracranial injury w/brief (<1 hr) LOC
+80103,ICD9,Moderate,closed fracture of base of skull w/o mention of intracranial injury w/moderate (1-24 hrs) LOC
+80104,ICD9,Severe,closed fracture of base of skull w/o mention of intracranial injury w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80105,ICD9,Severe,closed fracture of base of skull w/o mention of intracranial injury w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80106,ICD9,Moderate,closed fracture of base of skull w/o mention of intracranial injury w/LOC of unspecified duration
+80109,ICD9,Moderate,closed fracture of base of skull w/o mention of intracranial injury w/concussion unspecified
+8011,ICD9,Unclassified,closed rracture of base of skull with cerebral laceration and contusion
+80110,ICD9,Moderate,closed rracture of base of skull with cerebral laceration and contusion w/state of consciousness unspecified
+80111,ICD9,Moderate,closed rracture of base of skull with cerebral laceration and contusion w/o LOC
+80112,ICD9,Moderate,closed rracture of base of skull with cerebral laceration and contusion w/brief (<1 hr) LOC
+80113,ICD9,Moderate,closed rracture of base of skull with cerebral laceration and contusion w/moderate (1-24 hrs) LOC
+80114,ICD9,Severe,closed rracture of base of skull with cerebral laceration and contusion w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80115,ICD9,Severe,closed rracture of base of skull with cerebral laceration and contusion w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80116,ICD9,Moderate,closed rracture of base of skull with cerebral laceration and contusion w/LOC of unspecified duration
+80119,ICD9,Moderate,closed rracture of base of skull with cerebral laceration and contusion w/concussion unspecified
+8012,ICD9,Unclassified,closed fracture of base of skull with subarachnoid subdural and extradural hemorrhage
+80120,ICD9,Moderate,closed fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/state of consciousness unspecified
+80121,ICD9,Moderate,closed fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/o LOC
+80122,ICD9,Moderate,closed fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/brief (<1 hr) LOC
+80123,ICD9,Moderate,closed fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/moderate (1-24 hrs) LOC
+80124,ICD9,Severe,closed fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80125,ICD9,Severe,closed fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80126,ICD9,Moderate,closed fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/LOC of unspecified duration
+80129,ICD9,Moderate,closed fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/concussion unspecified
+8013,ICD9,Unclassified,closed fracture of base of skull with other and unspecified intracranial hemorrhage
+80130,ICD9,Moderate,closed fracture of base of skull with other and unspecified intracranial hemorrhage w/state of consciousness unspecified
+80131,ICD9,Moderate,closed fracture of base of skull with other and unspecified intracranial hemorrhage w/o LOC
+80132,ICD9,Moderate,closed fracture of base of skull with other and unspecified intracranial hemorrhage w/brief (<1 hr) LOC
+80133,ICD9,Moderate,closed fracture of base of skull with other and unspecified intracranial hemorrhage w/moderate (1-24 hrs) LOC
+80134,ICD9,Severe,closed fracture of base of skull with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80135,ICD9,Severe,closed fracture of base of skull with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80136,ICD9,Moderate,closed fracture of base of skull with other and unspecified intracranial hemorrhage w/LOC of unspecified duration
+80139,ICD9,Moderate,closed fracture of base of skull with other and unspecified intracranial hemorrhage w/concussion unspecified
+8014,ICD9,Unclassified,closed fracture of base of skull with intracranial injury of other and unspecified nature
+80140,ICD9,Moderate,closed fracture of base of skull with intracranial injury of other and unspecified nature w/state of consciousness unspecified
+80141,ICD9,Moderate,closed fracture of base of skull with intracranial injury of other and unspecified nature w/o LOC
+80142,ICD9,Moderate,closed fracture of base of skull with intracranial injury of other and unspecified nature w/brief (<1 hr) LOC
+80143,ICD9,Moderate,closed fracture of base of skull with intracranial injury of other and unspecified nature w/moderate (1-24 hrs) LOC
+80144,ICD9,Severe,closed fracture of base of skull with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80145,ICD9,Severe,closed fracture of base of skull with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80146,ICD9,Moderate,closed fracture of base of skull with intracranial injury of other and unspecified nature w/LOC of unspecified duration
+80146,ICD9,Moderate,closed fracture of base of skull with intracranial injury of other and unspecified nature w/LOC of unspecified duration
+80149,ICD9,Moderate,closed fracture of base of skull with intracranial injury of other and unspecified nature w/concussion unspecified
+8015,ICD9,Unclassified,open fracture of base of skull w/o mention of intracranial injury
+80150,ICD9,Penetrating,open fracture of base of skull w/o mention of intracranial injury w/state of consciousness unspecified
+80151,ICD9,Penetrating,open fracture of base of skull w/o mention of intracranial injury w/o LOC
+80152,ICD9,Penetrating,open fracture of base of skull w/o mention of intracranial injury w/brief (<1 hr) LOC
+80153,ICD9,Penetrating,open fracture of base of skull w/o mention of intracranial injury w/moderate (1-24 hrs) LOC
+80154,ICD9,Penetrating,open fracture of base of skull w/o mention of intracranial injury w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80155,ICD9,Penetrating,open fracture of base of skull w/o mention of intracranial injury w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80156,ICD9,Penetrating,open fracture of base of skull w/o mention of intracranial injury w/LOC of unspecified duration
+80159,ICD9,Penetrating,open fracture of base of skull w/o mention of intracranial injury w/concussion unspecified
+8016,ICD9,Unclassified,open fracture of base of skull with cerebral laceration and contusion
+80160,ICD9,Penetrating,open fracture of base of skull with cerebral laceration and contusion w/state of consciousness unspecified
+80161,ICD9,Penetrating,open fracture of base of skull with cerebral laceration and contusion w/o LOC
+80162,ICD9,Penetrating,open fracture of base of skull with cerebral laceration and contusion w/brief (<1 hr) LOC
+80163,ICD9,Penetrating,open fracture of base of skull with cerebral laceration and contusion w/moderate (1-24 hrs) LOC
+80164,ICD9,Penetrating,open fracture of base of skull with cerebral laceration and contusion w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80165,ICD9,Penetrating,open fracture of base of skull with cerebral laceration and contusion w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80166,ICD9,Penetrating,open fracture of base of skull with cerebral laceration and contusion w/LOC of unspecified duration
+80169,ICD9,Penetrating,open fracture of base of skull with cerebral laceration and contusion w/concussion unspecified
+8017,ICD9,Unclassified,open fracture of base of skull with subarachnoid subdural and extradural hemorrhage
+80170,ICD9,Penetrating,open fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/state of consciousness unspecified
+80171,ICD9,Penetrating,open fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/o LOC
+80172,ICD9,Penetrating,open fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/brief (<1 hr) LOC
+80173,ICD9,Penetrating,open fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/moderate (1-24 hrs) LOC
+80174,ICD9,Penetrating,open fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80175,ICD9,Penetrating,open fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80176,ICD9,Penetrating,open fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/LOC of unspecified duration
+80179,ICD9,Penetrating,open fracture of base of skull with subarachnoid subdural and extradural hemorrhage w/concussion unspecified
+8018,ICD9,Unclassified,open fracture of base of skull with other and unspecified intracranial hemorrhage
+80180,ICD9,Penetrating,open fracture of base of skull with other and unspecified intracranial hemorrhage w/state of consciousness unspecified
+80181,ICD9,Penetrating,open fracture of base of skull with other and unspecified intracranial hemorrhage w/o LOC
+80182,ICD9,Penetrating,open fracture of base of skull with other and unspecified intracranial hemorrhage w/brief (<1 hr) LOC
+80183,ICD9,Penetrating,open fracture of base of skull with other and unspecified intracranial hemorrhage w/moderate (1-24 hrs) LOC
+80184,ICD9,Penetrating,open fracture of base of skull with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80185,ICD9,Penetrating,open fracture of base of skull with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80186,ICD9,Penetrating,open fracture of base of skull with other and unspecified intracranial hemorrhage w/LOC of unspecified duration
+80189,ICD9,Penetrating,open fracture of base of skull with other and unspecified intracranial hemorrhage w/concussion unspecified
+8019,ICD9,Unclassified,open fracture of base of skull with intracranial injury of other and unspecified nature
+80190,ICD9,Penetrating,open fracture of base of skull with intracranial injury of other and unspecified nature w/state of consciousness unspecified
+80191,ICD9,Penetrating,open fracture of base of skull with intracranial injury of other and unspecified nature w/o LOC
+80192,ICD9,Penetrating,open fracture of base of skull with intracranial injury of other and unspecified nature w/brief (<1 hr) LOC
+80193,ICD9,Penetrating,open fracture of base of skull with intracranial injury of other and unspecified nature w/moderate (1-24 hrs) LOC
+80194,ICD9,Penetrating,open fracture of base of skull with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80195,ICD9,Penetrating,open fracture of base of skull with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80196,ICD9,Penetrating,open fracture of base of skull with intracranial injury of other and unspecified nature w/LOC of unspecified duration
+80199,ICD9,Penetrating,open fracture of base of skull with intracranial injury of other and unspecified nature w/concussion unspecified
+8030,ICD9,Unclassified,other closed skull fracture w/o mention of intracranial injury
+80300,ICD9,Moderate,other closed skull fracture w/o mention of intracranial injury w/state of consciousness unspecified
+80301,ICD9,Moderate,other closed skull fracture w/o mention of intracranial injury w/o LOC
+80302,ICD9,Moderate,other closed skull fracture w/o mention of intracranial injury w/brief (<1 hr) LOC
+80303,ICD9,Moderate,other closed skull fracture w/o mention of intracranial injury w/moderate (1-24 hrs) LOC
+80304,ICD9,Severe,other closed skull fracture w/o mention of intracranial injury w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80305,ICD9,Severe,other closed skull fracture w/o mention of intracranial injury w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80306,ICD9,Moderate,other closed skull fracture w/o mention of intracranial injury w/LOC of unspecified duration
+80309,ICD9,Moderate,other closed skull fracture w/o mention of intracranial injury w/concussion unspecified
+8031,ICD9,Unclassified,other closed skull fracture with cerebral laceration and contusion
+80310,ICD9,Moderate,other closed skull fracture with cerebral laceration and contusion w/state of consciousness unspecified
+80311,ICD9,Moderate,other closed skull fracture with cerebral laceration and contusion w/o LOC
+80312,ICD9,Moderate,other closed skull fracture with cerebral laceration and contusion w/brief (<1 hr) LOC
+80313,ICD9,Moderate,other closed skull fracture with cerebral laceration and contusion w/moderate (1-24 hrs) LOC
+80314,ICD9,Severe,other closed skull fracture with cerebral laceration and contusion w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80315,ICD9,Severe,other closed skull fracture with cerebral laceration and contusion w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80316,ICD9,Moderate,other closed skull fracture with cerebral laceration and contusion w/LOC of unspecified duration
+80319,ICD9,Moderate,other closed skull fracture with cerebral laceration and contusion w/concussion unspecified
+8032,ICD9,Unclassified,other closed skull fracture with subarachnoid subdural and extradural hemorrhage
+80320,ICD9,Moderate,other closed skull fracture with subarachnoid subdural and extradural hemorrhage w/state of consciousness unspecified
+80321,ICD9,Moderate,other closed skull fracture with subarachnoid subdural and extradural hemorrhage w/o LOC
+80322,ICD9,Moderate,other closed skull fracture with subarachnoid subdural and extradural hemorrhage w/brief (<1 hr) LOC
+80323,ICD9,Moderate,other closed skull fracture with subarachnoid subdural and extradural hemorrhage w/moderate (1-24 hrs) LOC
+80324,ICD9,Severe,other closed skull fracture with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80325,ICD9,Severe,other closed skull fracture with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80326,ICD9,Moderate,other closed skull fracture with subarachnoid subdural and extradural hemorrhage w/LOC of unspecified duration
+80329,ICD9,Moderate,other closed skull fracture with subarachnoid subdural and extradural hemorrhage w/concussion unspecified
+8033,ICD9,Unclassified,closed skull fracture with other and unspecified intracranial hemorrhage
+80330,ICD9,Moderate,closed skull fracture with other and unspecified intracranial hemorrhage w/state of Unconsciousness Unspecified
+80331,ICD9,Moderate,closed skull fracture with other and unspecified intracranial hemorrhage w/o LOC
+80332,ICD9,Moderate,closed skull fracture with other and unspecified intracranial hemorrhage w/brief (<1 hr) LOC
+80333,ICD9,Moderate,closed skull fracture with other and unspecified intracranial hemorrhage w/moderate (1-24 hrs) LOC
+80334,ICD9,Severe,closed skull fracture with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80335,ICD9,Severe,closed skull fracture with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80336,ICD9,Moderate,closed skull fracture with other and unspecified intracranial hemorrhage w/LOC of unspecified duration
+80339,ICD9,Moderate,closed skull fracture with other and unspecified intracranial hemorrhage w/concussion unspecified
+8034,ICD9,Unclassified,other closed skull fracture with intracranial injury of other and unspecified nature
+80340,ICD9,Moderate,other closed skull fracture with intracranial injury of other and unspecified nature w/state of consciousness unspecified
+80341,ICD9,Moderate,other closed skull fracture with intracranial injury of other and unspecified nature w/o LOC
+80342,ICD9,Moderate,other closed skull fracture with intracranial injury of other and unspecified nature w/brief (<1 hr) LOC
+80343,ICD9,Moderate,other closed skull fracture with intracranial injury of other and unspecified nature w/moderate (1-24 hrs) LOC
+80344,ICD9,Severe,other closed skull fracture with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80345,ICD9,Severe,other closed skull fracture with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80346,ICD9,Moderate,other closed skull fracture with intracranial injury of other and unspecified nature w/LOC of unspecified duration
+80349,ICD9,Moderate,other closed skull fracture with intracranial injury of other and unspecified nature w/concussion unspecified
+8035,ICD9,Unclassified,other open skull fracture w/o mention of intracranial injury
+80350,ICD9,Penetrating,other open skull fracture w/o mention of intracranial injury w/state of consciousness unspecified
+80351,ICD9,Penetrating,other open skull fracture w/o mention of intracranial injury w/o LOC
+80352,ICD9,Penetrating,other open skull fracture w/o mention of intracranial injury w/brief (<1 hr) LOC
+80353,ICD9,Penetrating,other open skull fracture w/o mention of intracranial injury w/moderate (1-24 hrs) LOC
+80354,ICD9,Penetrating,other open skull fracture w/o mention of intracranial injury w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80355,ICD9,Penetrating,other open skull fracture w/o mention of intracranial injury w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80356,ICD9,Penetrating,other open skull fracture w/o mention of intracranial injury w/LOC of unspecified duration
+80359,ICD9,Penetrating,other open skull fracture w/o mention of intracranial injury w/concussion unspecified
+8036,ICD9,Unclassified,other open skull fracture with cerebral laceration and contusion
+80360,ICD9,Penetrating,other open skull fracture with cerebral laceration and contusion w/state of consciousness unspecified
+80361,ICD9,Penetrating,other open skull fracture with cerebral laceration and contusion w/o LOC
+80362,ICD9,Penetrating,other open skull fracture with cerebral laceration and contusion w/brief (<1 hr) LOC
+80363,ICD9,Penetrating,other open skull fracture with cerebral laceration and contusion w/moderate (1-24 hrs) LOC
+80364,ICD9,Penetrating,other open skull fracture with cerebral laceration and contusion w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80365,ICD9,Penetrating,other open skull fracture with cerebral laceration and contusion w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80366,ICD9,Penetrating,other open skull fracture with cerebral laceration and contusion w/LOC of unspecified duration
+80369,ICD9,Penetrating,other open skull fracture with cerebral laceration and contusion w/concussion unspecified
+8037,ICD9,Unclassified,other open skull fracture with subarachnoid subdural and extradural hemorrhage
+80370,ICD9,Penetrating,other open skull fracture with subarachnoid subdural and extradural hemorrhage w/state of consciousness unspecified
+80371,ICD9,Penetrating,other open skull fracture with subarachnoid subdural and extradural hemorrhage w/o LOC
+80372,ICD9,Penetrating,other open skull fracture with subarachnoid subdural and extradural hemorrhage w/brief (<1 hr) LOC
+80373,ICD9,Penetrating,other open skull fracture with subarachnoid subdural and extradural hemorrhage w/moderate (1-24 hrs) LOC
+80374,ICD9,Penetrating,other open skull fracture with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80375,ICD9,Penetrating,other open skull fracture with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80376,ICD9,Penetrating,other open skull fracture with subarachnoid subdural and extradural hemorrhage w/LOC of unspecified duration
+80379,ICD9,Penetrating,other open skull fracture with subarachnoid subdural and extradural hemorrhage w/concussion unspecified
+8038,ICD9,Unclassified,other open skull fracture with other and unspecified intracranial hemorrhage
+80380,ICD9,Penetrating,other open skull fracture with other and unspecified intracranial hemorrhage w/state of consciousness unspecified
+80381,ICD9,Penetrating,other open skull fracture with other and unspecified intracranial hemorrhage w/o LOC
+80382,ICD9,Penetrating,other open skull fracture with other and unspecified intracranial hemorrhage w/brief (<1 hr) LOC
+80383,ICD9,Penetrating,other open skull fracture with other and unspecified intracranial hemorrhage w/moderate (1-24 hrs) LOC
+80384,ICD9,Penetrating,other open skull fracture with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80385,ICD9,Penetrating,other open skull fracture with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80386,ICD9,Penetrating,other open skull fracture with other and unspecified intracranial hemorrhage w/LOC of unspecified duration
+80389,ICD9,Penetrating,other open skull fracture with other and unspecified intracranial hemorrhage w/concussion unspecified
+8039,ICD9,Unclassified,other open skull fracture with intracranial injury of other and unspecified nature
+80390,ICD9,Penetrating,other open skull fracture with intracranial injury of other and unspecified nature w/state of consciousness unspecified
+80391,ICD9,Penetrating,other open skull fracture with intracranial injury of other and unspecified nature w/o LOC
+80392,ICD9,Penetrating,other open skull fracture with intracranial injury of other and unspecified nature w/brief (<1 hr) LOC
+80393,ICD9,Penetrating,other open skull fracture with intracranial injury of other and unspecified nature w/moderate (1-24 hrs) LOC
+80394,ICD9,Penetrating,other open skull fracture with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80395,ICD9,Penetrating,other open skull fracture with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80396,ICD9,Penetrating,other open skull fracture with intracranial injury of other and unspecified nature w/LOC of unspecified duration
+80399,ICD9,Penetrating,other open skull fracture with intracranial injury of other and unspecified nature w/concussion unspecified
+8040,ICD9,Unclassified,closed fractures involving skull or face with other bones w/o mention of intracranial injury
+80400,ICD9,Moderate,"closed fractures involving skull or face with other bones, w/o mention of intractranial injury, w/state of consciousness unspecified"
+80401,ICD9,Moderate,"closed fractures involving skull or face with other bones, w/o mention of intractranial injury, w/o LOC"
+80402,ICD9,Moderate,"closed fractures involving skull or face with other bones, w/o mention of intractranial injury, w/brief (<1 hr) LOC"
+80403,ICD9,Moderate,"closed fractures involving skull or face with other bones, w/o mention of intractranial injury, w/moderate (1-24 hrs) LOC"
+80404,ICD9,Severe,"closed fractures involving skull or face with other bones, w/o mention of intractranial injury, w/prolonged (>24 hrs) LOC and return to pre-existing conscious level"
+80405,ICD9,Severe,"closed fractures involving skull or face with other bones, w/o mention of intractranial injury, w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level"
+80406,ICD9,Moderate,"closed fractures involving skull or face with other bones, w/o mention of intractranial injury, w/LOC of unspecified duration"
+80409,ICD9,Moderate,"closed fractures involving skull or face with other bones, w/o mention of intractranial injury, w/concussion unspecified"
+8041,ICD9,Unclassified,closed fractures involving skull or face with other bones with cerebral laceration and contusion
+80410,ICD9,Moderate,closed fractures involving skull or face with other bones with cerebral laceration and contusion w/state of consciousness unspecified
+80411,ICD9,Moderate,closed fractures involving skull or face with other bones with cerebral laceration and contusion w/o LOC
+80412,ICD9,Moderate,closed fractures involving skull or face with other bones with cerebral laceration and contusion w/brief (<1 hr) LOC
+80413,ICD9,Moderate,closed fractures involving skull or face with other bones with cerebral laceration and contusion w/moderate (1-24 hrs) LOC
+80414,ICD9,Severe,closed fractures involving skull or face with other bones with cerebral laceration and contusion w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80415,ICD9,Severe,closed fractures involving skull or face with other bones with cerebral laceration and contusion w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80416,ICD9,Moderate,closed fractures involving skull or face with other bones with cerebral laceration and contusion w/LOC of unspecified duration
+80419,ICD9,Moderate,closed fractures involving skull or face with other bones with cerebral laceration and contusion w/concussion unspecified
+8042,ICD9,Unclassified,closed fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage
+80420,ICD9,Moderate,closed fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/state of consciousness unspecified
+80421,ICD9,Moderate,closed fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/o LOC
+80422,ICD9,Moderate,closed fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/brief (<1 hr) LOC
+80423,ICD9,Moderate,closed fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/moderate (1-24 hrs) LOC
+80424,ICD9,Severe,closed fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80425,ICD9,Severe,closed fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80426,ICD9,Moderate,closed fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/LOC of unspecified duration
+80429,ICD9,Moderate,closed fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/concussion unspecified
+8043,ICD9,Unclassified,closed fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage
+80430,ICD9,Moderate,closed fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/state of consciousness unspecified
+80431,ICD9,Moderate,closed fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/o LOC
+80432,ICD9,Moderate,closed fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/brief (<1 hr) LOC
+80433,ICD9,Moderate,closed fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/moderate (1-24 hrs) LOC
+80434,ICD9,Severe,closed fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC and return to pre- existing conscious level
+80435,ICD9,Severe,closed fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80436,ICD9,Moderate,closed fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/LOC of unspecified duration
+80439,ICD9,Moderate,closed fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/concussion unspecified
+8044,ICD9,Unclassified,closed fractures involving skull or face with other bones with intracranial injury of other and unspecified nature
+80440,ICD9,Moderate,closed fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/state of consciousness unspecified
+80441,ICD9,Moderate,closed fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/o LOC
+80442,ICD9,Moderate,closed fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/brief (<1 hr) LOC
+80443,ICD9,Moderate,closed fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/moderate (1-24 hrs) LOC
+80444,ICD9,Severe,closed fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80445,ICD9,Severe,closed fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80446,ICD9,Moderate,closed fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/LOC of unspecified duration
+80449,ICD9,Moderate,closed fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/concussion unspecified
+8045,ICD9,Unclassified,open fractures involving skull or face with other bones w/o mention of intracranial injury
+80450,ICD9,Penetrating,open fractures involving skull or face with other bones w/o mention of intracranial injury w/state of consciousness unspecified
+80451,ICD9,Penetrating,open fractures involving skull or face with other bones w/o mention of intracranial injury w/o LOC
+80452,ICD9,Penetrating,open fractures involving skull or face with other bones w/o mention of intracranial injury w/brief (<1 hr) LOC
+80453,ICD9,Penetrating,open fractures involving skull or face with other bones w/o mention of intracranial injury w/moderate (1-24 hrs) LOC
+80454,ICD9,Penetrating,open fractures involving skull or face with other bones w/o mention of intracranial injury w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80455,ICD9,Penetrating,open fractures involving skull or face with other bones w/o mention of intracranial injury w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80456,ICD9,Penetrating,open fractures involving skull or face with other bones w/o mention of intracranial injury w/LOC of unspecified duration
+80459,ICD9,Penetrating,open fractures involving skull or face with other bones w/o mention of intracranial injury w/concussion unspecified
+8046,ICD9,Unclassified,open fractures involving skull or face with other bones with cerebral laceration and contusion
+80460,ICD9,Penetrating,open fractures involving skull or face with other bones with cerebral laceration and contusion w/state of consciousness unspecified
+80461,ICD9,Penetrating,open fractures involving skull or face with other bones with cerebral laceration and contusion w/o LOC
+80462,ICD9,Penetrating,open fractures involving skull or face with other bones with cerebral laceration and contusion w/brief (<1 hr) LOC
+80463,ICD9,Penetrating,open fractures involving skull or face with other bones with cerebral laceration and contusion w/moderate (1-24 hrs) LOC
+80464,ICD9,Penetrating,open fractures involving skull or face with other bones with cerebral laceration and contusion w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80465,ICD9,Penetrating,open fractures involving skull or face with other bones with cerebral laceration and contusion w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80466,ICD9,Penetrating,open fractures involving skull or face with other bones with cerebral laceration and contusion w/LOC of unspecified duration
+80469,ICD9,Penetrating,open fractures involving skull or face with other bones with cerebral laceration and contusion w/concussion unspecified
+8047,ICD9,Unclassified,open fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage
+80470,ICD9,Penetrating,open fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/state of consciousness unspecified
+80471,ICD9,Penetrating,open fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/o LOC
+80472,ICD9,Penetrating,open fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/brief (<1 hr) LOC
+80473,ICD9,Penetrating,open fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/moderate (1-24 hrs) LOC
+80474,ICD9,Penetrating,open fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80475,ICD9,Penetrating,open fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80476,ICD9,Penetrating,open fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/LOC of unspecified duration
+80479,ICD9,Penetrating,open fractures involving skull or face with other bones with subarachnoid subdural and extradural hemorrhage w/concussion unspecified
+8048,ICD9,Unclassified,open fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage
+80480,ICD9,Penetrating,open fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/state of consciousness unspecified
+80481,ICD9,Penetrating,open fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/o LOC
+80482,ICD9,Penetrating,open fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/brief (<1 hr) LOC
+80483,ICD9,Penetrating,open fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/moderate (1-24 hrs) LOC
+80484,ICD9,Penetrating,open fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80485,ICD9,Penetrating,open fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/prolonged (>24 hrs) Loss Consciousness w/o return to pre-existing conscious level
+80486,ICD9,Penetrating,open fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/LOC of unspecified duration
+80489,ICD9,Penetrating,open fractures involving skull or face with other bones with other and unspecified intracranial hemorrhage w/concussion unspecified
+8049,ICD9,Unclassified,open fractures involving skull or face with other bones with intracranial injury of other and unspecified nature
+80490,ICD9,Penetrating,open fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/state of consciousness unspecified
+80491,ICD9,Penetrating,open fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/o LOC
+80492,ICD9,Penetrating,open fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/brief (<1 hr) LOC
+80493,ICD9,Penetrating,open fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/moderate (1-24 hrs) LOC
+80494,ICD9,Penetrating,open fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+80495,ICD9,Penetrating,open fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+80496,ICD9,Penetrating,open fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/LOC of unspecified duration
+80499,ICD9,Penetrating,open fractures involving skull or face with other bones with intracranial injury of other and unspecified nature w/concussion unspecified
+850,ICD9,Mild,concussion
+8500,ICD9,Mild,concussion w/o LOC
+8501,ICD9,Mild,concussion w/brief LOC
+85011,ICD9,Mild,concussion w/LOC of 30 min or less
+85012,ICD9,Moderate,concussion w/LOC From 31-59 min
+8502,ICD9,Moderate,concussion w/moderate LOC
+8503,ICD9,Severe,concussion w/prolonged LOC and return to pre-existing conscious level
+8504,ICD9,Severe,concussion w/prolonged LOC w/o return to pre-existing conscious level
+8505,ICD9,Mild,concussion w/LOC of unspecified duration
+8509,ICD9,Mild,concussion unspecified
+8510,ICD9,Unclassified,cortex (cerebral) contusion w/o mention of open intracranial wound
+85100,ICD9,Moderate,"cortex (cerebral) contusion w/o mention of open intracranial wound, state of consciousness unspecified"
+85101,ICD9,Moderate,cortex (cerebral) contusion w/o mention of open intracranial wound w/o LOC
+85102,ICD9,Moderate,cortex (cerebral) contusion w/o mention of open intracranial wound w/brief (<1 hr) LOC
+85103,ICD9,Moderate,cortex (cerebral) contusion w/o mention of open intracranial wound w/moderate (1-24 hrs) LOC
+85104,ICD9,Severe,cortex (cerebral) contusion w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85105,ICD9,Severe,cortex (cerebral) contusion w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85106,ICD9,Moderate,cortex (cerebral) contusion w/o mention of open intracranial wound w/LOC of unspecified duration
+85109,ICD9,Moderate,cortex (cerebral) contusion w/o mention of open intracranial wound w/concussion unspecified
+8511,ICD9,Unclassified,cortex (cerebral) contusion with open intracranial wound
+85110,ICD9,Penetrating,cortex (cerebral) contusion with open intracranial wound w/state of consciousness unspecified
+85111,ICD9,Penetrating,cortex (cerebral) contusion with open intracranial wound w/o LOC
+85112,ICD9,Penetrating,cortex (cerebral) contusion with open intracranial wound w/brief (<1 hr) LOC
+85113,ICD9,Penetrating,cortex (cerebral) contusion with open intracranial wound w/moderate (1-24 hrs) LOC
+85114,ICD9,Penetrating,cortex (cerebral) contusion with open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85115,ICD9,Penetrating,cortex (cerebral) contusion with open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85116,ICD9,Penetrating,cortex (cerebral) contusion with open intracranial wound w/LOC of unspecified duration
+85119,ICD9,Penetrating,cortex (cerebral) contusion with open intracranial wound w/concussion unspecified
+8512,ICD9,Unclassified,cortex (cerebral) laceration w/o mention of open intracranial wound
+8512,ICD9,Unclassified,cortex (cerebral) laceration w/o mention of open intracranial wound
+85120,ICD9,Moderate,cortex (cerebral) laceration w/o mention of open intracranial wound w/state of consciousness unspecified
+85121,ICD9,Moderate,cortex (cerebral) laceration w/o mention of open intracranial wound w/o LOC
+85122,ICD9,Moderate,cortex (cerebral) laceration w/o mention of open intracranial wound w/brief (<1 hr) LOC
+85123,ICD9,Moderate,cortex (cerebral) laceration w/o mention of open intracranial wound w/moderate (1-24 hrs) LOC
+85124,ICD9,Severe,cortex (cerebral) laceration w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85125,ICD9,Severe,cortex (cerebral) laceration w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85126,ICD9,Moderate,cortex (cerebral) laceration w/o mention of open intracranial wound w/LOC of unspecified duration
+85129,ICD9,Moderate,cortex (cerebral) laceration w/o mention of open intracranial wound w/concussion unspecified
+8513,ICD9,Unclassified,cortex (derebral) laceration with open intracranial wound
+85130,ICD9,Penetrating,cortex (derebral) laceration with open intracranial wound w/state of consciousness unspecified
+85131,ICD9,Penetrating,cortex (derebral) laceration with open intracranial wound w/o LOC
+85132,ICD9,Penetrating,cortex (derebral) laceration with open intracranial wound w/brief (<1 hr) LOC
+85133,ICD9,Penetrating,cortex (derebral) laceration with open intracranial wound w/moderate (1-24 hrs) LOC
+85134,ICD9,Penetrating,cortex (derebral) laceration with open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85135,ICD9,Penetrating,cortex (derebral) laceration with open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85136,ICD9,Penetrating,cortex (derebral) laceration with open intracranial wound w/LOC of unspecified duration
+85139,ICD9,Penetrating,cortex (derebral) laceration with open intracranial wound w/concussion unspecified
+8514,ICD9,Unclassified,cerebellar or brain stem contusion w/o mention of open intracranial wound
+85140,ICD9,Moderate,cerebellar or brain stem contusion w/o mention of open intracranial wound w/state of consciousness unspecified
+85141,ICD9,Moderate,cerebellar or brain stem contusion w/o mention of open intracranial wound w/o LOC
+85142,ICD9,Moderate,cerebellar or brain stem contusion w/o mention of open intracranial wound w/brief (<1 hr) LOC
+85143,ICD9,Moderate,cerebellar or brain stem contusion w/o mention of open intracranial wound w/moderate (1-24 hrs) LOC
+85144,ICD9,Severe,cerebellar or brain stem contusion w/o mention of open intracranial wound w/prolonged (>24 hrs) Loss Consciousness and return to pre-existing conscious level
+85145,ICD9,Severe,cerebellar or brain stem contusion w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85146,ICD9,Moderate,cerebellar or brain stem contusion w/o mention of open intracranial wound w/LOC of unspecified duration
+85149,ICD9,Moderate,cerebellar or brain stem contusion w/o mention of open intracranial wound w/concussion unspecified
+8515,ICD9,Unclassified,cerebellar or brain stem contusion with open intracranial wound
+85150,ICD9,Penetrating,cerebellar or brain stem contusion with open intracranial wound w/state of consciousness unspecified
+85151,ICD9,Penetrating,cerebellar or brain stem contusion with open intracranial wound w/o LOC
+85152,ICD9,Penetrating,cerebellar or brain stem contusion with open intracranial wound w/brief (<1 hr) LOC
+85153,ICD9,Penetrating,cerebellar or brain stem contusion with open intracranial wound w/moderate (1-24 hrs) LOC
+85154,ICD9,Penetrating,cerebellar or brain stem contusion with open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85155,ICD9,Penetrating,cerebellar or brain stem contusion with open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85156,ICD9,Penetrating,cerebellar or brain stem contusion with open intracranial wound w/LOC of unspecified duration
+85159,ICD9,Penetrating,cerebellar or brain stem contusion with open intracranial wound w/concussion unspecified
+8516,ICD9,Unclassified,cerebellar or brain stem laceration w/o mention of open intracranial wound
+85160,ICD9,Moderate,cerebellar or brain stem laceration w/o mention of open intracranial wound w/state of consciousness unspecified
+85161,ICD9,Moderate,cerebellar or brain stem laceration w/o mention of open intracranial wound w/o LOC
+85162,ICD9,Moderate,cerebellar or brain stem laceration w/o mention of open intracranial wound w/brief (Less Than 1 Hour) LOC
+85163,ICD9,Moderate,cerebellar or brain stem laceration w/o mention of open intracranial wound w/moderate (1-24 hrs) LOC
+85164,ICD9,Severe,cerebellar or brain stem laceration w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85165,ICD9,Severe,cerebellar or brain stem laceration w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85166,ICD9,Moderate,cerebellar or brain stem laceration w/o mention of open intracranial wound w/LOC of unspecified duration
+85169,ICD9,Moderate,cerebellar or brain stem laceration w/o mention of open intracranial wound w/concussion unspecified
+8517,ICD9,Unclassified,cerebellar or brain stem laceration with open intracranial wound
+85170,ICD9,Penetrating,cerebellar or brain stem laceration with open intracranial wound w/state of consciousness unspecified
+85171,ICD9,Penetrating,cerebellar or brain stem laceration with open intracranial wound w/o LOC
+85172,ICD9,Penetrating,cerebellar or brain stem laceration with open intracranial wound w/brief (<1 hr) LOC
+85173,ICD9,Penetrating,cerebellar or brain stem laceration with open intracranial wound w/moderate (1-24 hrs) LOC
+85174,ICD9,Penetrating,cerebellar or brain stem laceration with open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85175,ICD9,Penetrating,cerebellar or brain stem laceration with open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85176,ICD9,Penetrating,cerebellar or brain stem laceration with open intracranial wound w/LOC of unspecified duration
+85179,ICD9,Penetrating,cerebellar or brain stem laceration with open intracranial wound w/concussion unspecified
+8518,ICD9,Unclassified,other and unspecified cerebral laceration and contusion w/o mention of open intracranial wound
+85180,ICD9,Moderate,other and unspecified cerebral laceration and contusion w/o mention of open intracranial wound w/state of consciousness unspecified
+85181,ICD9,Moderate,other and unspecified cerebral laceration and contusion w/o mention of open intracranial wound w/o LOC
+85182,ICD9,Moderate,other and unspecified cerebral laceration and contusion w/o mention of open intracranial wound w/brief (<1 hr) LOC
+85183,ICD9,Moderate,other and unspecified cerebral laceration and contusion w/o mention of open intracranial wound w/moderate (1-24 hrs) LOC
+85184,ICD9,Severe,other and unspecified cerebral laceration and contusion w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC and Return To Pre- Existing Conscious Level
+85185,ICD9,Severe,other and unspecified cerebral laceration and contusion w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85186,ICD9,Moderate,other and unspecified cerebral laceration and contusion w/o mention of open intracranial wound w/LOC of unspecified duration
+85189,ICD9,Moderate,other and unspecified cerebral laceration and contusion w/o mention of open intracranial wound w/concussion unspecified
+8519,ICD9,Unclassified,other and unspecified cerebral laceration and contusion with open intracranial wound
+85190,ICD9,Penetrating,other and unspecified cerebral laceration and contusion with open intracranial wound w/state of consciousness unspecified
+85191,ICD9,Penetrating,other and unspecified cerebral laceration and contusion with open intracranial wound w/o LOC
+85192,ICD9,Penetrating,other and unspecified cerebral laceration and contusion with open intracranial wound w/brief (<1 hr) LOC
+85193,ICD9,Penetrating,other and unspecified cerebral laceration and contusion with open intracranial wound w/moderate (1-24 hrs) LOC
+85194,ICD9,Penetrating,other and unspecified cerebral laceration and contusion with open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85195,ICD9,Penetrating,other and unspecified cerebral laceration and contusion with open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85196,ICD9,Penetrating,other and unspecified cerebral laceration and contusion with open intracranial wound w/LOC of unspecified duration
+85199,ICD9,Penetrating,other and unspecified cerebral laceration and contusion with open intracranial wound w/concussion unspecified
+8520,ICD9,Unclassified,subarachnoid hemorrhage following injury w/o mention of open intracranial wound
+85200,ICD9,Moderate,subarachnoid hemorrhage following injury w/o mention of open intracranial wound w/state of consciousness unspecified
+85201,ICD9,Moderate,subarachnoid hemorrhage following injury w/o mention of open intracranial wound w/o LOC
+85202,ICD9,Moderate,subarachnoid hemorrhage following injury w/o mention of open intracranial wound w/brief (<1 hr) LOC
+85203,ICD9,Moderate,subarachnoid hemorrhage following injury w/o mention of open intracranial wound w/moderate (1-24 hrs) LOC
+85204,ICD9,Severe,subarachnoid hemorrhage following injury w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85205,ICD9,Severe,subarachnoid hemorrhage following injury w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85206,ICD9,Moderate,subarachnoid hemorrhage following injury w/o mention of open intracranial wound w/LOC of unspecified duration
+85209,ICD9,Moderate,subarachnoid hemorrhage following injury w/o mention of open intracranial wound w/concussion unspecified
+8521,ICD9,Unclassified,subarachnoid hemorrhage following injury with open intracranial wound
+85210,ICD9,Penetrating,subarachnoid hemorrhage following injury with open intracranial wound w/state of consciousness unspecified
+85211,ICD9,Penetrating,subarachnoid hemorrhage following injury with open intracranial wound w/o LOC
+85212,ICD9,Penetrating,subarachnoid hemorrhage following injury with open intracranial wound w/brief (<1 hr) LOC
+85213,ICD9,Penetrating,subarachnoid hemorrhage following injury with open intracranial wound w/moderate (1-24 hrs) LOC
+85214,ICD9,Penetrating,subarachnoid hemorrhage following injury with open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85215,ICD9,Penetrating,subarachnoid hemorrhage following injury with open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85216,ICD9,Penetrating,subarachnoid hemorrhage following injury with open intracranial wound w/LOC of unspecified duration
+85219,ICD9,Penetrating,subarachnoid hemorrhage following injury with open intracranial wound w/concussion unspecified
+8522,ICD9,Unclassified,subdural hemorrhage following injury w/o mention of open intracranial wound
+85220,ICD9,Moderate,subdural hemorrhage following injury w/o mention of open intracranial wound w/state of consciousness unspecified
+85221,ICD9,Moderate,subdural hemorrhage following injury w/o mention of open intracranial wound w/o LOC
+85222,ICD9,Moderate,subdural hemorrhage following injury w/o mention of open intracranial wound w/brief (<1 hr) LOC
+85223,ICD9,Moderate,subdural hemorrhage following injury w/o mention of open intracranial wound w/moderate (1-24 hrs) LOC
+85224,ICD9,Severe,subdural hemorrhage following injury w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85225,ICD9,Severe,subdural hemorrhage following injury w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85226,ICD9,Moderate,subdural hemorrhage following injury w/o mention of open intracranial wound w/LOC of unspecified duration
+85229,ICD9,Moderate,subdural hemorrhage following injury w/o mention of open intracranial wound w/concussion unspecified
+8523,ICD9,Unclassified,subdural hemorrhage following injury with open itracranial wound
+85230,ICD9,Penetrating,subdural hemorrhage following injury with open itracranial woun w/state of consciousness unspecified
+85231,ICD9,Penetrating,subdural hemorrhage following injury with open itracranial woun w/o LOC
+85232,ICD9,Penetrating,subdural hemorrhage following injury with open itracranial woun w/brief (<1 hr) LOC
+85233,ICD9,Penetrating,subdural hemorrhage following injury with open itracranial woun w/moderate (1-24 hrs) LOC
+85234,ICD9,Penetrating,subdural hemorrhage following injury with open itracranial woun w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85235,ICD9,Penetrating,subdural hemorrhage following injury with open itracranial woun w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85236,ICD9,Penetrating,subdural hemorrhage following injury with open itracranial woun w/LOC of unspecified duration
+85239,ICD9,Penetrating,subdural hemorrhage following injury with open itracranial woun w/concussion unspecified
+8524,ICD9,Unclassified,extradural hemorrhage following injury w/o mention of open intracranial wound
+85240,ICD9,Moderate,extradural hemorrhage following injury w/o mention of open intracranial wound w/state of consciousness unspecified
+85241,ICD9,Moderate,extradural hemorrhage following injury w/o mention of open intracranial wound w/o LOC
+85242,ICD9,Moderate,extradural hemorrhage following injury w/o mention of open intracranial wound w/brief (Less Than 1 Hour) LOC
+85243,ICD9,Moderate,extradural hemorrhage following injury w/o mention of open intracranial wound w/moderate (1-24 hrs) LOC
+85244,ICD9,Severe,extradural hemorrhage following injury w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85245,ICD9,Severe,extradural hemorrhage following injury w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85246,ICD9,Moderate,extradural hemorrhage following injury w/o mention of open intracranial wound w/LOC of unspecified duration
+85249,ICD9,Moderate,extradural hemorrhage following injury w/o mention of open intracranial wound w/concussion unspecified
+8525,ICD9,Unclassified,extradural hemorrhage following injury with open intracranial wound
+85250,ICD9,Penetrating,extradural hemorrhage following injury with open intracranial wound w/state of consciousness unspecified
+85251,ICD9,Penetrating,extradural hemorrhage following injury with open intracranial wound w/o LOC
+85252,ICD9,Penetrating,extradural hemorrhage following injury with open intracranial wound w/brief (<1 hr) LOC
+85253,ICD9,Penetrating,extradural hemorrhage following injury with open intracranial wound w/moderate (1-24 hrs) LOC
+85254,ICD9,Penetrating,extradural hemorrhage following injury with open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85255,ICD9,Penetrating,extradural hemorrhage following injury with open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85256,ICD9,Penetrating,extradural hemorrhage following injury with open intracranial wound w/LOC of unspecified duration
+85259,ICD9,Penetrating,extradural hemorrhage following injury with open intracranial wound w/concussion unspecified
+8530,ICD9,Unclassified,other and unspecified intracranial hemorrhage following injury w/o mention of open intracranial wound
+85300,ICD9,Moderate,other and unspecified intracranial hemorrhage following injury w/o mention of open intracranial wound w/state of consciousness unspecified
+85301,ICD9,Moderate,other and unspecified intracranial hemorrhage following injury w/o mention of open intracranial wound w/o LOC
+85302,ICD9,Moderate,other and unspecified intracranial hemorrhage following injury w/o mention of open intracranial wound w/brief (<1 hr) LOC
+85303,ICD9,Moderate,other and unspecified intracranial hemorrhage following injury w/o mention of open intracranial wound w/moderate (1-24 hrs) LOC
+85304,ICD9,Severe,other and unspecified intracranial hemorrhage following injury w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC and Return To Pre- Existing Conscious Level
+85305,ICD9,Severe,other and unspecified intracranial hemorrhage following injury w/o mention of open Intracranial Wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85306,ICD9,Moderate,other and unspecified intracranial hemorrhage following injury w/o mention of open intracranial wound w/LOC of unspecified duration
+85309,ICD9,Moderate,other and unspecified intracranial hemorrhage following injury w/o mention of open intracranial wound w/concussion unspecified
+8531,ICD9,Unclassified,other and unspecified intracranial hemorrhage following injury with open intracranial wound
+85310,ICD9,Penetrating,other and unspecified intracranial hemorrhage following injury with open intracranial wound w/state of consciousness unspecified
+85311,ICD9,Penetrating,other and unspecified intracranial hemorrhage following injury with open intracranial wound w/o LOC
+85312,ICD9,Penetrating,other and unspecified intracranial hemorrhage following injury with open intracranial wound w/brief (<1 hr) LOC
+85313,ICD9,Penetrating,other and unspecified intracranial hemorrhage following injury with open intracranial wound w/moderate (1-24 hrs) LOC
+85314,ICD9,Penetrating,other and unspecified intracranial hemorrhage following injury with open intracranial wound w/prolonged( >24 hrs) LOC and return to pre-existing conscious level
+85315,ICD9,Penetrating,other and unspecified intracranial hemorrhage following injury with open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85316,ICD9,Penetrating,other and unspecified intracranial hemorrhage following injury with open intracranial wound w/LOC of unspecified duration
+85319,ICD9,Penetrating,other and unspecified intracranial hemorrhage following injury with open intracranial wound w/concussion unspecified
+8540,ICD9,Unclassified,intracranial injury of other and unspecified nature w/o mention of open intracranial wound
+85400,ICD9,Moderate,intracranial injury of other and unspecified nature w/o mention of open intracranial wound w/state of consciousness unspecified
+85401,ICD9,Moderate,intracranial injury of other and unspecified nature w/o mention of open intracranial wound w/o LOC
+85402,ICD9,Moderate,intracranial injury of other and unspecified nature w/o mention of open intracranial wound w/brief (<1 hr) LOC
+85403,ICD9,Moderate,intracranial injury of other and unspecified nature w/o mention of open intracranial wound w/moderate (1-24 hrs) LOC
+85404,ICD9,Severe,intracranial injury of other and unspecified nature w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85405,ICD9,Severe,intracranial injury of other and unspecified nature w/o mention of open intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85406,ICD9,Moderate,intracranial injury of other and unspecified nature w/o mention of open intracranial wound w/LOC of unspecified duration
+85409,ICD9,Moderate,intracranial injury of other and unspecified nature w/o mention of open intracranial wound w/concussion unspecified
+8541,ICD9,Unclassified,intracranial injury of other and unspecified nature with open Intracranial wound
+85410,ICD9,Penetrating,intracranial injury of other and unspecified nature with open Intracranial wound w/state of consciousness unspecified
+85411,ICD9,Penetrating,intracranial injury of other and unspecified nature with open Intracranial wound w/o LOC
+85412,ICD9,Penetrating,intracranial injury of other and unspecified nature with open Intracranial wound w/brief (<1 hr) LOC
+85413,ICD9,Penetrating,intracranial injury of other and unspecified nature with open Intracranial wound w/moderate (1-24 hrs) LOC
+85414,ICD9,Penetrating,intracranial injury of other and unspecified nature with open Intracranial wound w/prolonged (>24 hrs) LOC and return to pre-existing conscious level
+85415,ICD9,Penetrating,intracranial injury of other and unspecified nature with open Intracranial wound w/prolonged (>24 hrs) LOC w/o return to pre-existing conscious level
+85416,ICD9,Penetrating,intracranial injury of other and unspecified nature with open Intracranial wound w/LOC of unspecified duration
+85419,ICD9,Penetrating,intracranial injury of other and unspecified nature with open Intracranial wound w/concussion unspecified
+9070,ICD9,Unclassified,late effect of intracranial injury w/o skull fracture
+9501,ICD9,Unclassified,injury to optic chiasm
+9502,ICD9,Unclassified,injury to optic pathways
+9503,ICD9,Unclassified,injury to visual cortex
+95901,ICD9,Mild,other and unspecified injury to head
+DOD0101,ICD10,Mild,"personal history of traumatic brain injury, highest level of severity unknown"
+DOD0102,ICD10,Mild,"Personal history of traumatic brain injury (TBI), highest level of severity mild (Glasgow coma scale 13-15), LOC <1hr, post trauma amnesia < 24hr"
+DOD0103,ICD10,Moderate,"Personal history of traumatic brain injury (TBI), highest level of severity moderate (Glasgow coma scale 9-12), LOC 1-24 hrs, post trauma amnesia 2-7 days"
+DOD0104,ICD10,Severe,"Personal history of traumatic brain injury (TBI), highest level of severity severe (Glasgow coma scale 3-8) ,LOC  > 24hrs, post trauma amnesia >7 days"
+DOD0105,ICD10,Penetrating,"Personal history of traumatic brain injury (TBI), penetrating intracranial wound (no level of severity assigned)"
+F0781,ICD10,Mild,post-concussion syndrome
+S020,ICD10,Unknown,fracture of vault of skull
+S020XXA,ICD10,Moderate,"fracture of vault of skull, initial encounter for closed fracture"
+S020XXB,ICD10,Penetrating,"fracture of vault of skull, initial encounter for open fracture"
+S020XXD,ICD10,,
+S020XXS,ICD10,,
+S021,ICD10,Unknown,fracture of base of skull
+S0210,ICD10,Moderate,unspecified fracture of base of skull
+S02101A,ICD10,Moderate,"fracture of base of skull, right side, initial encounter for closed fracture"
+S02101B,ICD10,Penetrating,"fracture of base of skull, right side, initial encounter for open fracture"
+S02102A,ICD10,Moderate,"fracture of base of skull, left side, initial encounter for closed fracture"
+S02102B,ICD10,Penetrating,"fracture of base of skull, left side, initial encounter for open fracture"
+S02109A,ICD10,Moderate,"fracture of base of skull, unspecified side, initial encounter for closed fracture"
+S02109B,ICD10,Penetrating,"fracture of base of skull, unspecified side, initial encounter for open fracture"
+S0210XA,ICD10,Moderate,"unspecified fracture of base of skull, initial encounter for closed fracture"
+S0210XB,ICD10,Penetrating,"unspecified fracture of base of skull, initial encounter for open fracture"
+S0210XD,ICD10,,
+S0210XS,ICD10,,
+S0211,ICD10,Unknown,fracture of occiput
+S0211 EB,ICD10,Penetrating,
+S02110,ICD10,Mild,type I occipital condyle fracture
+S02110A,ICD10,Mild,"type I occipital condyle fracture, unspecified side, initial encounter for closed fracture"
+S02110B,ICD10,Penetrating,"type I occipital condyle fracture, unspecified side, initial encounter for open fracture"
+S02110D,ICD10,,"type I occipital condyle fracture, subsequent encounter"
+S02110S,ICD10,,"type I occipital condyle fracture, sequelae"
+S02111,ICD10,Moderate,type II occipital condyle fracture
+S02111A,ICD10,Moderate,"type II occipital condyle fracture, unspecified side, initial encounter for closed fracture"
+S02111B,ICD10,Penetrating,"type II occipital condyle fracture, unspecified side, initial encounter for open fracture"
+S02111D,ICD10,,"type II occipital condyle fracture, subsequent encounter"
+S02111S,ICD10,,"type II occipital condyle fracture, sequelae"
+S02112,ICD10,Mild,type III occipital condyle fracture
+S02112A,ICD10,Mild,"type III occipital condyle fracture, unspecified side, initial encounter for closed fracture"
+S02112B,ICD10,Penetrating,"type III occipital condyle fracture, unspecified side, initial encounter for open fracture"
+S02112D,ICD10,,"type III occipital condyle fracture, subsequent encounter"
+S02112S,ICD10,,"type III occipital condyle fracture, sequelae"
+S02113,ICD10,Mild,unspecified occipital condyle fracture
+S02113A,ICD10,Mild,"unspecified occipital condyle fracture, initial encounter for closed fracture"
+S02113B,ICD10,Penetrating,"unspecified occipital condyle fracture, initial encounter for open fracture"
+S02113D,ICD10,,"unspecified occipital condyle fracture, subsequent encounter"
+S02113S,ICD10,,"unspecified occipital condyle fracture, sequelae"
+S02118,ICD10,Moderate,other fracture of occiput
+S02118A,ICD10,Moderate,"other fracture of occiput, uspecified side, initial encounter for closed fracture"
+S02118B,ICD10,Penetrating,"other fracture of occiput, unspecified side, initial encounter for open fracture"
+S02118D,ICD10,,"other fracture of occiput, subsequent encounter"
+S02118S,ICD10,,"other fracture of occiput, sequelae"
+S02119,ICD10,Moderate,unspecified fracture of occiput
+S02119A,ICD10,Moderate,"unspecified fracture of occiput, initial encounter for closed fracture"
+S02119B,ICD10,Penetrating,"unspecified fracture of occiput, initial encounter for open fracture"
+S02119D,ICD10,,"unspecified fracture of occiput, subsequent encounter"
+S02119S,ICD10,,"unspecified fracture of occiput, sequelae"
+S0211AA,ICD10,Mild,"type I occipital condyle fracture, right side, initial encounter for closed fracture"
+S0211AB,ICD10,Penetrating,"type I occipital condyle fracture, right side,  initial encounter for open fracture)"
+S0211BA,ICD10,Mild,"type I occipital condyle fracture, left side, initial encounter for closed fracture"
+S0211BB,ICD10,Penetrating,"(type I occipital condyle fracture, left side,  initial encounter for open fracture)"
+S0211CA,ICD10,Moderate,"type II occipital condyle fracture, right side, initial encounter for closed fracture"
+S0211CB,ICD10,Penetrating,"type II occipital condyle fracture, right side, initial encounter for open fracture"
+S0211DA,ICD10,Moderate,"(type II occipital condyle fracture, left side, initial encounter for closed fracture"
+S0211DB,ICD10,Penetrating,"type II occipital condyle fracture, left side, initial encounter for open fracture"
+S0211EA,ICD10,Mild,"(type III occipital condyle fracture, right side, initial encounter for closed fracture)"
+S0211FA,ICD10,Mild,"(type III occipital condyle fracture, left side, initial encounter for closed fracture)"
+S0211FB,ICD10,Penetrating,"type III occipital condyle fracture, left side, initial encounter for open fracture"
+S0211GA,ICD10,Moderate,"other fracture of occiput, right side, initial encounter for closed fracture"
+S0211GB,ICD10,Penetrating,"other fracture of occiput, right side, initial encounter for open fracture"
+S0211HA,ICD10,Moderate,"other fracture of occiput, left side, initial encounter for closed fracture"
+S0211HB,ICD10,Penetrating,"other fracture of occiput, left side, initial encounter for open fracture"
+S0219,ICD10,Moderate,other fracture of base of skull
+S0219XA,ICD10,Moderate,"other fracture of base of skull, initial encounter for closed fracture"
+S0219XB,ICD10,Penetrating,"other fracture for base of skull, initial encounter for open fracture"
+S0219XD,ICD10,,
+S0219XS,ICD10,,
+S028,ICD10,Unknown,fractures of other specified skull and facial bones
+S0280XA,ICD10,Mild,"fracture of other specified skull and facial bones, unspecified side, initial encounter for closed fracture"
+S0280XB,ICD10,Penetrating,"fracture of other specified skull and facial bones, unspecified side, initial encounter for open fracture"
+S0281XA,ICD10,Mild,"fracture of other specified skull and facial bones, right side, initial encounter for closed fracture"
+S0281XB,ICD10,Penetrating,"fracture of other specified skull and facial bones, right side, initial encounter for open fracture"
+S0282XA,ICD10,Mild,"fracture of other specified skull and facial bones, left side, initial encounter for closed fracture"
+S0282XB,ICD10,Penetrating,"fracture of other specified skull and facial bones, left side, initial encounter for open fracture"
+S028XXA,ICD10,Mild ,"fractures of other specified skull and facial bones, initial encounter for closed fracture"
+S028XXB,ICD10,Penetrating,"fractures of other specified skull and facial bones, initial encounter for open fracture"
+S028XXD,ICD10,,
+S028XXS,ICD10,,
+S029,ICD10,Unknown,fracture of unspecified skull and facial bones
+S0291,ICD10,Moderate,unspecified fracture of skull
+S0291XA,ICD10,Moderate,"unspecified fracture of skull, initial encounter for closed fracture"
+S0291XB,ICD10,Penetrating,"unspecified fracture of skull, initial encounter for open fracture"
+S0291XD,ICD10,,
+S0291XS,ICD10,,
+S0402,ICD10,Severe,injury of optic chiasm
+S0402X,ICD10,Severe,injury of optic chiasm
+S0402XA,ICD10,Severe,"injury of optic chiasm, initial encounter"
+S0402XD,ICD10,,"injury of optic chiasm, subsequent encounter"
+S0402XS,ICD10,,"injury of optic chiasm, sequelae"
+S0403,ICD10,Severe,injury of optic tract and pathways
+S04031,ICD10,Severe,"injury of optic tract and pathways, right eye"
+S04031A,ICD10,Severe,"injury of optic tract and pathways, right eye, initial encounter"
+S04031D,ICD10,,"injury of optic tract and pathways, right eye, subsequent encounter"
+S04031S,ICD10,,"injury of optic tract and pathways, right eye, sequelae"
+S04032,ICD10,Severe,"injury of optic tract and pathways, left eye"
+S04032A,ICD10,Severe,"injury of optic tract and pathways, left eye, initial encounter"
+S04032D,ICD10,,"injury of optic tract and pathways, left eye, subsequent encounter"
+S04032S,ICD10,,"injury of optic tract and pathways, left eye, sequelae"
+S04039,ICD10,Severe,"injury of optic tract and pathways, unspecified eye"
+S04039A,ICD10,Severe,"injury of optic tract and pathways, unspecified eye, initial encounter"
+S04039D,ICD10,,"injury of optic tract and pathways, unspecified eye, subsequent encounter"
+S04039S,ICD10,,"injury of optic tract and pathways, unspecified eye, sequelae"
+S0404,ICD10,Severe,Injury of visual cortex
+S04041,ICD10,Severe,"injury of visual cortex, right eye"
+S04041A,ICD10,Severe,"injury of visual cortex, right eye, initial encounter"
+S04041D,ICD10,,"injury of visual cortex, right eye, subsequent encounter"
+S04041S,ICD10,,"injury of visual cortex, right eye, sequelae"
+S04042,ICD10,Severe,"injury of visual cortex, left eye"
+S04042A,ICD10,Severe,"injury of visual cortex, left eye, initial encounter"
+S04042D,ICD10,,"injury of visual cortex, left eye, subsequent encounter"
+S04042S,ICD10,,"injury of visual cortex, left eye, sequelae"
+S04049,ICD10,Severe,"injury of visual cortex, unspecified eye"
+S04049A,ICD10,Severe,"injury of visual cortex, unspecified eye, initial encounter"
+S04049D,ICD10,,"injury of visual cortex, unspecified eye, subsequent encounter"
+S04049S,ICD10,,"injury of visual cortex, unspecified eye, sequelae"
+S060,ICD10,Mild,concussion
+S060X0,ICD10,Mild,concussion w/o LOC
+S060X0A,ICD10,Mild,"concussion w/o LOC, initial encounter"
+S060X0D,ICD10,,"concussion w/o LOC, subsequent encounter"
+S060X0S,ICD10,,"concussion w/o LOC, sequelae"
+S060X1,ICD10,Mild,concussion w/LOC of 30 mins or less
+S060X1A,ICD10,Mild,"concussion w/LOC of 30 mins or less, initial encounter"
+S060X1D,ICD10,,"concussion w/LOC of 30 mins or less, subsequent encounter"
+S060X1S,ICD10,,"concussion w/LOC of 30 mins or less, sequelae"
+S060X2,ICD10,Moderate,concussion w/LOC of 31-59 mins
+S060X2A,ICD10,Moderate,"concussion w/LOC of 31-59 mins, initial encounter"
+S060X2D,ICD10,,"concussion w/LOC of 31-59 mins, subsequent encounter"
+S060X2S,ICD10,,"concussion w/LOC of 31-59 mins, sequelae"
+S060X3,ICD10,Moderate,concussion w/LOC of 1 hr to 5 hrs 59 mins
+S060X3A,ICD10,Moderate,"concussion w/LOC of 1 hr to 5 hrs 59 mins, initial encounter"
+S060X3D,ICD10,,"concussion w/LOC of 1 hr to 5 hrs 59 mins, subsequent encounter"
+S060X3S,ICD10,,"concussion w/LOC of 1 hr to 5 hrs 59 mins, sequelae"
+S060X4,ICD10,Moderate,concussion w/LOC of 6-24 hrs
+S060X4A,ICD10,Moderate,"concussion w/LOC of 6-24 hrs, initial encounter"
+S060X4D,ICD10,,"concussion w/LOC of 6-24 hrs, subsequent encounter"
+S060X4S,ICD10,,"concussion w/LOC of 6-24 hrs, sequelae"
+S060X5,ICD10,Severe ,concussion w/LOC > 24hrs with return to pre-existing conscious level
+S060X5A,ICD10,Severe,"concussion w/LOC > 24hrs with return to pre-existing conscious level, initial encounter"
+S060X5D,ICD10,,"concussion w/LOC > 24hrs with return to pre-existing conscious level, subsequent encounter"
+S060X5S,ICD10,,"concussion w/LOC > 24hrs with return to pre-existing conscious level, sequelae"
+S060X6,ICD10,Severe,concussion w/LOC > 24 hrs w/o return to pre-existing conscious level with patient surviving
+S060X6A,ICD10,Severe,"concussion w/LOC > 24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S060X6D,ICD10,,"concussion w/LOC > 24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S060X6S,ICD10,,"concussion w/LOC > 24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S060X7,ICD10,Severe,concussion w/LOC of any duration with death due to brain injury prior to regaining consciousness
+S060X7A,ICD10,Severe,"concussion w/LOC of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S060X7D,ICD10,,"concussion w/LOC of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S060X7S,ICD10,,"concussion w/LOC of any duration with death due to brain injury prior to regaining consciousness, sequelae"
+S060X8,ICD10,Severe,concussion w/LOC of any duration with death due to other causes before regaining consciousness
+S060X8A,ICD10,Severe,"concussion w/LOC of any duration with death due to other causes before regaining consciousness, initial encounter"
+S060X8D,ICD10,,"concussion w/LOC of any duration with death due to other causes before regaining consciousness, subsequent encounter"
+S060X8S,ICD10,,"concussion w/LOC of any duration with death due to other causes before regaining consciousness, sequelae"
+S060X9,ICD10,Mild,concussion w/LOC of unspecified duration
+S060X9A,ICD10,Mild,"concussion w/LOC of unspecified duration, initial encounter"
+S060X9D,ICD10,,"concussion w/LOC of unspecified duration, subsequent encounter"
+S060X9S,ICD10,,"concussion w/LOC of unspecified duration, sequelae"
+S061X,ICD10,Moderate,traumatic cerebral edema
+S061X0,ICD10,Moderate,traumatic cerebral edema w/o LOC
+S061X0A,ICD10,Moderate,"traumatic cerebral edema w/o LOC, initial encounter"
+S061X0D,ICD10,,"traumatic cerebral edema w/o LOC, subsequent encounter"
+S061X0S,ICD10,,"traumatic cerebral edema w/o LOC, sequelae"
+S061X1,ICD10,Moderate,traumatic cerebral edema w/LOC of 30 min or less
+S061X1A,ICD10,Moderate,"traumatic cerebral edema w/LOC of 30 min or less, initial encounter"
+S061X1D,ICD10,,"traumatic cerebral edema w/LOC of 30 min or less, subsequent encounter"
+S061X1S,ICD10,,"traumatic cerebral edema w/LOC of 30 min or less, sequelae"
+S061X2,ICD10,Moderate,traumatic cerebral edema w/LOC of 31-59 minutes
+S061X2A,ICD10,Moderate,"traumatic cerebral edema w/LOC of 31-59 minutes, initial encounter"
+S061X2D,ICD10,,"traumatic cerebral edema w/LOC of 31-59 minutes, subsequent encounter"
+S061X2S,ICD10,,"traumatic cerebral edema w/LOC of 31-59 minutes, sequelae"
+S061X3,ICD10,Moderate,traumatic cerebral edema w/LOC of 1hr to 5 hrs 59 mins
+S061X3A,ICD10,Moderate,"traumatic cerebral edema w/LOC of 1hr to 5 hrs 59 mins, initial encounter"
+S061X3D,ICD10,,"traumatic cerebral edema w/LOC of 1hr to 5 hrs 59 mins, subsequent encounter"
+S061X3S,ICD10,,"traumatic cerebral edema w/LOC of 1hr to 5 hrs 59 mins, sequelae"
+S061X4,ICD10,Moderate,traumatic cerebral edema w/LOC of 6-24 hrs
+S061X4A,ICD10,Moderate,"traumatic cerebral edema w/LOC of 6-24 hrs, initial encounter"
+S061X4D,ICD10,,"traumatic cerebral edema w/LOC of 6-24 hrs, subsequent encounter"
+S061X4S,ICD10,,"traumatic cerebral edema w/LOC of 6-24 hrs, sequelae"
+S061X5,ICD10,Severe,traumatic cerebral edema w/ LOC >24 hrs with return to pre-existing conscious level
+S061X5A,ICD10,Severe,"traumatic cerebral edema w/ LOC >24 hrs with return to pre-existing conscious level, initial encounter"
+S061X5D,ICD10,,"traumatic cerebral edema w/ LOC >24 hrs with return to pre-existing conscious level, subsequent encounter"
+S061X5S,ICD10,,"traumatic cerebral edema w/ LOC >24 hrs with return to pre-existing conscious level, sequelae"
+S061X6,ICD10,Severe,traumatic cerebral edema w/ LOC >24 hrs w/o return to pre-existing conscious level with patient surviving
+S061X6A,ICD10,Severe,"traumatic cerebral edema w/ LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S061X6D,ICD10,,"traumatic cerebral edema w/ LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S061X6S,ICD10,,"traumatic cerebral edema w/ LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S061X7,ICD10,Severe,traumatic cerebral edema w/LOC of any duration with death due to brain injury prior to regaining consciousness
+S061X7A,ICD10,Severe,"traumatic cerebral edema w/LOC of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S061X7D,ICD10,,"traumatic cerebral edema w/LOC of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S061X7S,ICD10,,"traumatic cerebral edema w/LOC of any duration with death due to brain injury prior to regaining consciousness, sequelae"
+S061X8,ICD10,Severe,traumatic cerebral edema w/LOC of any duration with death due to other causes prior to regaining consciousness
+S061X8A,ICD10,Severe,"traumatic cerebral edema w/LOC of any duration with death due to other causes prior to regaining consciousness, initial encounter"
+S061X8D,ICD10,,"traumatic cerebral edema w/LOC of any duration with death due to other causes prior to regaining consciousness, subsequent encounter"
+S061X8S,ICD10,,"traumatic cerebral edema w/LOC of any duration with death due to other causes prior to regaining consciousness, sequelae"
+S061X9,ICD10,Moderate,traumatic cerebral edema w/LOC of unspecified duration
+S061X9A,ICD10,Moderate,"traumatic cerebral edema w/LOC of unspecified duration, initial encounter"
+S061X9D,ICD10,,"traumatic cerebral edema w/LOC of unspecified duration, subsequent encounter"
+S061X9S,ICD10,,"traumatic cerebral edema w/LOC of unspecified duration, sequelae"
+S062X,ICD10,Moderate,diffuse traumatic brain injury
+S062X0,ICD10,Moderate,diffuse traumatic brain injury w/o LOC
+S062X0A,ICD10,Moderate,"diffuse traumatic brain injury w/o LOC, initial encounter"
+S062X0D,ICD10,,"diffuse traumatic brain injury w/o LOC, subsequent encounter"
+S062X0S,ICD10,,"diffuse traumatic brain injury w/o LOC, sequelae"
+S062X1,ICD10,Moderate,diffuse traumatic brain injury w/LOC of 30 min or less
+S062X1A,ICD10,Moderate,"diffuse traumatic brain injury w/LOC of 30 min or less, initial encounter"
+S062X1D,ICD10,,"diffuse traumatic brain injury w/LOC of 30 min or less, subsequent encounter"
+S062X1S,ICD10,,"diffuse traumatic brain injury w/LOC of 30 min or less, sequelae"
+S062X2,ICD10,Moderate,diffuse traumatic brain injury w/LOC of 31-59 minutes
+S062X2A,ICD10,Moderate,"diffuse traumatic brain injury w/LOC of 31-59 minutes, initial encounter"
+S062X2D,ICD10,,"diffuse traumatic brain injury w/LOC of 31-59 minutes, subsequent encounter"
+S062X2S,ICD10,,"diffuse traumatic brain injury w/LOC of 31-59 minutes, sequelae"
+S062X3,ICD10,Moderate,diffuse traumatic brain injury w/LOC of 1hr to 5 hrs 59 mins
+S062X3A,ICD10,Moderate,"diffuse traumatic brain injury w/LOC of 1hr to 5 hrs 59 mins, initial encounter"
+S062X3D,ICD10,,"diffuse traumatic brain injury w/LOC of 1hr to 5 hrs 59 mins, subsequent encounter"
+S062X3S,ICD10,,"diffuse traumatic brain injury w/LOC of 1hr to 5 hrs 59 mins, sequelae"
+S062X4,ICD10,Moderate,diffuse traumatic brain injury w/LOC of 6-24 hrs
+S062X4A,ICD10,Moderate,"diffuse traumatic brain injury w/LOC of 6-24 hrs, initial encounter"
+S062X4D,ICD10,,"diffuse traumatic brain injury w/LOC of 6-24 hrs, subsequent encounter"
+S062X4S,ICD10,,"diffuse traumatic brain injury w/LOC of 6-24 hrs, sequelae"
+S062X5,ICD10,Severe,diffuse traumatic brain injury w/ LOC >24 hrs with return to pre-existing conscious level
+S062X5A,ICD10,Severe,"diffuse traumatic brain injury w/ LOC >24 hrs with return to pre-existing conscious level, initial encounter"
+S062X5D,ICD10,,"diffuse traumatic brain injury w/ LOC >24 hrs with return to pre-existing conscious level, subsequent encounter"
+S062X5S,ICD10,,"diffuse traumatic brain injury w/ LOC >24 hrs with return to pre-existing conscious level, sequelae"
+S062X6,ICD10,Severe,diffuse traumatic brain injury w/LOC  >24 hrs w/o return to pre-existing conscious level with patient surviving
+S062X6A,ICD10,Severe,"diffuse traumatic brain injury w/LOC  >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S062X6D,ICD10,,"diffuse traumatic brain injury w/LOC  >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S062X6S,ICD10,,"diffuse traumatic brain injury w/LOC  >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S062X7,ICD10,Severe,diffuse traumatic brain injury w/LOC of any duration with death due to brain injury prior to regaining consciousness
+S062X7A,ICD10,Severe,"diffuse traumatic brain injury w/LOC of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S062X7D,ICD10,,"diffuse traumatic brain injury w/LOC of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S062X7S,ICD10,,"diffuse traumatic brain injury w/LOC of any duration with death due to brain injury prior to regaining consciousness, sequelae"
+S062X8,ICD10,Severe,diffuse traumatic brain injury w/LOC of any duration with death due to other causes prior to regaining consciousness
+S062X8A,ICD10,Severe,"diffuse traumatic brain injury w/LOC of any duration with death due to other causes prior to regaining consciousness, initial encounter"
+S062X8D,ICD10,,"diffuse traumatic brain injury w/LOC of any duration with death due to other causes prior to regaining consciousness, subsequent encounter"
+S062X8S,ICD10,,"diffuse traumatic brain injury w/LOC of any duration with death due to other causes prior to regaining consciousness, sequelae"
+S062X9,ICD10,Mild,diffuse traumatic brain injury w/LOC of unspecified duration
+S062X9A,ICD10,Moderate,"diffuse traumatic brain injury w/LOC of unspecified duration, initial encounter"
+S062X9D,ICD10,,"diffuse traumatic brain injury w/LOC of unspecified duration, subsequent encounter"
+S062X9S,ICD10,,"diffuse traumatic brain injury w/LOC of unspecified duration, sequelae"
+S0630,ICD10,Moderate,unspecified focal traumatic brain injury
+S06300,ICD10,Moderate,unspecified focal traumatic brain injury w/o LOC
+S06300A,ICD10,Moderate,"unspecified focal traumatic brain injury w/o LOC, initial encounter"
+S06300D,ICD10,,"unspecified focal traumatic brain injury w/o LOC, subsequent encounter"
+S06300S,ICD10,,"unspecified focal traumatic brain injury w/o LOC, sequelae"
+S06301,ICD10,Moderate,unspecified focal traumatic brain injury w/LOC of 30 min or less
+S06301A,ICD10,Moderate,"unspecified focal traumatic brain injury w/LOC of 30 min or less, initial encounter"
+S06301D,ICD10,,"unspecified focal traumatic brain injury w/LOC of 30 min or less, subsequent encounter"
+S06301S,ICD10,,"unspecified focal traumatic brain injury w/LOC of 30 min or less, sequelae"
+S06302,ICD10,Moderate,unspecified focal traumatic brain injury w/LOC of 31-59 minutes
+S06302A,ICD10,Moderate,"unspecified focal traumatic brain injury w/LOC of 31-59 minutes, initial encounter"
+S06302D,ICD10,,"unspecified focal traumatic brain injury w/LOC of 31-59 minutes, subsequent encounter"
+S06302S,ICD10,,"unspecified focal traumatic brain injury w/LOC of 31-59 minutes, sequelae"
+S06303,ICD10,Moderate,unspecified focal traumatic brain injury w/LOC of 1hr to 5 hrs 59 mins
+S06303A,ICD10,Moderate,"unspecified focal traumatic brain injury w/LOC of 1hr to 5 hrs 59 mins, initial encounter"
+S06303D,ICD10,,"unspecified focal traumatic brain injury w/LOC of 1hr to 5 hrs 59 mins, subsequent encounter"
+S06303S,ICD10,,"unspecified focal traumatic brain injury w/LOC of 1hr to 5 hrs 59 mins, sequelae"
+S06304,ICD10,Moderate,unspecified focal traumatic brain injury w/LOC of 6-24 hrs
+S06304A,ICD10,Moderate,"unspecified focal traumatic brain injury w/LOC of 6-24 hrs, initial encounter"
+S06304D,ICD10,,"unspecified focal traumatic brain injury w/LOC of 6-24 hrs, subsequent encounter"
+S06304S,ICD10,,"unspecified focal traumatic brain injury w/LOC of 6-24 hrs, sequelae"
+S06305,ICD10,Severe,unspecified focal traumatic brain injury w/LOC >24 hrs with return to pre-existing conscious level
+S06305A,ICD10,Severe,"unspecified focal traumatic brain injury w/LOC >24 hrs with return to pre-existing conscious level, initial encounter"
+S06305D,ICD10,,"unspecified focal traumatic brain injury w/LOC >24 hrs with return to pre-existing conscious level, subsequent encounter"
+S06305S,ICD10,,"unspecified focal traumatic brain injury w/LOC >24 hrs with return to pre-existing conscious level, sequelae"
+S06306,ICD10,Severe,unspecified focal traumatic brain injury w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving
+S06306A,ICD10,Severe,"unspecified focal traumatic brain injury w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S06306D,ICD10,,"unspecified focal traumatic brain injury w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S06306S,ICD10,,"unspecified focal traumatic brain injury w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S06307,ICD10,Severe,unspecified focal traumatic brain injury w/LOC of any duration with death due to brain injury prior to regaining consciousness
+S06307A,ICD10,Severe,"unspecified focal traumatic brain injury w/LOC of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S06307D,ICD10,,"unspecified focal traumatic brain injury w/LOC of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06307S,ICD10,,"unspecified focal traumatic brain injury w/LOC of any duration with death due to brain injury prior to regaining consciousness, sequelae"
+S06308,ICD10,Severe,unspecified focal traumatic brain injury w/LOC of any duration with death due to other causes prior to regaining consciousness
+S06308A,ICD10,Severe,"unspecified focal traumatic brain injury w/LOC of any duration with death due to other causes prior to regaining consciousness, initial encounter"
+S06308D,ICD10,,"unspecified focal traumatic brain injury w/LOC of any duration with death due to other causes prior to regaining consciousness, subsequent encounter"
+S06308S,ICD10,,"unspecified focal traumatic brain injury w/LOC of any duration with death due to other causes prior to regaining consciousness, sequelae"
+S06309,ICD10,Moderate,unspecified focal traumatic brain injury w/LOC of unspecified duration
+S06309A,ICD10,Moderate,"unspecified focal traumatic brain injury w/LOC of unspecified duration, initial encounter"
+S06309D,ICD10,,"unspecified focal traumatic brain injury w/LOC of unspecified duration, subsequent encounter"
+S06309S,ICD10,,"unspecified focal traumatic brain injury w/LOC of unspecified duration, sequelae"
+S0631,ICD10,Moderate,contusion and laceration of right cerebrum
+S06310,ICD10,Moderate,contusion and laceration of right cerebrum w/o LOC
+S06310A,ICD10,Moderate,"contusion and laceration of right cerebrum w/o LOC,  initial encounter"
+S06310D,ICD10,,"contusion and laceration of right cerebrum w/o LOC, subsequent encounter"
+S06310S,ICD10,,"contusion and laceration of right cerebrum w/o LOC, sequelae"
+S06311,ICD10,Moderate,contusion and laceration of right cerebrum w/LOC of 30 min or less
+S06311A,ICD10,Moderate,"contusion and laceration of right cerebrum w/LOC of 30 min or less, initial encounter"
+S06311D,ICD10,,"contusion and laceration of right cerebrum w/LOC of 30 min or less, subsequent encounter"
+S06311S,ICD10,,"contusion and laceration of right cerebrum w/LOC of 30 min or less, sequelae"
+S06312,ICD10,Moderate,contusion and laceration of right cerebrum w/LOC of 31-59 minutes
+S06312A,ICD10,Moderate,"contusion and laceration of right cerebrum w/LOC of 31-59 minutes, initial encounter"
+S06312D,ICD10,,"contusion and laceration of right cerebrum w/LOC of 31-59 minutes, subsequent encounter"
+S06312S,ICD10,,"contusion and laceration of right cerebrum w/LOC of 31-59 minutes, sequelae"
+S06313,ICD10,Moderate,contusion and laceration of right cerebrum w/LOC of 1hr to 5 hrs 59 mins
+S06313A,ICD10,Moderate,"contusion and laceration of right cerebrum w/LOC of 1hr to 5 hrs 59 mins, initial encounter"
+S06313D,ICD10,,"contusion and laceration of right cerebrum w/LOC of 1hr to 5 hrs 59 mins, subsequent encounter"
+S06313S,ICD10,,"contusion and laceration of right cerebrum w/LOC of 1hr to 5 hrs 59 mins, sequelae"
+S06314,ICD10,Moderate,contusion and laceration of right cerebrum w/LOC of 6-24 hrs
+S06314A,ICD10,Moderate,"contusion and laceration of right cerebrum w/LOC of 6-24 hrs, initial encounter"
+S06314D,ICD10,,"contusion and laceration of right cerebrum w/LOC of 6-24 hrs, subsequent encounter"
+S06314S,ICD10,,"contusion and laceration of right cerebrum w/LOC of 6-24 hrs, sequelae"
+S06315,ICD10,Severe,contusion and laceration of right cerebrum w/LOC >24 hrs with return to pre-existing conscious level
+S06315A,ICD10,Severe,"contusion and laceration of right cerebrum w/LOC >24 hrs with return to pre-existing conscious level, initial encounter"
+S06315D,ICD10,,"contusion and laceration of right cerebrum w/LOC >24 hrs with return to pre-existing conscious level, subsequent encounter"
+S06315S,ICD10,,"contusion and laceration of right cerebrum w/LOC >24 hrs with return to pre-existing conscious level, sequelae"
+S06316,ICD10,Severe,contusion and laceration of right cerebrum w/ LOC >24 hrs w/o return to pre-existing conscious level with patient surviving
+S06316A,ICD10,Severe,"contusion and laceration of right cerebrum w/ LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S06316D,ICD10,,"contusion and laceration of right cerebrum w/ LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S06316S,ICD10,,"contusion and laceration of right cerebrum w/ LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S06317,ICD10,Severe,contusion and laceration of right cerebrum w/LOC of any duration with death due to brain injury prior to regaining consciousness
+S06317A,ICD10,Severe,"contusion and laceration of right cerebrum w/LOC of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S06317D,ICD10,,"contusion and laceration of right cerebrum w/LOC of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06317S,ICD10,,"contusion and laceration of right cerebrum w/LOC of any duration with death due to brain injury prior to regaining consciousness, sequelae"
+S06318,ICD10,Severe,contusion and laceration of right cerebrum w/LOC of any duration with death due to other causes prior to regaining consciousness
+S06318A,ICD10,Severe,"contusion and laceration of right cerebrum w/LOC of any duration with death due to other causes prior to regaining consciousness, initial encounter"
+S06318D,ICD10,,"contusion and laceration of right cerebrum w/LOC of any duration with death due to other causes prior to regaining consciousness, subsequent encounter"
+S06318S,ICD10,,"contusion and laceration of right cerebrum w/LOC of any duration with death due to other causes prior to regaining consciousness, sequelae"
+S06319,ICD10,Moderate,contusion and laceration of right cerebrum w/LOC of unspecified duration
+S06319A,ICD10,Moderate,"contusion and laceration of right cerebrum w/LOC of unspecified duration, initial encounter"
+S06319D,ICD10,,"contusion and laceration of right cerebrum w/LOC of unspecified duration, subsequent encounter"
+S06319S,ICD10,,"contusion and laceration of right cerebrum w/LOC of unspecified duration, sequelae"
+S0632,ICD10,Moderate,contusion and laceration of left cerebrum
+S06320,ICD10,Moderate,contusion and laceration of left cerebrum w/o LOC
+S06320A,ICD10,Moderate,"contusion and laceration of left cerebrum w/o LOC,  initial encounter"
+S06320D,ICD10,,"contusion and laceration of left cerebrum w/o LOC, subsequent encounter"
+S06320S,ICD10,,"contusion and laceration of left cerebrum w/o LOC, sequelae"
+S06321,ICD10,Moderate,contusion and laceration of left cerebrum w/LOC of 30 min or less
+S06321A,ICD10,Moderate,"contusion and laceration of left cerebrum w/LOC of 30 min or less, initial encounter"
+S06321D,ICD10,,"contusion and laceration of left cerebrum w/LOC of 30 min or less, subsequent encounter"
+S06321S,ICD10,,"contusion and laceration of left cerebrum w/LOC of 30 min or less, sequelae"
+S06322,ICD10,Moderate,contusion and laceration of left cerebrum w/LOC of 31-59 minutes
+S06322A,ICD10,Moderate,"contusion and laceration of left cerebrum w/LOC of 31-59 minutes, initial encounter"
+S06322D,ICD10,,"contusion and laceration of left cerebrum w/LOC of 31-59 minutes, subsequent encounter"
+S06322S,ICD10,,"contusion and laceration of left cerebrum w/LOC of 31-59 minutes, sequelae"
+S06323,ICD10,Moderate,contusion and laceration of left cerebrum w/LOC of 1hr to 5 hrs 59 mins
+S06323A,ICD10,Moderate,"contusion and laceration of left cerebrum w/LOC of 1hr to 5 hrs 59 mins, initial encounter"
+S06323D,ICD10,,"contusion and laceration of left cerebrum w/LOC of 1hr to 5 hrs 59 mins, subsequent encounter"
+S06323S,ICD10,,"contusion and laceration of left cerebrum w/LOC of 1hr to 5 hrs 59 mins, sequelae"
+S06324,ICD10,Moderate,contusion and laceration of left cerebrum w/LOC of 6-24 hrs
+S06324A,ICD10,Moderate,"contusion and laceration of left cerebrum w/LOC of 6-24 hrs, initial encounter"
+S06324D,ICD10,,"contusion and laceration of left cerebrum w/LOC of 6-24 hrs, subsequent encounter"
+S06324S,ICD10,,"contusion and laceration of left cerebrum w/LOC of 6-24 hrs, sequelae"
+S06325,ICD10,Severe,contusion and laceration of left cerebrum w/LOC >24 hrs with return to pre-existing conscious level
+S06325A,ICD10,Severe,"contusion and laceration of left cerebrum w/LOC >24 hrs with return to pre-existing conscious level, initial encounter"
+S06325D,ICD10,,"contusion and laceration of left cerebrum w/LOC >24 hrs with return to pre-existing conscious level, subsequent encounter"
+S06325S,ICD10,,"contusion and laceration of left cerebrum w/LOC >24 hrs with return to pre-existing conscious level, sequelae"
+S06326,ICD10,Severe,contusion and laceration of left cerebrum w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving
+S06326A,ICD10,Severe,"contusion and laceration of left cerebrum w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S06326D,ICD10,,"contusion and laceration of left cerebrum w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S06326S,ICD10,,"contusion and laceration of left cerebrum w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S06327,ICD10,Severe,contusion and laceration of left cerebrum w/LOC of any duration w/ death due to brain injury prior to regaining consciousness
+S06327A,ICD10,Severe,"contusion and laceration of left cerebrum w/LOC of any duration w/ death due to brain injury prior to regaining consciousness, initial encounter"
+S06327D,ICD10,,"contusion and laceration of left cerebrum w/LOC of any duration w/ death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06327S,ICD10,,"contusion and laceration of left cerebrum w/LOC of any duration w/ death due to brain injury prior to regaining consciousness, sequelae"
+S06328,ICD10,Severe,contusion and laceration of left cerebrum w/LOC of any duration w/ death due to other causes prior to regaining consciousness
+S06328A,ICD10,Severe,"contusion and laceration of left cerebrum w/LOC of any duration w/ death due to other causes prior to regaining consciousness, initial encounter"
+S06328D,ICD10,,"contusion and laceration of left cerebrum w/LOC of any duration w/ death due to other causes prior to regaining consciousness, subsequent encounter"
+S06328S,ICD10,,"contusion and laceration of left cerebrum w/LOC of any duration w/ death due to other causes prior to regaining consciousness, sequelae"
+S06329,ICD10,Moderate,contusion and laceration of left cerebrum w/LOC of unspecified duration
+S06329A,ICD10,Moderate,"contusion and laceration of left cerebrum w/LOC of unspecified duration, initial encounter"
+S06329D,ICD10,,"contusion and laceration of left cerebrum w/LOC of unspecified duration, subsequent encounter"
+S06329S,ICD10,,"contusion and laceration of left cerebrum w/LOC of unspecified duration, sequelae"
+S0633,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified"
+S06330,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified, w/o LOC"
+S06330A,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified, w/o LOC, initial encounter"
+S06330D,ICD10,,"contusion and laceration of cerebrum, unspecified, w/o LOC, subsequent encounter"
+S06330S,ICD10,,"contusion and laceration of cerebrum, unspecified, w/o LOC, sequelae"
+S06331,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified, w/LOC of 30 mins or less"
+S06331A,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified, w/LOC of 30 mins or less, initial encounter"
+S06331D,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC of 30 mins or less, subsequent encounter"
+S06331S,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC of 30 mins or less, sequelae"
+S06332,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified, w/LOC of 31-59 mins"
+S06332A,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified, w/LOC of 31-59 mins, initial encounter"
+S06332D,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC of 31-59 mins, subsequent encounter"
+S06332S,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC of 31-59 mins, sequelae"
+S06333,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified, w/LOC of 1 hr to 5 hrs 59 mins"
+S06333A,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified, w/LOC of 1 hr to 5 hrs 59 mins, initial encounter"
+S06333D,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC of 1 hr to 5 hrs 59 mins, subsequent encounter"
+S06333S,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC of 1 hr to 5 hrs 59 mins, sequelae"
+S06334,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified, w/ LOC of 6 -24 hrs"
+S06334A,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified, w/ LOC of 6 -24 hrs, initial encounter"
+S06334D,ICD10,,"contusion and laceration of cerebrum, unspecified, w/ LOC of 6 -24 hrs, subsequent encounter"
+S06334S,ICD10,,"contusion and laceration of cerebrum, unspecified, w/ LOC of 6 -24 hrs, sequelae"
+S06335,ICD10,Severe,"contusion and laceration of cerebrum, unspecified, w/LOC > 24 hrs with return to pre-existing consciousness level"
+S06335A,ICD10,Severe,"contusion and laceration of cerebrum, unspecified, w/LOC > 24 hrs with return to pre-existing consciousness level, initial encounter"
+S06335D,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC > 24 hrs with return to pre-existing consciousness level, subsequent encounter"
+S06335S,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC > 24 hrs with return to pre-existing consciousness level, sequelae"
+S06336,ICD10,Severe,"contusion and laceration of cerebrum, unspecified, w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving"
+S06336A,ICD10,Severe,"contusion and laceration of cerebrum, unspecified, w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S06336D,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S06336S,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S06337,ICD10,Severe,"contusion and laceration of cerebrum, unspecified, w/LOC of any duration w/ death due to brain injury prior to regaining consciousness"
+S06337A,ICD10,Severe,"contusion and laceration of cerebrum, unspecified, w/LOC of any duration w/ death due to brain injury prior to regaining consciousness, initial encounter"
+S06337D,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC of any duration w/ death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06337S,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC of any duration w/ death due to brain injury prior to regaining consciousness, sequelae"
+S06338,ICD10,Severe,"contusion and laceration of cerebrum, unspecified, w/LOC of any duration with death due to other cause prior to regaining conscious"
+S06338A,ICD10,Severe,"contusion and laceration of cerebrum, unspecified, w/LOC of any duration with death due to other cause prior to regaining conscious, initial encounter"
+S06338D,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC of any duration with death due to other cause prior to regaining conscious, subsequent encounter"
+S06338S,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC of any duration with death due to other cause prior to regaining conscious, sequelae"
+S06339,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified, w/LOC of unspecified duration"
+S06339A,ICD10,Moderate,"contusion and laceration of cerebrum, unspecified, w/LOC of unspecified duration, initial encounter"
+S06339D,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC of unspecified duration, subsequent encounter"
+S06339S,ICD10,,"contusion and laceration of cerebrum, unspecified, w/LOC of unspecified duration, sequelae"
+S0634,ICD10,Moderate,traumatic hemorrhage of right cerebrum
+S06340,ICD10,Moderate,traumatic hemorrhage of right cerebrum w/o LOC
+S06340A,ICD10,Moderate,"traumatic hemorrhage of right cerebrum w/o LOC, initial encounter"
+S06340D,ICD10,,"traumatic hemorrhage of right cerebrum w/o LOC, subsequent encounter"
+S06340S,ICD10,,"traumatic hemorrhage of right cerebrum w/o LOC, sequelae"
+S06341,ICD10,Moderate,traumatic hemorrhage of right cerebrum w/LOC of 30 mins or less
+S06341A,ICD10,Moderate,"traumatic hemorrhage of right cerebrum w/LOC of 30 mins or less, initial encounter"
+S06341D,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC of 30 mins or less, subsequent encounter"
+S06341S,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC of 30 mins or less, sequelae"
+S06342,ICD10,Moderate,traumatic hemorrhage of right cerebrum w/LOC of 31-59 mins
+S06342A,ICD10,Moderate,"traumatic hemorrhage of right cerebrum w/LOC of 31-59 mins, initial encounter"
+S06342D,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC of 31-59 mins, subsequent encounter"
+S06342S,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC of 31-59 mins, sequelae"
+S06343,ICD10,Moderate,traumatic hemorrhage of right cerebrum w/LOC of 1 hr to 5 hrs 59 mins
+S06343A,ICD10,Moderate,"traumatic hemorrhage of right cerebrum w/LOC of 1 hr to 5 hrs 59 mins, initial encounter"
+S06343D,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC of 1 hr to 5 hrs 59 mins, subsequent encounter"
+S06343S,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC of 1 hr to 5 hrs 59 mins, sequelae"
+S06344,ICD10,Moderate,traumatic hemorrhage of right cerebrum with LOC of 6 -24 hrs
+S06344A,ICD10,Moderate,"traumatic hemorrhage of right cerebrum with LOC of 6 -24 hrs, initial encounter"
+S06344D,ICD10,,"traumatic hemorrhage of right cerebrum with LOC of 6 -24 hrs, subsequent encounter"
+S06344S,ICD10,,"traumatic hemorrhage of right cerebrum with LOC of 6 -24 hrs, sequelae"
+S06345,ICD10,Severe,traumatic hemorrhage of right cerebrum w/LOC > 24 hrs with return to pre-existing consciousness level
+S06345A,ICD10,Severe,"traumatic hemorrhage of right cerebrum w/LOC > 24 hrs with return to pre-existing consciousness level, initial encounter"
+S06345D,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC > 24 hrs with return to pre-existing consciousness level, subsequent encounter"
+S06345S,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC > 24 hrs with return to pre-existing consciousness level, sequelae"
+S06346,ICD10,Severe,traumatic hemorrhage of right cerebrum w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving
+S06346A,ICD10,Severe,"traumatic hemorrhage of right cerebrum w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S06346D,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S06346S,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S06347,ICD10,Severe,traumatic hemorrhage of right cerebrum w/LOC of any duration with death due to brain injury prior to regaining consciousness
+S06347A,ICD10,Severe,"traumatic hemorrhage of right cerebrum w/LOC of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S06347D,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06347S,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC of any duration with death due to brain injury prior to regaining consciousness, sequelae"
+S06348,ICD10,Severe,traumatic hemorrhage of right cerebrum w/LOC of any duration with death due to other cause prior to regaining consciousness
+S06348A,ICD10,Severe,"traumatic hemorrhage of right cerebrum w/LOC of any duration with death due to other cause prior to regaining consciousness, initial encounter"
+S06348D,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06348S,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC of any duration with death due to other cause prior to regaining consciousness, sequelae"
+S06349,ICD10,Moderate,traumatic hemorrhage of right cerebrum w/LOC of unspecified duration
+S06349A,ICD10,Moderate,"traumatic hemorrhage of right cerebrum w/LOC of unspecified duration, initial encounter"
+S06349D,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC of unspecified duration, subsequent encounter"
+S06349S,ICD10,,"traumatic hemorrhage of right cerebrum w/LOC of unspecified duration, sequelae"
+S0635,ICD10,Moderate,traumatic hemorrhage of left cerebrum
+S06350,ICD10,Moderate,traumatic hemorrhage of left cerebrum w/o LOC
+S06350A,ICD10,Moderate,"traumatic hemorrhage of left cerebrum w/o LOC, initial encounter"
+S06350D,ICD10,,"traumatic hemorrhage of left cerebrum w/o LOC, subsequent encounter"
+S06350S,ICD10,,"traumatic hemorrhage of left cerebrum w/o LOC, sequelae"
+S06351,ICD10,Moderate,traumatic hemorrhage of left cerebrum w/LOC of 30 mins or less
+S06351A,ICD10,Moderate,"traumatic hemorrhage of left cerebrum w/LOC of 30 mins or less, initial encounter"
+S06351D,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC of 30 mins or less, subsequent encounter"
+S06351S,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC of 30 mins or less, sequelae"
+S06352,ICD10,Moderate,traumatic hemorrhage of left cerebrum w/LOC of 31-59 mins
+S06352A,ICD10,Moderate,"traumatic hemorrhage of left cerebrum w/LOC of 31-59 mins, initial encounter"
+S06352D,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC of 31-59 mins, subsequent encounter"
+S06352S,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC of 31-59 mins, sequelae"
+S06353,ICD10,Moderate,"traumatic hemorrhage of left cerebrum, unspecified, LOC of 1 hr to 5 hrs 59 mins"
+S06353A,ICD10,Moderate,"traumatic hemorrhage of left cerebrum, unspecified, LOC of 1 hr to 5 hrs 59 mins, initial encounter"
+S06353D,ICD10,,"traumatic hemorrhage of left cerebrum, unspecified, LOC of 1 hr to 5 hrs 59 mins, subsequent encounter"
+S06353S,ICD10,,"traumatic hemorrhage of left cerebrum, unspecified, LOC of 1 hr to 5 hrs 59 mins, sequelae"
+S06354,ICD10,Moderate,traumatic hemorrhage of left cerebrum w/LOC of 6 -24 hrs
+S06354A,ICD10,Moderate,"traumatic hemorrhage of left cerebrum w/LOC of 6 -24 hrs, initial encounter"
+S06354D,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC of 6 -24 hrs, subsequent encounter"
+S06354S,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC of 6 -24 hrs, sequelae"
+S06355,ICD10,Severe,traumatic hemorrhage of left cerebrum w/LOC >24 hrs with return to pre-existing consciousness level
+S06355A,ICD10,Severe,"traumatic hemorrhage of left cerebrum w/LOC >24 hrs with return to pre-existing consciousness level, initial encounter"
+S06355D,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC >24 hrs with return to pre-existing consciousness level, subsequent encounter"
+S06355S,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC >24 hrs with return to pre-existing consciousness level, sequelae"
+S06356,ICD10,Severe,traumatic hemorrhage of left cerebrum w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving
+S06356A,ICD10,Severe,"traumatic hemorrhage of left cerebrum w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S06356D,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S06356S,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S06357,ICD10,Severe,traumatic hemorrhage of left cerebrum w/LOC of any duration with death due to brain injury prior to regaining consciousness
+S06357A,ICD10,Severe,"traumatic hemorrhage of left cerebrum w/LOC of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S06357D,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06357S,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC of any duration with death due to brain injury prior to regaining consciousness, sequelae"
+S06358,ICD10,Severe,traumatic hemorrhage of left cerebrum w/LOC of any duration with death due to other cause prior to regaining consciousness
+S06358A,ICD10,Severe,"traumatic hemorrhage of left cerebrum w/LOC of any duration with death due to other cause prior to regaining consciousness, initial encounter"
+S06358D,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06358S,ICD10,,"traumatic hemorrhage of left cerebrum w/LOC of any duration with death due to other cause prior to regaining consciousness, sequelae"
+S06359,ICD10,Moderate,"traumatic hemorrhage of left cerebrum, w/ LOC of unspecified duration"
+S06359A,ICD10,Moderate,"traumatic hemorrhage of left cerebrum, w/ LOC of unspecified duration, initial encounter"
+S06359D,ICD10,,"traumatic hemorrhage of left cerebrum, w/ LOC of unspecified duration, subsequent encounter"
+S06359S,ICD10,,"traumatic hemorrhage of left cerebrum, w/ LOC of unspecified duration, sequelae"
+S0636,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified"
+S06360,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified, w/o LOC"
+S06360A,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified, w/o LOC, initial encounter"
+S06360D,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/o LOC, subsequent encounter"
+S06360S,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/o LOC, sequelae"
+S06361,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified, w/ LOC of 30 mins or less"
+S06361A,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified, w/ LOC of 30 mins or less, initial encounter"
+S06361D,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/ LOC of 30 mins or less, subsequent encounter"
+S06361S,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/ LOC of 30 mins or less, sequelae"
+S06362,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified, w/ LOC of 31-59 mins"
+S06362A,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified, w/ LOC of 31-59 mins, initial encounter"
+S06362D,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/ LOC of 31-59 mins, subsequent encounter"
+S06362S,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/ LOC of 31-59 mins, sequelae"
+S06363,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified, LOC of 1 hr to 5 hrs 59 mins"
+S06363A,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified, LOC of 1 hr to 5 hrs 59 mins, initial encounter"
+S06363D,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, LOC of 1 hr to 5 hrs 59 mins, subsequent encounter"
+S06363S,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, LOC of 1 hr to 5 hrs 59 mins, sequelae"
+S06364,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified, w/LOC of 6 -24 hrs"
+S06364A,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified, w/LOC of 6 -24 hrs, initial encounter"
+S06364D,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/LOC of 6 -24 hrs, subsequent encounter"
+S06364S,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/LOC of 6 -24 hrs, sequelae"
+S06365,ICD10,Severe,"traumatic hemorrhage of cerebrum, unspecified, w/LOC > 24 hrs with return to pre-existing consciouness level"
+S06365A,ICD10,Severe,"traumatic hemorrhage of cerebrum, unspecified, w/LOC > 24 hrs with return to pre-existing consciouness level, initial encounter"
+S06365D,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/LOC > 24 hrs with return to pre-existing consciouness level, subsequent encounter"
+S06365S,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/LOC > 24 hrs with return to pre-existing consciouness level, sequelae"
+S06366,ICD10,Severe,"traumatic hemorrhage of cerebrum, unspecified, LOC >24 hrs w/o return to pre-existing conscious level with patient surviving"
+S06366A,ICD10,Severe,"traumatic hemorrhage of cerebrum, unspecified, LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S06366D,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S06366S,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S06367,ICD10,Severe,"traumatic hemorrhage of cerebrum, unspecified, w/LOC of any duration with death due to brain injury prior to regaining consciousness"
+S06367A,ICD10,Severe,"traumatic hemorrhage of cerebrum, unspecified, w/LOC of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S06367D,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/LOC of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06367S,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/LOC of any duration with death due to brain injury prior to regaining consciousness, sequelae"
+S06368,ICD10,Severe,"traumatic hemorrhage of cerebrum, unspecified, w/LOC of any duration with death due to other cause prior to regaining consciousness"
+S06368A,ICD10,Severe,"traumatic hemorrhage of cerebrum, unspecified, w/LOC of any duration with death due to other cause prior to regaining consciousness, initial encounter"
+S06368D,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/LOC of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06368S,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/LOC of any duration with death due to other cause prior to regaining consciousness, sequelae"
+S06369,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified, w/ LOC of unspecified duration"
+S06369A,ICD10,Moderate,"traumatic hemorrhage of cerebrum, unspecified, w/ LOC of unspecified duration, initial encounter"
+S06369D,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/ LOC of unspecified duration, subsequent encounter"
+S06369S,ICD10,,"traumatic hemorrhage of cerebrum, unspecified, w/ LOC of unspecified duration, sequelae"
+S0637,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum"
+S06370,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum w/o LOC"
+S06370A,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum w/o LOC, initial encounter"
+S06370D,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/o LOC, subsequent encounter"
+S06370S,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/o LOC, sequelae"
+S06371,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 30 mins or less"
+S06371A,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 30 mins or less, initial encounter"
+S06371D,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 30 mins or less, subsequent encounter"
+S06371S,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 30 mins or less, sequelae"
+S06372,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 31 to 59 mins"
+S06372A,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 31 to 59 mins, initial encounter"
+S06372D,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 31 to 59 mins, subsequent encounter"
+S06372S,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 31 to 59 mins, sequelae"
+S06373,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 1 hr to 5 hrs 59 mins"
+S06373A,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 1 hr to 5 hrs 59 mins, initial encounter"
+S06373D,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 1 hr to 5 hrs 59 mins, subsequent encounter"
+S06373S,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 1 hr to 5 hrs 59 mins, sequelae"
+S06374,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 6-24 hrs"
+S06374A,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 6-24 hrs, initial encounter"
+S06374D,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 6-24 hrs, subsequent encounter"
+S06374S,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of 6-24 hrs, sequelae"
+S06375,ICD10,Severe,"contusion, laceration, and hemorrhage of cerebellum w/LOC > 24hrs with return to pre-existing conscious level"
+S06375A,ICD10,Severe,"contusion, laceration, and hemorrhage of cerebellum w/LOC > 24hrs with return to pre-existing conscious level, initial encounter"
+S06375D,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC > 24hrs with return to pre-existing conscious level, subsequent encounter"
+S06375S,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC > 24hrs with return to pre-existing conscious level, sequelae"
+S06376,ICD10,Severe,"contusion, laceration, and hemorrhage of cerebellum w/LOC <24 hrs w/o return to pre-existing conscious level with patient surviving"
+S06376A,ICD10,Severe,"contusion, laceration, and hemorrhage of cerebellum w/LOC <24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S06376D,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC <24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S06376S,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC <24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S06377,ICD10,Severe,"contusion, laceration, and hemorrhage of cerebellum w/LOC of any duration w/death due to brain injury prior to regaining consciousness"
+S06377A,ICD10,Severe,"contusion, laceration, and hemorrhage of cerebellum w/LOC of any duration w/death due to brain injury prior to regaining consciousness, initial encounter"
+S06377D,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of any duration w/death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06377S,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of any duration w/death due to brain injury prior to regaining consciousness, sequelae"
+S06378,ICD10,Severe,"contusion, laceration, and hemorrhage of cerebellum w/LOC of any duration w/ death due to other cause prior to regaining consciousness"
+S06378A,ICD10,Severe,"contusion, laceration, and hemorrhage of cerebellum w/LOC of any duration w/ death due to other cause prior to regaining consciousness, initial encounter"
+S06378D,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of any duration w/ death due to other cause prior to regaining consciousness, subsequent encounter"
+S06378S,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of any duration w/ death due to other cause prior to regaining consciousness, sequelae"
+S06379,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum w/LOC of unspecified duration"
+S06379A,ICD10,Moderate,"contusion, laceration, and hemorrhage of cerebellum w/LOC of unspecified duration, initial encounter"
+S06379D,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of unspecified duration, subsequent encounter"
+S06379S,ICD10,,"contusion, laceration, and hemorrhage of cerebellum w/LOC of unspecified duration, sequelae"
+S0638,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem"
+S06380,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem w/o LOC"
+S06380A,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem w/o LOC, initial encounter"
+S06380D,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/o LOC, subsequent encounter"
+S06380S,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/o LOC, sequelae"
+S06381,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem w/LOC of 30 minutes or less"
+S06381A,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem w/LOC of 30 minutes or less, initial encounter"
+S06381D,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC of 30 minutes or less, subsequent encounter"
+S06381S,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC of 30 minutes or less, sequelae"
+S06382,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem w/LOC of 31 to 59 mins"
+S06382A,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem w/LOC of 31 to 59 mins, initial encounter"
+S06382D,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC of 31 to 59 mins, subsequent encounter"
+S06382S,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC of 31 to 59 mins, sequelae"
+S06383,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem w/LOC of 1 hr to 5 hrs 59 mins"
+S06383A,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem w/LOC of 1 hr to 5 hrs 59 mins, initial encounter"
+S06383D,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC of 1 hr to 5 hrs 59 mins, subsequent encounter"
+S06383S,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC of 1 hr to 5 hrs 59 mins, sequelae"
+S06384,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem w/LOC of 6-24 hrs"
+S06384A,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem w/LOC of 6-24 hrs, initial encounter"
+S06384D,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC of 6-24 hrs, subsequent encounter"
+S06384S,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC of 6-24 hrs, sequelae"
+S06385,ICD10,Severe,"contusion, laceration, and hemorrhage of brainstem w/LOC > 24hrs with return to pre-existing conscious level"
+S06385A,ICD10,Severe,"contusion, laceration, and hemorrhage of brainstem w/LOC > 24hrs with return to pre-existing conscious level, initial encounter"
+S06385D,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC > 24hrs with return to pre-existing conscious level, subsequent encounter"
+S06385S,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC > 24hrs with return to pre-existing conscious level, sequelae"
+S06386,ICD10,Severe,"contusion, laceration, and hemorrhage of brainstem w/LOC > 24 hrs w/o return to pre-existing conscious level with patient surviving"
+S06386A,ICD10,Severe,"contusion, laceration, and hemorrhage of brainstem w/LOC > 24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S06386D,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC > 24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S06386S,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC > 24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S06387,ICD10,Severe,"contusion, laceration, and hemorrhage of brainstem w/LOC of any duration w/ death due to brain injury prior to regaining consciousness"
+S06387A,ICD10,Severe,"contusion, laceration, and hemorrhage of brainstem w/LOC of any duration w/ death due to brain injury prior to regaining consciousness, initial encounter"
+S06387D,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC of any duration w/ death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06387S,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC of any duration w/ death due to brain injury prior to regaining consciousness, sequelae"
+S06388,ICD10,Severe,"contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration w/death due to other cause prior to regaining consciousness"
+S06388A,ICD10,Severe,"contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration w/death due to other cause prior to regaining consciousness, initial encounter"
+S06388D,ICD10,,"contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration w/death due to other cause prior to regaining consciousness, subsequent encounter"
+S06388S,ICD10,,"contusion, laceration, and hemorrhage of brainstem with loss of consciousness of any duration w/death due to other cause prior to regaining consciousness, sequelae"
+S06389,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem w/LOC of unspecified duration"
+S06389A,ICD10,Moderate,"contusion, laceration, and hemorrhage of brainstem w/LOC of unspecified duration, initial encounter"
+S06389D,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC of unspecified duration, subsequent encounter"
+S06389S,ICD10,,"contusion, laceration, and hemorrhage of brainstem w/LOC of unspecified duration, sequelae"
+S064X,ICD10,Moderate,epidural hemorrhage
+S064X0,ICD10,Moderate,epidural hemorrhage w/o LOC
+S064X0A,ICD10,Moderate,"epidural hemorrhage w/o LOC, initial encounter"
+S064X0D,ICD10,,"epidural hemorrhage w/o LOC, subsequent encounter"
+S064X0S,ICD10,,"epidural hemorrhage w/o LOC, sequelae"
+S064X1,ICD10,Moderate,epidural hemorrhage w/LOC of 30 mins or less
+S064X1A,ICD10,Moderate,"epidural hemorrhage w/LOC of 30 mins or less, initial encounter"
+S064X1D,ICD10,,"epidural hemorrhage w/LOC of 30 mins or less, subsequent encounter"
+S064X1S,ICD10,,"epidural hemorrhage w/LOC of 30 mins or less, sequelae"
+S064X2,ICD10,Moderate,epidural hemorrhage w/LOC of 31-59 minutes
+S064X2A,ICD10,Moderate,"epidural hemorrhage w/LOC of 31-59 minutes, initial encounter"
+S064X2D,ICD10,,"epidural hemorrhage w/LOC of 31-59 minutes, subsequent encounter"
+S064X2S,ICD10,,"epidural hemorrhage w/LOC of 31-59 minutes, sequelae"
+S064X3,ICD10,Moderate,epidural hemorrhage w/LOC of 1 hr to 5 hrs 59 mins
+S064X3A,ICD10,Moderate,"epidural hemorrhage w/LOC of 1 hr to 5 hrs 59 mins, initial encounter"
+S064X3D,ICD10,,"epidural hemorrhage w/LOC of 1 hr to 5 hrs 59 mins, subsequent encounter"
+S064X3S,ICD10,,"epidural hemorrhage w/LOC of 1 hr to 5 hrs 59 mins, sequelae"
+S064X4,ICD10,Moderate,epidural hemorrhage w/LOC of 6-24 hrs
+S064X4A,ICD10,Moderate,"epidural hemorrhage w/LOC of 6-24 hrs, initial encounter"
+S064X4D,ICD10,,"epidural hemorrhage w/LOC of 6-24 hrs, subsequent encounter"
+S064X4S,ICD10,,"epidural hemorrhage w/LOC of 6-24 hrs, sequelae"
+S064X5,ICD10,Severe,epidural hemorrhage w/LOC >24 hrs with return to pre-existing conscious level
+S064X5A,ICD10,Severe,"epidural hemorrhage w/LOC >24 hrs with return to pre-existing conscious level, initial encounter"
+S064X5D,ICD10,,"epidural hemorrhage w/LOC >24 hrs with return to pre-existing conscious level, subsequent encounter"
+S064X5S,ICD10,,"epidural hemorrhage w/LOC >24 hrs with return to pre-existing conscious level, sequelae"
+S064X6,ICD10,Severe,epidural hemorrhage w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving
+S064X6A,ICD10,Severe,"epidural hemorrhage w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S064X6D,ICD10,,"epidural hemorrhage w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S064X6S,ICD10,,"epidural hemorrhage w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S064X7,ICD10,Severe,epidural hemorrhage w/LOC of any duration with death due to brain injury prior to regaining consciousness
+S064X7A,ICD10,Severe,"epidural hemorrhage w/LOC of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S064X7D,ICD10,,"epidural hemorrhage w/LOC of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S064X7S,ICD10,,"epidural hemorrhage w/LOC of any duration with death due to brain injury prior to regaining consciousness, sequelae"
+S064X8,ICD10,Severe,epidural hemorrhage w/LOC of any duration with death due to other causes prior to regaining consciousness
+S064X8A,ICD10,Severe,"epidural hemorrhage w/LOC of any duration with death due to other causes prior to regaining consciousness, initial encounter"
+S064X8D,ICD10,,"epidural hemorrhage w/LOC of any duration with death due to other causes prior to regaining consciousness, subsequent encounter"
+S064X8S,ICD10,,"epidural hemorrhage w/LOC of any duration with death due to other causes prior to regaining consciousness, sequelae"
+S064X9,ICD10,Moderate,epidural hemorrhage w/LOC of unspecified duration
+S064X9A,ICD10,Moderate,"epidural hemorrhage w/LOC of unspecified duration, initial encounter"
+S064X9D,ICD10,,"epidural hemorrhage w/LOC of unspecified duration, subsequent encounter"
+S064X9S,ICD10,,"epidural hemorrhage w/LOC of unspecified duration, sequelae"
+S065X,ICD10,Moderate,traumatic subdural hemorrhage
+S065X0,ICD10,Moderate,traumatic subdural hemorrhage w/o LOC
+S065X0A,ICD10,Moderate,"traumatic subdural hemorrhage w/o LOC, initial encounter"
+S065X0D,ICD10,,"traumatic subdural hemorrhage w/o LOC, subsequent encounter"
+S065X0S,ICD10,,"traumatic subdural hemorrhage w/o LOC, sequelae"
+S065X1,ICD10,Moderate,traumatic subdural hemorrhage w/LOC of 30 mins or less
+S065X1A,ICD10,Moderate,"traumatic subdural hemorrhage w/LOC of 30 mins or less, initial encounter"
+S065X1D,ICD10,,"traumatic subdural hemorrhage w/LOC of 30 mins or less, subsequent encounter"
+S065X1S,ICD10,,"traumatic subdural hemorrhage w/LOC of 30 mins or less, sequelae"
+S065X2,ICD10,Moderate,traumatic subdural hemorrhage with LOC of 31-59 mins
+S065X2A,ICD10,Moderate,"traumatic subdural hemorrhage with LOC of 31-59 mins, initial encounter"
+S065X2D,ICD10,,"traumatic subdural hemorrhage with LOC of 31-59 mins, subsequent encounter"
+S065X2S,ICD10,,"traumatic subdural hemorrhage with LOC of 31-59 mins, sequelae"
+S065X3,ICD10,Moderate,traumatic subdural hemorrhage w/LOC of 1 hr to 5 hrs 59 mins
+S065X3A,ICD10,Moderate,"traumatic subdural hemorrhage w/LOC of 1 hr to 5 hrs 59 mins, initial encounter"
+S065X3D,ICD10,,"traumatic subdural hemorrhage w/LOC of 1 hr to 5 hrs 59 mins, subsequent encounter"
+S065X3S,ICD10,,"traumatic subdural hemorrhage w/LOC of 1 hr to 5 hrs 59 mins, sequelae"
+S065X4,ICD10,Moderate,traumatic subdural hemorrhage with LOC of 6-24 hrs
+S065X4A,ICD10,Moderate,"traumatic subdural hemorrhage with LOC of 6-24 hrs, initial encounter"
+S065X4D,ICD10,,"traumatic subdural hemorrhage with LOC of 6-24 hrs, subsequent encounter"
+S065X4S,ICD10,,"traumatic subdural hemorrhage with LOC of 6-24 hrs, sequelae"
+S065X5,ICD10,Severe,traumatic subdural hemorrhage w/LOC >24 hrs with return to pre-existing conscious level
+S065X5A,ICD10,Severe,"traumatic subdural hemorrhage w/LOC >24 hrs with return to pre-existing conscious level, initial encounter"
+S065X5D,ICD10,,"traumatic subdural hemorrhage w/LOC >24 hrs with return to pre-existing conscious level, subsequent encounter"
+S065X5S,ICD10,,"traumatic subdural hemorrhage w/LOC >24 hrs with return to pre-existing conscious level, sequelae"
+S065X6,ICD10,Severe,traumatic subdural hemorrhage w/ LOC >24 hrs w/o return to pre-existing conscious level with patient surviving
+S065X6A,ICD10,Severe,"traumatic subdural hemorrhage w/ LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S065X6D,ICD10,,"traumatic subdural hemorrhage w/ LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S065X6S,ICD10,,"traumatic subdural hemorrhage w/ LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S065X7,ICD10,Severe,traumatic subdural hemorrhage w/LOC of any duration with death due to brain injury before regaining consciousness
+S065X7A,ICD10,Severe,"traumatic subdural hemorrhage w/LOC of any duration with death due to brain injury before regaining consciousness, initial encounter"
+S065X7D,ICD10,,"traumatic subdural hemorrhage w/LOC of any duration with death due to brain injury before regaining consciousness, subsequent encounter"
+S065X7S,ICD10,,"traumatic subdural hemorrhage w/LOC of any duration with death due to brain injury before regaining consciousness, sequelae"
+S065X8,ICD10,Severe,traumatic subdural hemorrhage w/LOC of any duration with death due to other causes before regaining consciousness
+S065X8A,ICD10,Severe,"traumatic subdural hemorrhage w/LOC of any duration with death due to other causes before regaining consciousness, initial encounter"
+S065X8D,ICD10,,"traumatic subdural hemorrhage w/LOC of any duration with death due to other causes before regaining consciousness, subsequent encounter"
+S065X8S,ICD10,,"traumatic subdural hemorrhage w/LOC of any duration with death due to other causes before regaining consciousness, sequelae"
+S065X9,ICD10,Moderate,traumatic subdural hemorrhage w/LOC of unspecified duration
+S065X9A,ICD10,Moderate,"traumatic subdural hemorrhage w/LOC of unspecified duration, initial encounter"
+S065X9D,ICD10,,"traumatic subdural hemorrhage w/LOC of unspecified duration, subsequent encounter"
+S065X9S,ICD10,,"traumatic subdural hemorrhage w/LOC of unspecified duration, sequelae"
+S066X,ICD10,Moderate,traumatic subarachnoid hemorrhage
+S066X0,ICD10,Moderate,traumatic subarachnoid hemorrhage w/o LOC
+S066X0A,ICD10,Moderate,"traumatic subarachnoid hemorrhage w/o LOC, initial encounter"
+S066X0D,ICD10,,"traumatic subarachnoid hemorrhage w/o LOC, subsequent encounter"
+S066X0S,ICD10,,"traumatic subarachnoid hemorrhage w/o LOC, sequelae"
+S066X1,ICD10,Moderate,traumatic subarachnoid hemorrhage w/LOC of 30 mins or less
+S066X1A,ICD10,Moderate,"traumatic subarachnoid hemorrhage w/LOC of 30 mins or less, initial encounter"
+S066X1D,ICD10,,"traumatic subarachnoid hemorrhage w/LOC of 30 mins or less, subsequent encounter"
+S066X1S,ICD10,,"traumatic subarachnoid hemorrhage w/LOC of 30 mins or less, sequelae"
+S066X2,ICD10,Moderate,traumatic subarachnoid hemorrhage w/LOC of 31-59 mins
+S066X2A,ICD10,Moderate,"traumatic subarachnoid hemorrhage w/LOC of 31-59 mins, initial encounter"
+S066X2D,ICD10,,"traumatic subarachnoid hemorrhage w/LOC of 31-59 mins, subsequent encounter"
+S066X2S,ICD10,,"traumatic subarachnoid hemorrhage w/LOC of 31-59 mins, sequelae"
+S066X3,ICD10,Moderate,traumatic subarachnoid hemorrhage w/ LOC of 1 hr to 5 hrs 59 mins
+S066X3A,ICD10,Moderate,"traumatic subarachnoid hemorrhage w/ LOC of 1 hr to 5 hrs 59 mins, initial encounter"
+S066X3D,ICD10,,"traumatic subarachnoid hemorrhage w/ LOC of 1 hr to 5 hrs 59 mins, subsequent encounter"
+S066X3S,ICD10,,"traumatic subarachnoid hemorrhage w/ LOC of 1 hr to 5 hrs 59 mins, sequelae"
+S066X4,ICD10,Moderate,traumatic subarachnoid hemorrhage w/LOC of 6-24 hrs
+S066X4A,ICD10,Moderate,"traumatic subarachnoid hemorrhage w/LOC of 6-24 hrs, initial encounter"
+S066X4D,ICD10,,"traumatic subarachnoid hemorrhage w/LOC of 6-24 hrs, subsequent encounter"
+S066X4S,ICD10,,"traumatic subarachnoid hemorrhage w/LOC of 6-24 hrs, sequelae"
+S066X5,ICD10,Severe,traumatic subarachnoid hemorrhage w/LOC > 24hrs with return to pre-existing conscious level
+S066X5A,ICD10,Severe,"traumatic subarachnoid hemorrhage w/LOC > 24hrs with return to pre-existing conscious level, initial encounter"
+S066X5D,ICD10,,"traumatic subarachnoid hemorrhage w/LOC > 24hrs with return to pre-existing conscious level, subsequent encounter"
+S066X5S,ICD10,,"traumatic subarachnoid hemorrhage w/LOC > 24hrs with return to pre-existing conscious level, sequelae"
+S066X6,ICD10,Severe,traumatic subarachnoid hemorrhage w/LOC > 24 hrs w/o return to pre-existing conscious level with patient surviving
+S066X6A,ICD10,Severe,"traumatic subarachnoid hemorrhage w/LOC > 24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S066X6D,ICD10,,"traumatic subarachnoid hemorrhage w/LOC > 24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S066X6S,ICD10,,"traumatic subarachnoid hemorrhage w/LOC > 24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S066X7,ICD10,Severe,traumatic subarachnoid hemorrhage w/LOC of any duration with death due to brain injury prior to regaining consciousness
+S066X7A,ICD10,Severe,"traumatic subarachnoid hemorrhage w/LOC of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S066X7D,ICD10,,"traumatic subarachnoid hemorrhage w/LOC of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S066X7S,ICD10,,"traumatic subarachnoid hemorrhage w/LOC of any duration with death due to brain injury prior to regaining consciousness, sequelae"
+S066X8,ICD10,Severe,traumatic subarachnoid hemorrhage w/LOC of any duration with death due to other causes before regaining consciousness
+S066X8A,ICD10,Severe,"traumatic subarachnoid hemorrhage w/LOC of any duration with death due to other causes before regaining consciousness, initial encounter"
+S066X8D,ICD10,,"traumatic subarachnoid hemorrhage w/LOC of any duration with death due to other causes before regaining consciousness, subsequent encounter"
+S066X8S,ICD10,,"traumatic subarachnoid hemorrhage w/LOC of any duration with death due to other causes before regaining consciousness, sequelae"
+S066X9,ICD10,Moderate,traumatic subarachnoid hemorrhage w/LOC of unspecified duration
+S066X9A,ICD10,Moderate,"traumatic subarachnoid hemorrhage w/LOC of unspecified duration, initial encounter"
+S066X9D,ICD10,,"traumatic subarachnoid hemorrhage w/LOC of unspecified duration, subsequent encounter"
+S066X9S,ICD10,,"traumatic subarachnoid hemorrhage w/LOC of unspecified duration, sequelae"
+S06810A,ICD10,,
+S06810D,ICD10,,
+S06810S,ICD10,,
+S06811A,ICD10,,
+S06811D,ICD10,,
+S06811S,ICD10,,
+S06812A,ICD10,,
+S06812D,ICD10,,
+S06812S,ICD10,,
+S06813A,ICD10,,
+S06813D,ICD10,,
+S06813S,ICD10,,
+S06814A,ICD10,,
+S06814D,ICD10,,
+S06814S,ICD10,,
+S06815A,ICD10,,
+S06815D,ICD10,,
+S06815S,ICD10,,
+S06816A,ICD10,,
+S06816D,ICD10,,
+S06816S,ICD10,,
+S06817A,ICD10,,
+S06817D,ICD10,,
+S06817S,ICD10,,
+S06818A,ICD10,,
+S06818D,ICD10,,
+S06818S,ICD10,,
+S06819A,ICD10,,
+S06819D,ICD10,,
+S06819S,ICD10,,
+S06820A,ICD10,,
+S06820D,ICD10,,
+S06820S,ICD10,,
+S06821A,ICD10,,
+S06821D,ICD10,,
+S06821S,ICD10,,
+S06822A,ICD10,,
+S06822D,ICD10,,
+S06822S,ICD10,,
+S06823A,ICD10,,
+S06823D,ICD10,,
+S06823S,ICD10,,
+S06824A,ICD10,,
+S06824D,ICD10,,
+S06824S,ICD10,,
+S06825A,ICD10,,
+S06825D,ICD10,,
+S06825S,ICD10,,
+S06826A,ICD10,,
+S06826D,ICD10,,
+S06826S,ICD10,,
+S06827A,ICD10,,
+S06827D,ICD10,,
+S06827S,ICD10,,
+S06828A,ICD10,,
+S06828D,ICD10,,
+S06828S,ICD10,,
+S06829A,ICD10,,
+S06829D,ICD10,,
+S06829S,ICD10,,
+S0689,ICD10,Moderate,other specified intracranial injury
+S06890,ICD10,Moderate,other specified intracranial injury w/o LOC
+S06890A,ICD10,Moderate,"other specified intracranial injury w/o LOC, initial encounter"
+S06890D,ICD10,,"other specified intracranial injury w/o LOC, subsequent encounter"
+S06890S,ICD10,,"other specified intracranial injury w/o LOC, sequelae"
+S06891,ICD10,Moderate,other specified intracranial injury w/LOC of 30 mins or less
+S06891A,ICD10,Moderate,"other specified intracranial injury w/LOC of 30 mins or less, initial encounter"
+S06891D,ICD10,,"other specified intracranial injury w/LOC of 30 mins or less, subsequent encounter"
+S06891S,ICD10,,"other specified intracranial injury w/LOC of 30 mins or less, sequelae"
+S06892,ICD10,Moderate,other specified intracranial injury w/LOC of 31-59 mins
+S06892A,ICD10,Moderate,"other specified intracranial injury w/LOC of 31-59 mins, initial encounter"
+S06892D,ICD10,,"other specified intracranial injury w/LOC of 31-59 mins, subsequent encounter"
+S06892S,ICD10,,"other specified intracranial injury w/LOC of 31-59 mins, sequelae"
+S06893,ICD10,Moderate,other specified intracranial injury w/LOC of 1 hr to 5 hrs 59 mins
+S06893A,ICD10,Moderate,"other specified intracranial injury w/LOC of 1 hr to 5 hrs 59 mins, initial encounter"
+S06893D,ICD10,,"other specified intracranial injury w/LOC of 1 hr to 5 hrs 59 mins, subsequent encounter"
+S06893S,ICD10,,"other specified intracranial injury w/LOC of 1 hr to 5 hrs 59 mins, sequelae"
+S06894,ICD10,Moderate,other specified intracranial injury w/LOC of 6 -24 hrs
+S06894A,ICD10,Moderate,"other specified intracranial injury w/LOC of 6 -24 hrs, initial encounter"
+S06894D,ICD10,,"other specified intracranial injury w/LOC of 6 -24 hrs, subsequent encounter"
+S06894S,ICD10,,"other specified intracranial injury w/LOC of 6 -24 hrs, sequelae"
+S06895,ICD10,Severe,other specified intracranial injury w/LOC > 24 hrs with return to pre-existing conscious level
+S06895A,ICD10,Severe,"other specified intracranial injury w/LOC > 24 hrs with return to pre-existing conscious level, initial encounter"
+S06895D,ICD10,,"other specified intracranial injury w/LOC > 24 hrs with return to pre-existing conscious level, subsequent encounter"
+S06895S,ICD10,,"other specified intracranial injury w/LOC > 24 hrs with return to pre-existing conscious level, sequelae"
+S06896,ICD10,Severe,other specified intracranial injury w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving
+S06896A,ICD10,Severe,"other specified intracranial injury w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S06896D,ICD10,,"other specified intracranial injury w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S06896S,ICD10,,"other specified intracranial injury w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S06897,ICD10,Severe,other specified intracranial injury w/LOC of any duration with death due to brain injury prior to regaining consciousness
+S06897A,ICD10,Severe,"other specified intracranial injury w/LOC of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S06897D,ICD10,,"other specified intracranial injury w/LOC of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S06897S,ICD10,,"other specified intracranial injury w/LOC of any duration with death due to brain injury prior to regaining consciousness, sequelae"
+S06898,ICD10,Severe,other specified intracranial injury w/LOC of any duration with death due to other cause prior to regaining consciousness
+S06898A,ICD10,Severe,"other specified intracranial injury w/LOC of any duration with death due to other cause prior to regaining consciousness, initial encounter"
+S06898D,ICD10,,"other specified intracranial injury w/LOC of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S06898S,ICD10,,"other specified intracranial injury w/LOC of any duration with death due to other cause prior to regaining consciousness, sequelae"
+S06899,ICD10,Moderate,other specified intracranial injury w/LOC of unspecified duration
+S06899A,ICD10,Moderate,"other specified intracranial injury w/LOC of unspecified duration, initial encounter"
+S06899D,ICD10,,"other specified intracranial injury w/LOC of unspecified duration, subsequent encounter"
+S06899S,ICD10,,"other specified intracranial injury w/LOC of unspecified duration, sequelae"
+S069X,ICD10,Moderate,unspecified intracranial injury
+S069X0,ICD10,Moderate,unspecified intracranial injury w/o LOC
+S069X0A,ICD10,Moderate,"unspecified intracranial injury w/o LOC, initial encounter"
+S069X0D,ICD10,,"unspecified intracranial injury w/o LOC, subsequent encounter"
+S069X0S,ICD10,,"unspecified intracranial injury w/o LOC, sequelae"
+S069X1,ICD10,Moderate,unspecified intracranial injury w/LOC of 30 mins or less
+S069X1A,ICD10,Moderate,"unspecified intracranial injury w/LOC of 30 mins or less, initial encounter"
+S069X1D,ICD10,,"unspecified intracranial injury w/LOC of 30 mins or less, subsequent encounter"
+S069X1S,ICD10,,"unspecified intracranial injury w/LOC of 30 mins or less, sequelae"
+S069X2,ICD10,Moderate,unspecified intracranial injury w/LOC of 31-59 mins
+S069X2A,ICD10,Moderate,"unspecified intracranial injury w/LOC of 31-59 mins, initial encounter"
+S069X2D,ICD10,,"unspecified intracranial injury w/LOC of 31-59 mins, subsequent encounter"
+S069X2S,ICD10,,"unspecified intracranial injury w/LOC of 31-59 mins, sequelae"
+S069X3,ICD10,Moderate,unspecified intracranial injury w/LOC of 1 hr to 5 hrs 59 min
+S069X3A,ICD10,Moderate,"unspecified intracranial injury w/LOC of 1 hr to 5 hrs 59 min, initial encounter"
+S069X3D,ICD10,,"unspecified intracranial injury w/LOC of 1 hr to 5 hrs 59 min, subsequent encounter"
+S069X3S,ICD10,,"unspecified intracranial injury w/LOC of 1 hr to 5 hrs 59 min, sequelae"
+S069X4,ICD10,Moderate,unspecified intracranial injury w/ LOC of 6 -24 hrs
+S069X4A,ICD10,Moderate,"unspecified intracranial injury w/ LOC of 6 -24 hrs, initial encounter"
+S069X4D,ICD10,,"unspecified intracranial injury w/ LOC of 6 -24 hrs, subsequent encounter"
+S069X4S,ICD10,,"unspecified intracranial injury w/ LOC of 6 -24 hrs, sequelae"
+S069X5,ICD10,Severe,unspecified intracranial injury w/LOC > 24 hrs with return to pre-existing conscious level
+S069X5A,ICD10,Severe,"unspecified intracranial injury w/LOC > 24 hrs with return to pre-existing conscious level, initial encounter"
+S069X5D,ICD10,,"unspecified intracranial injury w/LOC > 24 hrs with return to pre-existing conscious level, subsequent encounter"
+S069X5S,ICD10,,"unspecified intracranial injury w/LOC > 24 hrs with return to pre-existing conscious level, sequelae"
+S069X6,ICD10,Severe,unspecified intracranial injury w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving
+S069X6A,ICD10,Severe,"unspecified intracranial injury w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, initial encounter"
+S069X6D,ICD10,,"unspecified intracranial injury w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, subsequent encounter"
+S069X6S,ICD10,,"unspecified intracranial injury w/LOC >24 hrs w/o return to pre-existing conscious level with patient surviving, sequelae"
+S069X7,ICD10,Severe,unspecified intracranial injury w/LOC of any duration with death due to brain injury prior to regaining consciousness
+S069X7A,ICD10,Severe,"unspecified intracranial injury w/LOC of any duration with death due to brain injury prior to regaining consciousness, initial encounter"
+S069X7D,ICD10,,"unspecified intracranial injury w/LOC of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter"
+S069X7S,ICD10,,"unspecified intracranial injury w/LOC of any duration with death due to brain injury prior to regaining consciousness, sequelae"
+S069X8,ICD10,Severe,unspecified intracranial injury w/LOC of any duration with death due to other cause prior to regaining consciousness
+S069X8A,ICD10,Severe,"unspecified intracranial injury w/LOC of any duration with death due to other cause prior to regaining consciousness, initial encounter"
+S069X8D,ICD10,,"unspecified intracranial injury w/LOC of any duration with death due to other cause prior to regaining consciousness, subsequent encounter"
+S069X8S,ICD10,,"unspecified intracranial injury w/LOC of any duration with death due to other cause prior to regaining consciousness, sequelae"
+S069X9,ICD10,Moderate,unspecified intracranial injury w/LOC of unspecified duration
+S069X9A,ICD10,Moderate,"unspecified intracranial injury w/LOC of unspecified duration, initial encounter"
+S069X9D,ICD10,,"unspecified intracranial injury w/LOC of unspecified duration, subsequent encounter"
+S069X9S,ICD10,Moderate,"unspecified intracranial injury with LOC of unspecified duration, sequela"
+S071,ICD10,Moderate,crushing injury of skull
+S071XXA,ICD10,Moderate,"crushing injury of skull, initial encounter"
+S071XXD,ICD10,,
+S071XXS,ICD10,,
+V155 1,ICD10,Unclassified,personal history of injury presenting hazards to health
+V155 2,ICD10,Mild,personal history of injury presenting hazards to health
+V155 3,ICD10,Moderate,personal history of injury presenting hazards to health
+V155 4,ICD10,Severe,personal history of injury presenting hazards to health
+V155 5,ICD10,Penetrating,personal history of injury presenting hazards to health
+V155 6,ICD10,Unclassified,personal history of injury presenting hazards to health
+V155 7,ICD10,Mild,personal history of injury presenting hazards to health
+V155 8,ICD10,Moderate,personal history of injury presenting hazards to health
+V155 9,ICD10,Severe,personal history of injury presenting hazards to health
+V155 A,ICD10,Penetrating,personal history of injury presenting hazards to health
+V155 B,ICD10,Unclassified,personal history of injury presenting hazards to health
+V155 C,ICD10,Mild,personal history of injury presenting hazards to health
+V155 D,ICD10,Moderate,personal history of injury presenting hazards to health
+V155 E,ICD10,Severe,personal history of injury presenting hazards to health
+V155 F,ICD10,Penetrating,personal history of injury presenting hazards to health
+V1552,ICD10,,
+V1552 0,ICD10,Unclassified,personal history of traumatic brain injury
+V1552 1,ICD10,Unclassified,personal history of traumatic brain injury
+V1552 2,ICD10,Mild,personal history of traumatic brain injury
+V1552 3,ICD10,Moderate,personal history of traumatic brain injury
+V1552 4,ICD10,Severe,personal history of traumatic brain injury
+V1552 5,ICD10,Penetrating,personal history of traumatic brain injury
+V1552 6,ICD10,Unclassified,personal history of traumatic brain injury
+V1552 7,ICD10,Mild,personal history of traumatic brain injury
+V1552 8,ICD10,Moderate,personal history of traumatic brain injury
+V1552 9,ICD10,Severe,personal history of traumatic brain injury
+V1552 A,ICD10,Penetrating,personal history of traumatic brain injury
+V1552 B,ICD10,Unclassified,personal history of traumatic brain injury
+V1552 C,ICD10,Mild,personal history of traumatic brain injury
+V1552 D,ICD10,Moderate,personal history of traumatic brain injury
+V1552 E,ICD10,Severe,personal history of traumatic brain injury
+V1552 F,ICD10,Penetrating,personal history of traumatic brain injury
+V1559 1,ICD10,Unclassified,personal history of other injury
+V1559 2,ICD10,Mild,personal history of other injury
+V1559 3,ICD10,Moderate,personal history of other injury
+V1559 4,ICD10,Severe,personal history of other injury
+V1559 5,ICD10,Penetrating,personal history of other injury
+V1559 6,ICD10,Unclassified,personal history of other injury
+V1559 7,ICD10,Mild,personal history of other injury
+V1559 8,ICD10,Moderate,personal history of other injury
+V1559 9,ICD10,Severe,personal history of other injury
+V1559 A,ICD10,Penetrating,personal history of other injury
+V1559 B,ICD10,Unclassified,personal history of other injury
+V1559 C,ICD10,Mild,personal history of other injury
+V1559 D,ICD10,Moderate,personal history of other injury
+V1559 E,ICD10,Severe,personal history of other injury
+V1559 F,ICD10,Penetrating,personal history of other injury
+Z87820,ICD10,Mild,personal history of traumatic brain injury
+S0211EB,ICD10,,"type III occipital condyle fracture, right side, initial encounter for open fracture"

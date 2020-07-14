@@ -1,0 +1,86 @@
+Classification,Code,Type,Description
+,29285,,Drug induced sleep disorders
+,30740,,"Nonorganic sleep disorder, unspecified"
+,30741,,Transient disorder of initiating or maintaining sleep
+,30742,,Persistent disorder of initiating or maintaining sleep
+,30746,,Sleep arousal disorder
+,30747,,Other dysfunctions of sleep stages or arousal from sleep
+,30749,,Other specific disorders of sleep of nonorganic origin
+,32700,,"Organic insomnia, unspecified"
+,32701,,Insomnia due to medical condition classified elsewhere
+,32702,,Insomnia due to mental disorder
+,32709,,Other organic insomnia
+,32710,,"Organic hypersomnia, unspecified"
+,32712,,Idiopathic hypersomnia without long sleep time
+,32720,,"Organic sleep apnea, unspecified"
+,32721,,Primary central sleep apnea
+,32723,,Obstructive sleep apnea (adult)(pediatric)
+,32726,,Sleep related hypoventilation/hypoxemia in conditions classifiable elsewhere
+,32727,,Central sleep apnea in conditions classified elsewhere
+,32731,,"Circadian rhythm sleep disorder, delayed sleep phase type"
+,32733,,"Circadian rhythm sleep disorder, irregular sleep-wake type"
+,32735,,"Circadian rhythm sleep disorder, jet lag type"
+,32740,,"Organic parasomnia, unspecified"
+,32742,,REM sleep behavior disorder
+,32743,,Recurrent isolated sleep paralysis
+,3278,,Other organic sleep disorders
+,78050,,"Sleep disturbance, unspecified"
+,78051,,"Insomnia with sleep apnea, unspecified"
+,78052,,"Insomnia, unspecified"
+,78055,,"Disruption of 24 hour sleep wake cycle, unspecified"
+,78056,,Dysfunctions associated with sleep stages or arousal from sleep
+,78057,,Unspecified sleep apnea
+,78058,,"Sleep related movement disorder, unspecified"
+,78059,,Other sleep disturbances
+,F11182,,Opioid abuse with opioid-induced sleep disorder
+,F11282,,Opioid dependence with opioid-induced sleep disorder
+,F11982,,"Opioid use, unspecified with opioid-induced sleep disorder"
+,F13182,,"Sedative, hypnotic or anxiolytic abuse w sleep disorder"
+,F13282,,"Sedative, hypnotic or anxiolytic dependence w sleep disorder"
+,F13982,,"Sedative, hypnotic or anxiolytic use, unsp w sleep disorder"
+,F14182,,Cocaine abuse with cocaine-induced sleep disorder
+,F14282,,Cocaine dependence with cocaine-induced sleep disorder
+,F14982,,"Cocaine use, unspecified with cocaine-induced sleep disorder"
+,F15182,,Other stimulant abuse with stimulant-induced sleep disorder
+,F15282,,Oth stimulant dependence w stimulant-induced sleep disorder
+,F15982,,"Oth stimulant use, unsp w stimulant-induced sleep disorder"
+,F19182,,Oth psychoactive substance abuse w sleep disorder
+,F19282,,Oth psychoactive substance dependence w sleep disorder
+,F19982,,"Oth psychoactive substance use, unsp w sleep disorder"
+,F510,,Insomnia not due to a substance or known physiol condition
+,F5101,,Primary insomnia
+,F5102,,Adjustment insomnia
+,F5103,,Paradoxical insomnia
+,F5104,,Psychophysiologic insomnia
+,F5105,,Insomnia due to other mental disorder
+,F5109,,Oth insomnia not due to a substance or known physiol cond
+,F5119,,Oth hypersomnia not due to a substance or known physiol cond
+,F513,,Sleepwalking [somnambulism]
+,F514,,Sleep terrors [night terrors]
+,F515,,Nightmare disorder
+,F518,,Oth sleep disord not due to a sub or known physiol cond
+,F519,,"Sleep disorder not due to a sub or known physiol cond, unsp"
+,G470,,Insomnia
+,G4700,,"Insomnia, unspecified"
+,G4701,,Insomnia due to medical condition
+,G4709,,Other insomnia
+,G4710,,"Hypersomnia, unspecified"
+,G4712,,Idiopathic hypersomnia without long sleep time
+,G472,,Circadian rhythm sleep disorders
+,G4721,,"Circadian rhythm sleep disorder, delayed sleep phase type"
+,G4723,,"Circadian rhythm sleep disorder, irregular sleep wake type"
+,G4725,,"Circadian rhythm sleep disorder, jet lag type"
+,G473,,Sleep apnea
+,G4730,,"Sleep apnea, unspecified"
+,G4731,,Primary central sleep apnea
+,G4733,,Obstructive sleep apnea (adult) (pediatric)
+,G4736,,Sleep related hypoventilation in conditions classd elswhr
+,G4737,,Central sleep apnea in conditions classified elsewhere
+,G4750,,"Parasomnia, unspecified"
+,G4752,,REM sleep behavior disorder
+,G4753,,Recurrent isolated sleep paralysis
+,G478,,Other sleep disorders
+,G479,,"Sleep disorder, unspecified"
+,V694,,Lack of adequate sleep
+,V694,,Driver of hv veh injured in clsn w oth and unsp mv in traf
+,Z72820,,Sleep deprivation

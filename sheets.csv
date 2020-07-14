@@ -1,0 +1,27 @@
+ID,Author,Concept,Description,Tags,LastModified,MajorVersion,MinorVersion
+anxiety_dod,DoD,Anxiety,,anxiety,2020-06-23 22:42:22.088558,1,0
+appetite_dod,DoD,Appetite,,appetite,2020-06-23 22:42:22.088558,1,0
+balance_dod,DoD,Balance,,balance,2020-06-23 22:42:22.088558,1,0
+concentration_dod,DoD,Concentration,,concentration,2020-06-23 22:42:22.088558,1,0
+coordination_dod,DoD,Coordination,,coordination,2020-06-23 22:42:22.088558,1,0
+decisions_dod,DoD,Decisions,,decisions,2020-06-23 22:42:22.088558,1,0
+depression_dod,DoD,Depression,,depression,2020-06-23 22:42:22.088558,1,0
+dizzy_dod,DoD,Dizzy,,dizzy,2020-06-23 22:42:22.088558,1,0
+fatigue_dod,DoD,Fatigue,,fatigue,2020-06-23 22:42:22.088558,1,0
+frustration_dod,DoD,Frustration,,frustration,2020-06-23 22:42:22.088558,1,0
+headache_dod,DoD,Headache,,headache,2020-06-23 22:42:22.088558,1,0
+hearing difficulty _dod,DoD,Hearing difficulty ,,hearing difficulty ,2020-06-23 22:42:22.088558,1,0
+irritable_dod,DoD,Irritable,,irritable,2020-06-23 22:42:22.088558,1,0
+memory_dod,DoD,Memory,,memory,2020-06-23 22:42:22.088558,1,0
+nausea_dod,DoD,Nausea,,nausea,2020-06-23 22:42:22.088558,1,0
+numbness_dod,DoD,Numbness,,numbness,2020-06-23 22:42:22.088558,1,0
+sensitivity to light _dod,DoD,Sensitivity to light ,,sensitivity to light ,2020-06-23 22:42:22.088558,1,0
+sensitivity to noise _dod,DoD,Sensitivity to noise ,,sensitivity to noise ,2020-06-23 22:42:22.088558,1,0
+sleep_dod,DoD,Sleep,,sleep,2020-06-23 22:42:22.088558,1,0
+slowed thinking_dod,DoD,Slowed thinking,,slowed thinking,2020-06-23 22:42:22.088558,1,0
+taste_smell_dod,DoD,Taste/Smell,,"taste,smell",2020-06-23 22:42:22.088558,1,0
+vision_dod,DoD,Vision,,vision,2020-06-23 22:42:22.088558,1,0
+tbi_portal,TBI Portal,TBI,,tbi,2020-06-23 22:42:25.837415,1,0
+tbi_comparre,Comparre,TBI,,tbi,2020-06-23 22:42:25.837415,1,0
+tbi_afshb,AFSHB,TBI,,tbi,2020-06-23 22:42:25.837415,1,0
+tbi_severity,Severity,TBI,,tbi,2020-06-23 22:42:25.837415,1,0

@@ -1,0 +1,29 @@
+Classification,Code,Type,Description
+,38600,,"Ménière's disease, unspecified"
+,38650,,"Labyrinthine dysfunction, unspecified"
+,38653,,"Hypoactive labyrinth, unilateral"
+,38654,,"Hypoactive labyrinth, bilateral"
+,3868,,Other disorders of labyrinth
+,H810,,Meniere's disease
+,H8101,,"Meniere's disease, right ear"
+,H8102,,"Meniere's disease, left ear"
+,H8103,,"Meniere's disease, bilateral"
+,H8109,,"Meniere's disease, unspecified ear"
+,H818X1,,"Other disorders of vestibular function, right ear"
+,H818X2,,"Other disorders of vestibular function, left ear"
+,H818X3,,"Other disorders of vestibular function, bilateral"
+,H818X9,,"Other disorders of vestibular function, unspecified ear"
+,H821,,"Vertiginous syndromes in diseases classd elswhr, right ear"
+,H822,,"Vertiginous syndromes in diseases classd elswhr, left ear"
+,H823,,"Vertiginous syndromes in diseases classd elswhr, bilateral"
+,H829,,"Vertiginous syndromes in diseases classd elswhr, unsp ear"
+,H832,,Labyrinthine dysfunction
+,H832X1,,"Labyrinthine dysfunction, right ear"
+,H832X2,,"Labyrinthine dysfunction, left ear"
+,H832X3,,"Labyrinthine dysfunction, bilateral"
+,H832X9,,"Labyrinthine dysfunction, unspecified ear"
+,H838,,Other specified diseases of inner ear
+,H838X1,,Other specified diseases of right inner ear
+,H838X2,,Other specified diseases of left inner ear
+,H838X3,,"Other specified diseases of inner ear, bilateral"
+,H838X9,,"Other specified diseases of inner ear, unspecified ear"

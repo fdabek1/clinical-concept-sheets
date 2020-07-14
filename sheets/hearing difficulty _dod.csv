@@ -1,0 +1,136 @@
+Classification,Code,Type,Description
+,3872,,Cochlear otosclerosis
+,38810,,"Noise effects on inner ear, unspecified"
+,38811,,Acoustic trauma (explosive) to ear
+,38812,,Noise-induced hearing loss
+,3882,,"Sudden hearing loss, unspecified"
+,38830,,"Tinnitus, unspecified"
+,38831,,Subjective tinnitus
+,38840,,"Abnormal auditory perception, unspecified"
+,38843,,Impairment of auditory discrimination
+,38844,,Auditory recruitment
+,38845,,Acquired auditory processing disorder
+,3885,,Disorders of acoustic nerve
+,38860,,"Otorrhea, unspecified"
+,38869,,Other otorrhea
+,3888,,Other disorders of ear
+,3889,,Unspecified disorder of ear
+,38900,,"Conductive hearing loss, unspecified"
+,38903,,"Conductive hearing loss, middle ear"
+,38904,,"Conductive hearing loss, inner ear"
+,38905,,"Conductive hearing loss, unilateral"
+,38906,,"Conductive hearing loss, bilateral"
+,38910,,"Sensorineural hearing loss, unspecified"
+,38911,,"Sensory hearing loss, bilateral"
+,38912,,"Neural hearing loss, bilateral"
+,38914,,Central hearing loss
+,38915,,"Sensorineural hearing loss, unilateral"
+,38916,,"Sensorineural hearing loss, asymmetrical"
+,38917,,"Sensory hearing loss, unilateral"
+,38918,,"Sensorineural hearing loss, bilateral"
+,3892,,
+,38921,,"Mixed hearing loss, unilateral"
+,38922,,"Mixed hearing loss, bilateral"
+,3898,,Other specified forms of hearing loss
+,3899,,Unspecified hearing loss
+,H802,,Cochlear otosclerosis
+,H8020,,"Cochlear otosclerosis, unspecified ear"
+,H8021,,"Cochlear otosclerosis, right ear"
+,H8022,,"Cochlear otosclerosis, left ear"
+,H8023,,"Cochlear otosclerosis, bilateral"
+,H833,,Noise effects on inner ear
+,H833X1,,Noise effects on right inner ear
+,H833X2,,Noise effects on left inner ear
+,H833X3,,"Noise effects on inner ear, bilateral"
+,H833X9,,"Noise effects on inner ear, unspecified ear"
+,H900,,"Conductive hearing loss, bilateral"
+,H9011,,"Condctv hear loss, uni, right ear, w unrestr hear cntra side"
+,H9012,,"Condctv hear loss, uni, left ear, w unrestr hear cntra side"
+,H902,,"Conductive hearing loss, unspecified"
+,H903,,"Sensorineural hearing loss, bilateral"
+,H9041,,"Snsrnrl hear loss, uni, right ear, w unrestr hear cntra side"
+,H9042,,"Snsrnrl hear loss, uni, left ear, w unrestr hear cntra side"
+,H905,,Unspecified sensorineural hearing loss
+,H906,,"Mixed conductive and sensorineural hearing loss, bilateral"
+,H9071,,"Mix cndct/snrl hear loss,uni,r ear,w unrestr hear cntra side"
+,H9072,,"Mix cndct/snrl hear loss,uni,l ear,w unrestr hear cntra side"
+,H908,,"Mixed conductive and sensorineural hearing loss, unspecified"
+,H90A11,,"Condctv hear loss, uni, r ear with rstrcd hear cntra side"
+,H90A12,,"Condctv hear loss, uni, left ear with rstrcd hear cntra side"
+,H90A21,,"Snsrnrl hear loss, uni, r ear, with rstrcd hear cntra side"
+,H90A22,,"Snsrnrl hear loss, uni, l ear, with rstrcd hear cntra side"
+,H90A31,,"Mix cndct/snrl hear loss,uni,r ear w rstrcd hear cntra side"
+,H90A32,,"Mix cndct/snrl hear loss,uni,l ear w rstrcd hear cntra side"
+,H9101,,"Ototoxic hearing loss, right ear"
+,H9102,,"Ototoxic hearing loss, left ear"
+,H9103,,"Ototoxic hearing loss, bilateral"
+,H9109,,"Ototoxic hearing loss, unspecified ear"
+,H912,,Sudden idiopathic hearing loss
+,H9120,,"Sudden idiopathic hearing loss, unspecified ear"
+,H9121,,"Sudden idiopathic hearing loss, right ear"
+,H9122,,"Sudden idiopathic hearing loss, left ear"
+,H9123,,"Sudden idiopathic hearing loss, bilateral"
+,H918,,Other specified hearing loss
+,H918X1,,"Other specified hearing loss, right ear"
+,H918X2,,"Other specified hearing loss, left ear"
+,H918X3,,"Other specified hearing loss, bilateral"
+,H918X9,,"Other specified hearing loss, unspecified ear"
+,H919,,Unspecified hearing loss
+,H9190,,"Unspecified hearing loss, unspecified ear"
+,H9191,,"Unspecified hearing loss, right ear"
+,H9192,,"Unspecified hearing loss, left ear"
+,H9193,,"Unspecified hearing loss, bilateral"
+,H921,,Otorrhea
+,H9210,,"Otorrhea, unspecified ear"
+,H9211,,"Otorrhea, right ear"
+,H9212,,"Otorrhea, left ear"
+,H9213,,"Otorrhea, bilateral"
+,H9220,,"Otorrhagia, unspecified ear"
+,H9221,,"Otorrhagia, right ear"
+,H9222,,"Otorrhagia, left ear"
+,H9223,,"Otorrhagia, bilateral"
+,H931,,Tinnitus
+,H9311,,"Tinnitus, right ear"
+,H9312,,"Tinnitus, left ear"
+,H9313,,"Tinnitus, bilateral"
+,H9319,,"Tinnitus, unspecified ear"
+,H932,,Other abnormal auditory perceptions
+,H93211,,"Auditory recruitment, right ear"
+,H93212,,"Auditory recruitment, left ear"
+,H93213,,"Auditory recruitment, bilateral"
+,H93219,,"Auditory recruitment, unspecified ear"
+,H93241,,"Temporary auditory threshold shift, right ear"
+,H93242,,"Temporary auditory threshold shift, left ear"
+,H93243,,"Temporary auditory threshold shift, bilateral"
+,H93249,,"Temporary auditory threshold shift, unspecified ear"
+,H93291,,"Other abnormal auditory perceptions, right ear"
+,H93292,,"Other abnormal auditory perceptions, left ear"
+,H93293,,"Other abnormal auditory perceptions, bilateral"
+,H93299,,"Other abnormal auditory perceptions, unspecified ear"
+,H933,,Disorders of acoustic nerve
+,H933X1,,Disorders of right acoustic nerve
+,H933X2,,Disorders of left acoustic nerve
+,H933X3,,Disorders of bilateral acoustic nerves
+,H933X9,,Disorders of unspecified acoustic nerve
+,H938,,Other specified disorders of ear
+,H938X1,,Other specified disorders of right ear
+,H938X2,,Other specified disorders of left ear
+,H938X3,,"Other specified disorders of ear, bilateral"
+,H938X9,,"Other specified disorders of ear, unspecified ear"
+,H939,,Unspecified disorder of ear
+,H9390,,"Unspecified disorder of ear, unspecified ear"
+,H9391,,Unspecified disorder of right ear
+,H9392,,Unspecified disorder of left ear
+,H9393,,"Unspecified disorder of ear, bilateral"
+,H93A1,,"Pulsatile tinnitus, right ear"
+,H93A2,,"Pulsatile tinnitus, left ear"
+,H93A3,,"Pulsatile tinnitus, bilateral"
+,H93A9,,"Pulsatile tinnitus, unspecified ear"
+,H9400,,"Acustc neuritis in infec/parastc dis classd elswhr, unsp ear"
+,H9401,,"Acustc neuritis in infec/parastc dis classd elswhr, r ear"
+,H9402,,"Acustc neuritis in infec/parastc dis classd elswhr, left ear"
+,H9403,,"Acustc neuritis in infec/parastc diseases classd elswhr, bi"
+,H9480,,"Oth disrd of ear in diseases classified elsewhere, unsp ear"
+,H9481,,Oth disrd of right ear in diseases classified elsewhere
+,H9482,,Oth disrd of left ear in diseases classified elsewhere
+,H9483,,"Oth disrd of ear in diseases classified elsewhere, bilateral"
